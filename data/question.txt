@@ -1,0 +1,81 @@
+Who was the coach of Argentina when they won the 1986 World Cup?	factoid
+What year was FIFA founded?	factoid
+Who scored England’s winning goal in the 1966 World Cup final?	factoid
+What is the name of Liverpool’s anthem?	factoid
+Which country won the first FIFA World Cup?	factoid
+Who was the top scorer of the 2018 World Cup?	factoid
+What team does Lionel Messi currently play for?	factoid
+Who was the first African player to win the Ballon d’Or?	factoid
+Which stadium hosts the North London Derby?	factoid
+Who scored the fastest goal in Premier League history?	factoid
+Who is the manager of Manchester City as of 2025?	factoid
+In which city is San Siro stadium located?	factoid
+What club did David Beckham join after Real Madrid?	factoid
+Which club won the UEFA Europa League in 2023?	factoid
+Who captained Italy to the Euro 2020 title?	factoid
+Which player is known as “El Pibe de Oro”?	factoid
+What was Diego Maradona’s jersey number?	factoid
+Who scored the winning penalty for Argentina in the 2022 World Cup final?	factoid
+Which country hosted the 2002 FIFA World Cup?	factoid
+What is the nickname of the Nigeria national football team?	factoid
+List the three clubs Cristiano Ronaldo played for before joining Juventus.	list
+Name all African countries that have hosted the Africa Cup of Nations.	list
+List the winners of the FIFA Women’s World Cup between 2011 and 2023.	list
+Name all Premier League clubs based in London.	list
+List the top five goal scorers in UEFA Champions League history.	list
+Name the three clubs Lionel Messi has played for in his professional career.	list
+List the countries that have won the UEFA Euro Championship more than once.	list
+Name all teams that have won the UEFA Champions League since 2015.	list
+List the major trophies won by Manchester City under Pep Guardiola.	list
+List all stadiums used during the 2022 FIFA World Cup.	list
+List all clubs that participated in the 2022–23 Premier League season.	list
+Name all players who have won the Ballon d’Or more than three times.	list
+List the top five goal scorers of the 2022 FIFA World Cup.	list
+Name all Italian clubs that have won the UEFA Champions League.	list
+List the captains of Real Madrid since 2010.	list
+Name the African countries that reached the FIFA World Cup quarterfinals.	list
+List all countries that have hosted the FIFA World Cup more than once.	list
+Name all clubs that Lionel Messi has scored hat-tricks against in the Champions League.	list
+List all the years in which Arsenal won the FA cup under Arsene Wenger.	list
+List the awards Lionel Messi won in the 2022 FIFA World Cup.	list
+List the steps required to qualify for the UEFA Champions League group stage.	instruction
+Describe the steps a player must follow to take a penalty kick according to FIFA Laws of the Game.	instruction
+Explain the procedure for deciding a winner in a knockout match that ends in a draw after regular time.	instruction
+Outline the process of how a team qualifies for the FIFA World Cup.	instruction
+Describe the sequence of events during a VAR (Video Assistant Referee) review.	instruction
+Explain the procedure followed to replace an injured player during a match.	instruction
+Detail the steps involved in taking a corner kick.	instruction
+Explain how a team is promoted from the EFL Championship to the Premier League.	instruction
+Describe the steps referees follow before starting a professional football match.	instruction
+Explain how group stage standings are determined in the UEFA Champions League.	instruction
+Describe the procedure for conducting a penalty shootout.	instruction
+Explain how FIFA ranks national teams in its world ranking system.	instruction
+Detail the process for awarding and executing a direct free kick.	instruction
+Describe the steps involved in signing a new player during the transfer window.	instruction
+Explain how the Ballon d’Or winner is selected.	instruction
+Outline the procedure used to check for an offside decision during a match.	instruction
+Describe how a referee determines whether a foul is punishable by a yellow or red card.	instruction
+Explain how the UEFA Champions League draw is conducted each season.	instruction
+Describe the process of appealing a red card in professional football.	instruction
+Explain how the away goals rule was applied in UEFA competitions before it was abolished.	instruction
+Outline the sequence of events during a player substitution in an official FIFA match.	instruction
+Which club did Erling Haaland play for before joining Manchester City? A) Dortmund B) Salzburg C) Molde D) Leipzig	multiple choice
+In what year did France win their first FIFA World Cup? A) 1994 B) 1998 C) 2002 D) 2006	multiple choice
+Who was the captain of Spain when they won Euro 2012? A) Xavi B) Ramos C) Casillas D) Iniesta	multiple choice
+Which country hosted the 2010 FIFA World Cup? A) Brazil B) Germany C) South Africa D) Russia	multiple choice
+Which player scored the winning goal in the 2014 FIFA World Cup final? A) Messi B) Gotze C) Kroos D) Müller	multiple choice
+Which English club has the most Premier League titles? A) Chelsea B) Arsenal C) Manchester United D) Liverpool	multiple choice
+Who won the 2021 Ballon d’Or? A) Messi B) Lewandowski C) Benzema D) Mbappé	multiple choice
+Which nation won the Copa América 2021? A) Brazil B) Argentina C) Uruguay D) Chile	multiple choice
+Which Italian club is nicknamed “The Old Lady”? A) AC Milan B) Roma C) Inter Milan D) Juventus	multiple choice
+What is the official stadium of Real Madrid? A) Camp Nou B) Bernabéu C) Mestalla D) Wanda Metropolitano	multiple choice
+Which African team reached the World Cup semifinals in 2022? A) Senegal B) Ghana C) Morocco D) Nigeria	multiple choice
+Who managed Chelsea when they won the Champions League in 2021? A) Lampard B) Tuchel C) Conte D) Mourinho	multiple choice
+Which country has won the most Copa América titles? A) Argentina B) Brazil C) Uruguay D) Chile	multiple choice
+Who is the all-time top scorer of the UEFA Champions League? A) Messi B) Ronaldo C) Lewandowski D) Benzema	multiple choice
+When did Barcelona complete their historic treble under Pep Guardiola? A) 2008–09 B) 2010–11 C) 2014–15 D) 2018–19	multiple choice
+What year did Arsenal complete their “Invincibles” Premier League season? A) 2002–03 B) 2003–04 C) 2004–05 D) 2001–02	multiple choice
+Which country hosted Euro 2016? A) Germany B) France C) Italy D) Spain	multiple choice
+Which player has the most appearances for the English national team? A) Rooney B) Shilton C) Beckham D) Kane	multiple choice
+Which player scored a record 13 goals in a single World Cup tournament? A) Just Fontaine B) Pelé C) Müller D) Klose	multiple choice
+Which club did Cristiano Ronaldo join after leaving Manchester United in 2022? A) PSG B) Al Nassr C) Sporting CP D) Real Madrid	multiple choice

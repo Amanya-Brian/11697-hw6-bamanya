@@ -22,7 +22,7 @@ Sporting CP	Manchester United	Real Madrid
 Sudan	Egypt	Ethiopia	Ghana	Nigeria	South Africa	Cameroon	
 Japan	USA	USA	Spain				
 Arsenal	Chelsea	Tottenham Hotspur	West Ham United	Crystal Palace	Fulham	Brentford	
-Cristiano Ronaldo	Lionel Messi	Robert Lewandowski	Karim Benzema	Thomas Müller			
+Cristiano Ronaldo	Lionel Messi	Robert Lewandowski	Karim Benzema	Thomas Muller			
 Barcelona	Paris Saint-Germain	Inter Miami					
 Germany	Spain	France	Italy				
 Barcelona	Real Madrid	Bayern Munich					
@@ -30,7 +30,7 @@ Real Madrid	Barcelona	Bayern Munich	Liverpool
 Lusail Stadium	Al Bayt Stadium	Ahmad Bin Ali Stadium	Al Janoub Stadium	Al Thumama Stadium	Education City Stadium	Khalifa International Stadium	Stadium 974
 Manchester City	Arsenal	Newcastle United	Manchester United	Chelsea	Tottenham Hotspur	Aston Villa	etc.
 Lionel Messi	Cristiano Ronaldo	Michel Platini	Johan Cruyff	Marco van Basten			
-Kylian Mbappé	Lionel Messi	Julián Álvarez	Olivier Giroud	Gonçalo Ramos			
+Kylian Mbappe	Lionel Messi	Julian Alvarez	Olivier Giroud	Goncalo Ramos			
 AC Milan	Inter Milan	Juventus					
 Sergio Ramos	Marcelo	Karim Benzema					
 Cameroon	Senegal	Ghana	Morocco				
@@ -68,13 +68,13 @@ Manchester United
 Messi							
 Argentina							
 Juventus							
-Bernabéu							
+Bernabeu							
 Morocco							
 Tuchel							
 Uruguay							
 Ronaldo							
-2008–09							
-2003–04							
+2008-09							
+2003-04							
 France							
 Shilton							
 Just Fontaine							

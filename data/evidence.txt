@@ -74,7 +74,7 @@ https://en.wikipedia.org/wiki/Thomas_Tuchel	doc73.txt
 https://en.wikipedia.org/wiki/Copa_Am%C3%A9rica	doc74.txt
 https://en.wikipedia.org/wiki/Cristiano_Ronaldo	doc75.txt
 https://en.wikipedia.org/wiki/FC_Barcelona	doc76.txt
-https://en.wikipedia.org/wiki/Arsenal_F.C._season_2003–04	doc77.txt
+https://en.wikipedia.org/wiki/Arsenal_F.C._season_2003ï¿½04	doc77.txt
 https://en.wikipedia.org/wiki/UEFA_Euro_2016	doc78.txt
 https://en.wikipedia.org/wiki/Peter_Shilton	doc79.txt
 https://en.wikipedia.org/wiki/Just_Fontaine	doc80.txt

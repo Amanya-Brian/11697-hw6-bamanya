@@ -1,78 +1,39 @@
-"""
-Llama Generator - Open-weight generator using Llama models
-Uses Hugging Face transformers library
-"""
-
 from typing import Tuple, Dict
-import torch
 
 
 class LlamaGenerator:
-    """Generator using open-weight Llama models"""
+    """Generator using Llama via Ollama"""
     
-    def __init__(
-        self,
-        model_name: str = "meta-llama/Llama-3.2-3B-Instruct",
-        device: str = None
-    ):
+    def __init__(self, model: str = "llama3"):
         """
-        Initialize Llama generator
+        Initialize Llama generator using Ollama
         
         Args:
-            model_name: Hugging Face model name
-            device: Device to run model on ('cuda' or 'cpu')
+            model: Ollama model name (e.g., "llama3", "llama3.1", "llama2")
         """
-        self.model_name = model_name
+        self.model = model
         
-        # device
-        if device is None:
-            self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-        else:
-            self.device = device
+        print(f"Initializing Ollama with model: {model}...")
         
-        print(f"Loading Llama model on {self.device}...")
-        
-        # model and tokenizer
+        # Initialize Ollama
         try:
-            from transformers import AutoTokenizer, AutoModelForCausalLM
+            from langchain_community.llms import Ollama
             
-            self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-            self.model = AutoModelForCausalLM.from_pretrained(
-                model_name,
-                torch_dtype=torch.float16 if self.device == 'cuda' else torch.float32,
-                device_map='auto' if self.device == 'cuda' else None
-            )
+            self.llm = Ollama(model=model)
             
-            if self.device == 'cpu':
-                self.model = self.model.to(self.device)
-            
-            if self.tokenizer.pad_token is None:
-                self.tokenizer.pad_token = self.tokenizer.eos_token
-            
-            print(f"Model loaded successfully on {self.device}")
+            # Test the connection
+            try:
+                test_response = self.llm.invoke("Hi")
+                print(f"Ollama connection successful! Model: {model}")
+            except Exception as e:
+                print(f"Warning: Ollama test failed: {e}")
+                print("Make sure Ollama is running: ollama serve")
+                raise
             
         except ImportError:
             raise ImportError(
-                "Transformers library not installed. "
-                "Install with: pip install transformers torch"
+                "LangChain not installed. Install with: pip install langchain langchain-community"
             )
-        except Exception as e:
-            print(f"Error loading model: {e}")
-            print("Falling back to smaller model...")
-            
-            try:
-                self.model_name = "meta-llama/Llama-3.2-1B-Instruct"
-                self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-                self.model = AutoModelForCausalLM.from_pretrained(
-                    self.model_name,
-                    torch_dtype=torch.float16 if self.device == 'cuda' else torch.float32,
-                    device_map='auto' if self.device == 'cuda' else None
-                )
-                if self.device == 'cpu':
-                    self.model = self.model.to(self.device)
-                print(f"Loaded fallback model: {self.model_name}")
-            except:
-                raise RuntimeError("Could not load Llama model")
     
     def _build_prompt(
         self,
@@ -91,7 +52,7 @@ class LlamaGenerator:
         Returns:
             Formatted prompt
         """
-        # format instructions
+        # Get format instructions
         format_instructions = self._get_format_instructions(question_type)
         
         if context:
@@ -106,7 +67,7 @@ Question: {question}
 
 Answer:"""
         else:
-            prompt = f"""You are a knowledgeable football expert. Answer the question.
+            prompt = f"""You are a knowledgeable football expert. Answer the question using your knowledge.
 
 Question: {question}
 
@@ -129,19 +90,19 @@ Answer:"""
         question_type = question_type.lower()
         
         if question_type == 'factoid':
-            return "Give a brief, direct answer (a few words or short phrase only)."
+            return "Give a brief, direct answer (a few words or short phrase only). Do not add explanations."
         
         elif question_type == 'list':
-            return "List your answer with numbered items."
+            return "List your answer with numbered items (1. 2. 3. etc.)."
         
         elif question_type == 'instruction' or 'instruction' in question_type:
-            return "Provide numbered step-by-step instructions."
+            return "Provide numbered step-by-step instructions (1. 2. 3. etc.)."
         
         elif 'multiple choice' in question_type or question_type == 'multiple choice':
-            return "Answer with only the letter (A, B, C, or D)."
+            return "Answer with ONLY the letter (A, B, C, or D). Nothing else."
         
         else:
-            return "Provide a clear answer."
+            return "Provide a clear, concise answer."
     
     def generate(
         self,
@@ -160,47 +121,26 @@ Answer:"""
         Returns:
             Tuple of (answer, metadata)
         """
-        # prompt
+        # Build prompt
         prompt = self._build_prompt(question, question_type, context)
         
-        # tokenize
-        inputs = self.tokenizer(
-            prompt,
-            return_tensors="pt",
-            truncation=True,
-            max_length=2048
-        ).to(self.device)
-        
-        # generate
+        # Generate using Ollama
         try:
-            with torch.no_grad():
-                outputs = self.model.generate(
-                    **inputs,
-                    max_new_tokens=300,
-                    temperature=0.3,
-                    do_sample=True,
-                    top_p=0.9,
-                    pad_token_id=self.tokenizer.pad_token_id,
-                    eos_token_id=self.tokenizer.eos_token_id
-                )
+            answer = self.llm.invoke(prompt)
             
-            # decode
-            full_output = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-            
-            answer = full_output[len(prompt):].strip()
-            
+            # Post-process answer
             answer = self._post_process_answer(answer, question_type)
             
+            # Metadata
             metadata = {
-                'model': self.model_name,
-                'device': self.device,
-                'tokens_generated': len(outputs[0]) - len(inputs['input_ids'][0])
+                'model': f'ollama/{self.model}',
+                'backend': 'ollama'
             }
             
             return answer, metadata
         
         except Exception as e:
-            print(f"Error generating answer: {e}")
+            print(f"Error generating answer with Ollama: {e}")
             return "", {'error': str(e)}
     
     def _post_process_answer(self, answer: str, question_type: str) -> str:
@@ -214,23 +154,36 @@ Answer:"""
         Returns:
             Cleaned answer
         """
+        # Remove common prefixes
         prefixes = [
             "Answer:",
             "The answer is:",
             "Response:",
+            "Here is the answer:",
+            "Here's the answer:",
         ]
         
         for prefix in prefixes:
             if answer.lower().startswith(prefix.lower()):
                 answer = answer[len(prefix):].strip()
         
+        # For multiple choice, extract just the letter
         if 'multiple choice' in question_type.lower():
             import re
-            match = re.search(r'\b([A-D])\b', answer)
+            # Look for pattern like "A)" or "A." or just "A" at the start
+            match = re.search(r'^\s*([A-D])\b', answer)
             if match:
                 answer = match.group(1)
+            else:
+                # Try to find it anywhere in the first line
+                first_line = answer.split('\n')[0]
+                match = re.search(r'\b([A-D])\b', first_line)
+                if match:
+                    answer = match.group(1)
         
+        # Limit length for factoid questions
         if question_type.lower() == 'factoid':
+            # Take only first sentence or first 50 words
             sentences = answer.split('.')
             if sentences:
                 answer = sentences[0].strip()

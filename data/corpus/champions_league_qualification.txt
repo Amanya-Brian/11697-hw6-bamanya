@@ -1,0 +1,18 @@
+UEFA Champions League Qualification Process
+===========================================
+
+Teams qualify for the UEFA Champions League group stage through several routes:
+
+1. Direct Qualification: Top teams from Europe's strongest leagues receive automatic group stage places. The top four teams from England, Spain, Germany, and Italy qualify directly. France's top two also qualify directly.
+
+2. Domestic Champions Path: Champions from smaller European leagues must go through qualifying rounds. These teams play in several qualifying rounds (first qualifying round, second qualifying round, third qualifying round) before reaching the playoff round.
+
+3. League Path: Teams that finish in qualifying positions but aren't champions (typically 3rd or 4th place) enter through the league path, starting from the third qualifying round.
+
+4. Playoff Round: The final step before the group stage, where teams play two-legged ties to determine the last spots in the 32-team (now 36-team) group stage.
+
+5. UEFA Europa League Winners: The winner of the previous season's Europa League automatically qualifies for the Champions League group stage.
+
+6. UEFA Champions League Title Holders: The defending champions automatically qualify for the group stage.
+
+The qualification process typically runs from June to August, with the group stage starting in September. The number of teams from each country depends on UEFA's coefficient system, which ranks leagues based on their clubs' European performance over the previous five seasons.

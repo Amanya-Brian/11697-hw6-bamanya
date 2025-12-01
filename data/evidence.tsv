@@ -1,81 +1,100 @@
-https://en.wikipedia.org/wiki/Carlos_Bilardo	doc1.txt
-https://en.wikipedia.org/wiki/FIFA	doc2.txt
-https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Final	doc3.txt
-https://en.wikipedia.org/wiki/You%27ll_Never_Walk_Alone	doc4.txt
-https://en.wikipedia.org/wiki/1930_FIFA_World_Cup	doc5.txt
-https://en.wikipedia.org/wiki/Harry_Kane	doc6.txt
-https://en.wikipedia.org/wiki/Lionel_Messi	doc7.txt
-https://en.wikipedia.org/wiki/George_Weah	doc8.txt
-https://en.wikipedia.org/wiki/North_London_derby	doc9.txt
-https://en.wikipedia.org/wiki/Shane_Long	doc10.txt
-https://en.wikipedia.org/wiki/Pep_Guardiola	doc11.txt
-https://en.wikipedia.org/wiki/San_Siro	doc12.txt
-https://en.wikipedia.org/wiki/David_Beckham	doc13.txt
-https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Europa_League	doc14.txt
-https://en.wikipedia.org/wiki/Giorgio_Chiellini	doc15.txt
-https://en.wikipedia.org/wiki/Diego_Maradona	doc16.txt
-https://en.wikipedia.org/wiki/Diego_Maradona	doc17.txt
-https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Final	doc18.txt
-https://en.wikipedia.org/wiki/2002_FIFA_World_Cup	doc19.txt
-https://en.wikipedia.org/wiki/Nigeria_national_football_team	doc20.txt
-https://en.wikipedia.org/wiki/Cristiano_Ronaldo	doc21.txt
-https://en.wikipedia.org/wiki/Africa_Cup_of_Nations	doc22.txt
-https://en.wikipedia.org/wiki/FIFA_Women%27s_World_Cup	doc23.txt
-https://en.wikipedia.org/wiki/Premier_League_clubs	doc24.txt
-https://en.wikipedia.org/wiki/UEFA_Champions_League_records_and_statistics	doc25.txt
-https://en.wikipedia.org/wiki/Lionel_Messi	doc26.txt
-https://en.wikipedia.org/wiki/UEFA_European_Championship	doc27.txt
-https://en.wikipedia.org/wiki/UEFA_Champions_League	doc28.txt
-https://en.wikipedia.org/wiki/Manchester_City_F.C._under_Pep_Guardiola	doc29.txt
-https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_stadiums	doc30.txt
-https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League	doc31.txt
-https://en.wikipedia.org/wiki/Ballon_d%27Or	doc32.txt
-https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_statistics	doc33.txt
-https://en.wikipedia.org/wiki/Italian_football_clubs_in_international_competitions	doc34.txt
-https://en.wikipedia.org/wiki/List_of_Real_Madrid_CF_captains	doc35.txt
-https://en.wikipedia.org/wiki/Africa_at_the_FIFA_World_Cup	doc36.txt
-https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts	doc37.txt
-https://en.wikipedia.org/wiki/Lionel_Messi_hat-tricks	doc38.txt
-https://en.wikipedia.org/wiki/List_of_FA_Cup_finals	doc39.txt
-https://en.wikipedia.org/wiki/Lionel_Messi	doc40.txt
-https://en.wikipedia.org/wiki/UEFA_Champions_League_qualifying_phase_and_play-off_round	doc41.txt
-https://en.wikipedia.org/wiki/Penalty_kick_(association_football)	doc42.txt
-https://en.wikipedia.org/wiki/Extra_time_and_penalty_shoot-out	doc43.txt
-https://en.wikipedia.org/wiki/FIFA_World_Cup_qualification	doc44.txt
-https://en.wikipedia.org/wiki/Video_assistant_referee	doc45.txt
-https://en.wikipedia.org/wiki/Substitute_(association_football)	doc46.txt
-https://en.wikipedia.org/wiki/Corner_kick	doc47.txt
-https://en.wikipedia.org/wiki/EFL_Championship_play-offs	doc48.txt
-https://en.wikipedia.org/wiki/Referee_(association_football)	doc49.txt
-https://en.wikipedia.org/wiki/UEFA_Champions_League_group_stage	doc50.txt
-https://en.wikipedia.org/wiki/Penalty_shoot-out_(association_football)	doc51.txt
-https://en.wikipedia.org/wiki/FIFA_World_Ranking	doc52.txt
-https://en.wikipedia.org/wiki/Free_kick	doc53.txt
-https://en.wikipedia.org/wiki/Transfer_(association_football)	doc54.txt
-https://en.wikipedia.org/wiki/Ballon_d%27Or	doc55.txt
-https://en.wikipedia.org/wiki/Offside_(association_football)	doc56.txt
-https://en.wikipedia.org/wiki/Fouls_and_misconduct_(association_football)	doc57.txt
-https://en.wikipedia.org/wiki/UEFA_Champions_League_draw	doc58.txt
-https://en.wikipedia.org/wiki/Red_card_(association_football)	doc59.txt
-https://en.wikipedia.org/wiki/Away_goals_rule	doc60.txt
-https://en.wikipedia.org/wiki/Substitute_(association_football)	doc61.txt
-https://en.wikipedia.org/wiki/Erling_Haaland	doc62.txt
-https://en.wikipedia.org/wiki/France_national_football_team	doc63.txt
-https://en.wikipedia.org/wiki/Iker_Casillas	doc64.txt
-https://en.wikipedia.org/wiki/2010_FIFA_World_Cup	doc65.txt
-https://en.wikipedia.org/wiki/Mario_G%C3%B6tze	doc66.txt
-https://en.wikipedia.org/wiki/Manchester_United_F.C.	doc67.txt
-https://en.wikipedia.org/wiki/Lionel_Messi	doc68.txt
-https://en.wikipedia.org/wiki/Argentina_national_football_team	doc69.txt
-https://en.wikipedia.org/wiki/Juventus_FC	doc70.txt
-https://en.wikipedia.org/wiki/Santiago_Bernab%C3%A9u_Stadium	doc71.txt
-https://en.wikipedia.org/wiki/Morocco_national_football_team	doc72.txt
-https://en.wikipedia.org/wiki/Thomas_Tuchel	doc73.txt
-https://en.wikipedia.org/wiki/Copa_Am%C3%A9rica	doc74.txt
-https://en.wikipedia.org/wiki/Cristiano_Ronaldo	doc75.txt
-https://en.wikipedia.org/wiki/FC_Barcelona	doc76.txt
-https://en.wikipedia.org/wiki/Arsenal_F.C._season_2003�04	doc77.txt
-https://en.wikipedia.org/wiki/UEFA_Euro_2016	doc78.txt
-https://en.wikipedia.org/wiki/Peter_Shilton	doc79.txt
-https://en.wikipedia.org/wiki/Just_Fontaine	doc80.txt
-https://en.wikipedia.org/wiki/Cristiano_Ronaldo	doc81.txt
+Generated corpus	world_cup_1986.txt	Generated corpus	fifa_history.txt
+Generated corpus	fifa_history.txt	Generated corpus	england_1966_world_cup.txt
+Generated corpus	england_1966_world_cup.txt	Generated corpus	liverpool_anthem.txt
+Generated corpus	liverpool_anthem.txt	Generated corpus	first_world_cup_1930.txt
+Generated corpus	first_world_cup_1930.txt	Generated corpus	2018_world_cup_golden_boot.txt
+Generated corpus	2018_world_cup_golden_boot.txt	Generated corpus	messi_current_club.txt
+Generated corpus	messi_current_club.txt	Generated corpus	george_weah_ballon_dor.txt
+Generated corpus	george_weah_ballon_dor.txt	Generated corpus	north_london_derby.txt
+Generated corpus	north_london_derby.txt	Generated corpus	fastest_premier_league_goal.txt
+Generated corpus	fastest_premier_league_goal.txt	Generated corpus	pep_guardiola_man_city.txt
+Generated corpus	pep_guardiola_man_city.txt	Generated corpus	san_siro_stadium.txt
+Generated corpus	san_siro_stadium.txt	Generated corpus	beckham_career.txt
+Generated corpus	beckham_career.txt	Generated corpus	sevilla_europa_league_2023.txt
+Generated corpus	sevilla_europa_league_2023.txt	Generated corpus	italy_euro_2020.txt
+Generated corpus	italy_euro_2020.txt	Generated corpus	diego_maradona_el_pibe_de_oro.txt
+Generated corpus	diego_maradona_el_pibe_de_oro.txt	Generated corpus	maradona_jersey_number.txt
+Generated corpus	maradona_jersey_number.txt	Generated corpus	argentina_2022_world_cup_final.txt
+Generated corpus	argentina_2022_world_cup_final.txt	Generated corpus	2002_world_cup_hosts.txt
+Generated corpus	2002_world_cup_hosts.txt	Generated corpus	nigeria_super_eagles.txt
+Generated corpus	nigeria_super_eagles.txt	Generated corpus	cristiano_ronaldo_clubs.txt
+Generated corpus	cristiano_ronaldo_clubs.txt	Generated corpus	african_nations_cup_hosts.txt
+Generated corpus	african_nations_cup_hosts.txt	Generated corpus	womens_world_cup_winners.txt
+Generated corpus	womens_world_cup_winners.txt	Generated corpus	london_premier_league_clubs.txt
+Generated corpus	london_premier_league_clubs.txt	Generated corpus	champions_league_top_scorers.txt
+Generated corpus	champions_league_top_scorers.txt	Generated corpus	messi_club_career.txt
+Generated corpus	messi_club_career.txt	Generated corpus	euro_championship_multiple_winners.txt
+Generated corpus	euro_championship_multiple_winners.txt	Generated corpus	champions_league_winners_2015_2023.txt
+Generated corpus	champions_league_winners_2015_2023.txt	Generated corpus	manchester_city_trophies_guardiola.txt
+Generated corpus	manchester_city_trophies_guardiola.txt	Generated corpus	2022_world_cup_stadiums.txt
+Generated corpus	2022_world_cup_stadiums.txt	Generated corpus	premier_league_2022_23_clubs.txt
+Generated corpus	premier_league_2022_23_clubs.txt	Generated corpus	ballon_dor_multiple_winners.txt
+Generated corpus	ballon_dor_multiple_winners.txt	Generated corpus	2022_world_cup_top_scorers.txt
+Generated corpus	2022_world_cup_top_scorers.txt	Generated corpus	italian_champions_league_winners.txt
+Generated corpus	italian_champions_league_winners.txt	Generated corpus	real_madrid_captains_2010.txt
+Generated corpus	real_madrid_captains_2010.txt	Generated corpus	african_world_cup_quarterfinals.txt
+Generated corpus	african_world_cup_quarterfinals.txt	Generated corpus	world_cup_multiple_hosts.txt
+Generated corpus	world_cup_multiple_hosts.txt	Generated corpus	messi_champions_league_hattricks.txt
+Generated corpus	messi_champions_league_hattricks.txt	Generated corpus	arsenal_fa_cup_wenger.txt
+Generated corpus	arsenal_fa_cup_wenger.txt	Generated corpus	messi_2022_world_cup_awards.txt
+Generated corpus	messi_2022_world_cup_awards.txt	Generated corpus	champions_league_qualification.txt
+Generated corpus	champions_league_qualification.txt	Generated corpus	penalty_kick_fifa_laws.txt
+Generated corpus	penalty_kick_fifa_laws.txt	Generated corpus	knockout_match_extra_time_penalties.txt
+Generated corpus	knockout_match_extra_time_penalties.txt	Generated corpus	world_cup_qualification_process.txt
+Generated corpus	world_cup_qualification_process.txt	Generated corpus	var_video_assistant_referee.txt
+Generated corpus	var_video_assistant_referee.txt	Generated corpus	player_substitution_procedure.txt
+Generated corpus	player_substitution_procedure.txt	Generated corpus	erling_haaland_transfer.txt
+Generated corpus	erling_haaland_transfer.txt	Generated corpus	france_1998_world_cup.txt
+Generated corpus	france_1998_world_cup.txt	Generated corpus	spain_euro_2012_captain.txt
+Generated corpus	spain_euro_2012_captain.txt	Generated corpus	south_africa_2010_world_cup.txt
+Generated corpus	south_africa_2010_world_cup.txt	Generated corpus	mario_gotze_2014_world_cup.txt
+Generated corpus	mario_gotze_2014_world_cup.txt	Generated corpus	world_cup_1986.txt
+Generated corpus	world_cup_1986.txt	Generated corpus	fifa_history.txt
+Generated corpus	fifa_history.txt	Generated corpus	england_1966_world_cup.txt
+Generated corpus	england_1966_world_cup.txt	Generated corpus	liverpool_anthem.txt
+Generated corpus	liverpool_anthem.txt	Generated corpus	first_world_cup_1930.txt
+Generated corpus	first_world_cup_1930.txt	Generated corpus	2018_world_cup_golden_boot.txt
+Generated corpus	2018_world_cup_golden_boot.txt	Generated corpus	messi_current_club.txt
+Generated corpus	messi_current_club.txt	Generated corpus	george_weah_ballon_dor.txt
+Generated corpus	george_weah_ballon_dor.txt	Generated corpus	north_london_derby.txt
+Generated corpus	north_london_derby.txt	Generated corpus	fastest_premier_league_goal.txt
+Generated corpus	fastest_premier_league_goal.txt	Generated corpus	pep_guardiola_man_city.txt
+Generated corpus	pep_guardiola_man_city.txt	Generated corpus	san_siro_stadium.txt
+Generated corpus	san_siro_stadium.txt	Generated corpus	beckham_career.txt
+Generated corpus	beckham_career.txt	Generated corpus	sevilla_europa_league_2023.txt
+Generated corpus	sevilla_europa_league_2023.txt	Generated corpus	italy_euro_2020.txt
+Generated corpus	italy_euro_2020.txt	Generated corpus	diego_maradona_el_pibe_de_oro.txt
+Generated corpus	diego_maradona_el_pibe_de_oro.txt	Generated corpus	maradona_jersey_number.txt
+Generated corpus	maradona_jersey_number.txt	Generated corpus	argentina_2022_world_cup_final.txt
+Generated corpus	argentina_2022_world_cup_final.txt	Generated corpus	2002_world_cup_hosts.txt
+Generated corpus	2002_world_cup_hosts.txt	Generated corpus	nigeria_super_eagles.txt
+Generated corpus	nigeria_super_eagles.txt	Generated corpus	cristiano_ronaldo_clubs.txt
+Generated corpus	cristiano_ronaldo_clubs.txt	Generated corpus	african_nations_cup_hosts.txt
+Generated corpus	african_nations_cup_hosts.txt	Generated corpus	womens_world_cup_winners.txt
+Generated corpus	womens_world_cup_winners.txt	Generated corpus	london_premier_league_clubs.txt
+Generated corpus	london_premier_league_clubs.txt	Generated corpus	champions_league_top_scorers.txt
+Generated corpus	champions_league_top_scorers.txt	Generated corpus	messi_club_career.txt
+Generated corpus	messi_club_career.txt	Generated corpus	euro_championship_multiple_winners.txt
+Generated corpus	euro_championship_multiple_winners.txt	Generated corpus	champions_league_winners_2015_2023.txt
+Generated corpus	champions_league_winners_2015_2023.txt	Generated corpus	manchester_city_trophies_guardiola.txt
+Generated corpus	manchester_city_trophies_guardiola.txt	Generated corpus	2022_world_cup_stadiums.txt
+Generated corpus	2022_world_cup_stadiums.txt	Generated corpus	premier_league_2022_23_clubs.txt
+Generated corpus	premier_league_2022_23_clubs.txt	Generated corpus	ballon_dor_multiple_winners.txt
+Generated corpus	ballon_dor_multiple_winners.txt	Generated corpus	2022_world_cup_top_scorers.txt
+Generated corpus	2022_world_cup_top_scorers.txt	Generated corpus	italian_champions_league_winners.txt
+Generated corpus	italian_champions_league_winners.txt	Generated corpus	real_madrid_captains_2010.txt
+Generated corpus	real_madrid_captains_2010.txt	Generated corpus	african_world_cup_quarterfinals.txt
+Generated corpus	african_world_cup_quarterfinals.txt	Generated corpus	world_cup_multiple_hosts.txt
+Generated corpus	world_cup_multiple_hosts.txt	Generated corpus	messi_champions_league_hattricks.txt
+Generated corpus	messi_champions_league_hattricks.txt	Generated corpus	arsenal_fa_cup_wenger.txt
+Generated corpus	arsenal_fa_cup_wenger.txt	Generated corpus	messi_2022_world_cup_awards.txt
+Generated corpus	messi_2022_world_cup_awards.txt	Generated corpus	champions_league_qualification.txt
+Generated corpus	champions_league_qualification.txt	Generated corpus	penalty_kick_fifa_laws.txt
+Generated corpus	penalty_kick_fifa_laws.txt	Generated corpus	knockout_match_extra_time_penalties.txt
+Generated corpus	knockout_match_extra_time_penalties.txt	Generated corpus	world_cup_qualification_process.txt
+Generated corpus	world_cup_qualification_process.txt	Generated corpus	var_video_assistant_referee.txt
+Generated corpus	var_video_assistant_referee.txt	Generated corpus	player_substitution_procedure.txt
+Generated corpus	player_substitution_procedure.txt	Generated corpus	erling_haaland_transfer.txt
+Generated corpus	erling_haaland_transfer.txt	Generated corpus	france_1998_world_cup.txt
+Generated corpus	france_1998_world_cup.txt	Generated corpus	spain_euro_2012_captain.txt
+Generated corpus	spain_euro_2012_captain.txt	Generated corpus	south_africa_2010_world_cup.txt

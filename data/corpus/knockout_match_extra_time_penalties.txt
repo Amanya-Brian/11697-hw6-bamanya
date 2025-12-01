@@ -1,0 +1,20 @@
+Deciding Winners in Knockout Matches
+====================================
+
+When a knockout match in major tournaments ends in a draw after 90 minutes of regular time, FIFA rules specify the following procedure:
+
+Extra Time:
+- Two 15-minute periods are played (30 minutes total)
+- There is a short break (typically 5 minutes) before extra time
+- Teams change ends between the two extra time periods
+- If the score remains level after extra time, the match goes to a penalty shootout
+
+Penalty Shootout Procedure:
+- Each team takes five penalties alternately
+- If the scores are level after five penalties each, the shootout continues on a sudden-death basis
+- The same players who were on the field at the end of extra time are eligible to take penalties
+- Each team's penalties must be taken by different players until all eligible players have taken one
+
+The team that scores more goals during the penalty shootout wins the match. This procedure is used in knockout stages of the World Cup, European Championships, Champions League, and other major tournaments.
+
+Note: The away goals rule, which previously gave an advantage to teams scoring away from home in two-legged ties, was abolished by UEFA in 2021. Now, tied two-legged matches go directly to extra time and penalties if needed.

@@ -1,0 +1,23 @@
+FIFA Laws - Taking a Penalty Kick
+=================================
+
+According to FIFA Laws of the Game, a penalty kick must follow specific procedures:
+
+Ball and Player Placement:
+- The ball must be placed on the penalty mark (12 yards from goal)
+- The player taking the penalty must be clearly identified
+- The defending goalkeeper must remain on the goal line, facing the kicker, between the goalposts, until the ball is kicked
+- All other players must be outside the penalty area and arc, at least 10 yards from the penalty mark
+
+Procedure:
+- The referee signals when the kick may be taken
+- The kicker must kick the ball forward
+- The kicker cannot touch the ball again until another player has touched it
+- The goalkeeper must not move off the goal line until the ball is kicked (though may move along the line)
+
+Outcome:
+- The kick is complete when the ball stops moving, goes out of play, or the referee stops play for any offense
+- If the goalkeeper commits an offense and the kick is missed or saved, the kick is retaken
+- If the kicker commits an offense, the kick is disallowed and an indirect free kick is awarded to the defending team
+
+VAR technology is now used to check for goalkeeper and kicker infringements. Goalkeepers must have at least part of one foot on or in line with the goal line when the kick is taken.

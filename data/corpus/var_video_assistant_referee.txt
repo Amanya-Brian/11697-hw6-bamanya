@@ -1,0 +1,23 @@
+VAR - Video Assistant Referee System
+====================================
+
+VAR (Video Assistant Referee) was introduced to football to help referees make more accurate decisions during matches. The system reviews specific incidents:
+
+Reviewable Incidents:
+1. Goals - checking for offenses in the buildup
+2. Penalty decisions - reviewing foul calls or handballs
+3. Direct red card incidents - violent conduct or serious foul play
+4. Mistaken identity - ensuring the correct player is cautioned or sent off
+
+VAR Review Process:
+- The VAR team watches all game action from a video operation room
+- Multiple camera angles are available for review
+- VAR checks incidents and communicates with the referee via headset
+- For clear and obvious errors, the VAR recommends an on-field review
+- The referee can view the incident on a pitchside monitor
+- After review, the referee makes the final decision
+- The referee signals VAR review by making a TV screen gesture
+
+The review must be completed quickly to minimize game delays. VAR operates in the Premier League, Champions League, World Cup, and many other top competitions worldwide.
+
+VAR has proven controversial, with debates about its impact on game flow, but has successfully corrected numerous clear errors that would have otherwise stood.

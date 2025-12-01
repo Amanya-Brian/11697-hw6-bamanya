@@ -1,0 +1,74 @@
+================================================================================
+RAG SYSTEM EVALUATION SUMMARY
+================================================================================
+
+Total configurations evaluated: 5
+
+--------------------------------------------------------------------------------
+OVERALL SCORES BY CONFIGURATION
+--------------------------------------------------------------------------------
+
+Configuration            LLM Judge (0-2) Exact Match    F1 ScoreContains Match     ROUGE-L
+--------------------------------------------------------------------------------
+bm25_gpt                       0.4568      0.1975      0.2383      0.2469      0.2163
+bm25_llama                     0.3580      0.1358      0.1637      0.1605      0.1510
+dense_gpt                      0.4568      0.1852      0.2280      0.2469      0.2146
+dense_llama                    0.3457      0.1605      0.1724      0.1852      0.1661
+none_gpt                       0.4568      0.1975      0.2399      0.2593      0.2245
+
+
+--------------------------------------------------------------------------------
+DETAILED RESULTS
+--------------------------------------------------------------------------------
+
+Configuration: bm25_gpt
+  Questions evaluated: 81
+  LLM Judge (0-2): 0.4568
+  Exact Match: 0.1975
+  F1 Score: 0.2383
+  Contains Match: 0.2469
+  ROUGE-L: 0.2163
+
+Configuration: bm25_llama
+  Questions evaluated: 81
+  LLM Judge (0-2): 0.3580
+  Exact Match: 0.1358
+  F1 Score: 0.1637
+  Contains Match: 0.1605
+  ROUGE-L: 0.1510
+
+Configuration: dense_gpt
+  Questions evaluated: 81
+  LLM Judge (0-2): 0.4568
+  Exact Match: 0.1852
+  F1 Score: 0.2280
+  Contains Match: 0.2469
+  ROUGE-L: 0.2146
+
+Configuration: dense_llama
+  Questions evaluated: 81
+  LLM Judge (0-2): 0.3457
+  Exact Match: 0.1605
+  F1 Score: 0.1724
+  Contains Match: 0.1852
+  ROUGE-L: 0.1661
+
+Configuration: none_gpt
+  Questions evaluated: 81
+  LLM Judge (0-2): 0.4568
+  Exact Match: 0.1975
+  F1 Score: 0.2399
+  Contains Match: 0.2593
+  ROUGE-L: 0.2245
+
+--------------------------------------------------------------------------------
+BEST CONFIGURATION PER METRIC
+--------------------------------------------------------------------------------
+
+LLM Judge (0-2): bm25_gpt (0.4568)
+Exact Match: bm25_gpt (0.1975)
+F1 Score: none_gpt (0.2399)
+Contains Match: none_gpt (0.2593)
+ROUGE-L: none_gpt (0.2245)
+
+================================================================================

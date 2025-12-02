@@ -1,695 +1,756 @@
-Carlos Bilardo	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 78, "prompt_tokens": 74, "completion_tokens": 4}
-FIFA was founded in 1904.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 74, "prompt_tokens": 64, "completion_tokens": 10}
-Geoff Hurst	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 78, "prompt_tokens": 73, "completion_tokens": 5}
-You'll Never Walk Alone	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 72, "prompt_tokens": 67, "completion_tokens": 5}
-Uruguay	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 70, "prompt_tokens": 67, "completion_tokens": 3}
-Harry Kane	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 74, "prompt_tokens": 71, "completion_tokens": 3}
-Inter Miami CF	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 71, "prompt_tokens": 67, "completion_tokens": 4}
-George Weah	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 76, "prompt_tokens": 72, "completion_tokens": 4}
-Tottenham Hotspur Stadium and Emirates Stadium.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 76, "prompt_tokens": 66, "completion_tokens": 10}
-Shane Long.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 73, "prompt_tokens": 68, "completion_tokens": 5}
-Pep Guardiola	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 74, "prompt_tokens": 71, "completion_tokens": 3}
-Milan	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 71, "prompt_tokens": 68, "completion_tokens": 3}
-LA Galaxy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 71, "prompt_tokens": 68, "completion_tokens": 3}
-Sevilla FC	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 74, "prompt_tokens": 70, "completion_tokens": 4}
-Gianluigi Buffon	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 77, "prompt_tokens": 70, "completion_tokens": 7}
-Diego Maradona	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 76, "prompt_tokens": 71, "completion_tokens": 5}
-10	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 69, "prompt_tokens": 67, "completion_tokens": 2}
-Gonzalo Montiel	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 80, "prompt_tokens": 74, "completion_tokens": 6}
-South Korea and Japan.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 75, "prompt_tokens": 69, "completion_tokens": 6}
-Super Eagles	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 72, "prompt_tokens": 69, "completion_tokens": 3}
+Carlos Bilardo	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 717, "prompt_tokens": 713, "completion_tokens": 4, "retrieved_doc_ids": ["48", "6", "20"], "retrieval_scores": [0.6469114611272981, 0.4588248392418273, 0.45240435911706384]}
+1904	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 789, "prompt_tokens": 786, "completion_tokens": 3, "retrieved_doc_ids": ["19", "20", "50"], "retrieval_scores": [0.7653636662225523, 0.5154523468981514, 0.4403675963309052]}
+Geoff Hurst	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 846, "prompt_tokens": 841, "completion_tokens": 5, "retrieved_doc_ids": ["15", "48", "30"], "retrieval_scores": [0.6852438787203577, 0.4509532390925406, 0.4399099753318192]}
+You'll Never Walk Alone	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 778, "prompt_tokens": 773, "completion_tokens": 5, "retrieved_doc_ids": ["26", "40", "12"], "retrieval_scores": [0.6930123277866289, 0.30215643866204167, 0.2685249247743897]}
+Uruguay	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 840, "prompt_tokens": 837, "completion_tokens": 3, "retrieved_doc_ids": ["20", "49", "21"], "retrieval_scores": [0.6746531239696365, 0.5443231209999141, 0.5330602658763869]}
+Harry Kane	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 833, "prompt_tokens": 830, "completion_tokens": 3, "retrieved_doc_ids": ["3", "1", "31"], "retrieval_scores": [0.6715641228032, 0.6129150577677596, 0.5121422700303476]}
+Inter Miami CF	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 725, "prompt_tokens": 721, "completion_tokens": 4, "retrieved_doc_ids": ["34", "33", "32"], "retrieval_scores": [0.6519385305907962, 0.627362908660314, 0.4747509054970357]}
+George Weah	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 815, "prompt_tokens": 811, "completion_tokens": 4, "retrieved_doc_ids": ["22", "8", "5"], "retrieval_scores": [0.7073180090587629, 0.5358654019012679, 0.47817319030367766]}
+Emirates Stadium and Tottenham Hotspur Stadium	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 670, "prompt_tokens": 660, "completion_tokens": 10, "retrieved_doc_ids": ["36", "27", "42"], "retrieval_scores": [0.7519052939861869, 0.513732718191029, 0.39636033733768744]}
+Shane Long	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 725, "prompt_tokens": 721, "completion_tokens": 4, "retrieved_doc_ids": ["18", "40", "11"], "retrieval_scores": [0.7937205489847858, 0.43495109341645233, 0.41363539814033634]}
+Pep Guardiola	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 874, "prompt_tokens": 871, "completion_tokens": 3, "retrieved_doc_ids": ["38", "28", "16"], "retrieval_scores": [0.6764915583374717, 0.5938021765721625, 0.5079311108510081]}
+Milan, Italy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 749, "prompt_tokens": 744, "completion_tokens": 5, "retrieved_doc_ids": ["42", "23", "34"], "retrieval_scores": [0.7358722213516554, 0.32501737824786614, 0.3237665871573456]}
+LA Galaxy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 722, "prompt_tokens": 719, "completion_tokens": 3, "retrieved_doc_ids": ["9", "13", "33"], "retrieval_scores": [0.6893924546112563, 0.4313403524633716, 0.4123771455519631]}
+Sevilla	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 847, "prompt_tokens": 844, "completion_tokens": 3, "retrieved_doc_ids": ["43", "12", "23"], "retrieval_scores": [0.6762623199815828, 0.5485750843101613, 0.4905732795316638]}
+Giorgio Chiellini	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 864, "prompt_tokens": 857, "completion_tokens": 7, "retrieved_doc_ids": ["24", "45", "23"], "retrieval_scores": [0.7611295799199047, 0.5552822144587635, 0.5086622117271286]}
+Diego Maradona	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 792, "prompt_tokens": 787, "completion_tokens": 5, "retrieved_doc_ids": ["14", "29", "3"], "retrieval_scores": [0.6218270455303905, 0.35245699992016066, 0.3443194774263277]}
+Number 10	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 707, "prompt_tokens": 703, "completion_tokens": 4, "retrieved_doc_ids": ["29", "14", "48"], "retrieval_scores": [0.7446462994391845, 0.6071371028111899, 0.44547405633465026]}
+Gonzalo Montiel	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 879, "prompt_tokens": 873, "completion_tokens": 6, "retrieved_doc_ids": ["6", "30", "48"], "retrieval_scores": [0.6858214392063294, 0.5417805533471347, 0.5103257938301955]}
+South Korea and Japan	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 903, "prompt_tokens": 898, "completion_tokens": 5, "retrieved_doc_ids": ["0", "49", "44"], "retrieval_scores": [0.6656380579548105, 0.6088526978528322, 0.5457962759828637]}
+Super Eagles	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 796, "prompt_tokens": 793, "completion_tokens": 3, "retrieved_doc_ids": ["35", "4", "5"], "retrieval_scores": [0.6727067029841398, 0.3629109817109193, 0.3478444536239867]}
 1. Sporting CP  
 2. Manchester United  
-3. Real Madrid	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 87, "prompt_tokens": 71, "completion_tokens": 16}
+3. Real Madrid	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 822, "prompt_tokens": 806, "completion_tokens": 16, "retrieved_doc_ids": ["13", "33", "23"], "retrieval_scores": [0.7088969695924785, 0.4829682972316463, 0.42674491945466264]}
 1. Egypt  
-2. Sudan  
-3. Ethiopia  
-4. Ghana  
-5. Nigeria  
-6. Algeria  
-7. Senegal  
-8. Tunisia  
-9. Morocco  
-10. South Africa  
-11. Angola  
-12. Zambia  
-13. Ivory Coast  
-14. Gabon  
-15. Equatorial Guinea  
-16. Cameroon  
-17. Egypt (again, for different editions)  
-18. South Africa (again, for different editions)  
-19. Morocco (again, for different editions)  
-20. Ivory Coast (again, for different editions)  
-
-(Note: Some countries have hosted the tournament multiple times, which is reflected in the list.)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 206, "prompt_tokens": 72, "completion_tokens": 134}
-1. 2011 - Japan  
-2. 2015 - United States  
-3. 2019 - United States  
-4. 2023 - Spain	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 112, "prompt_tokens": 77, "completion_tokens": 35}
-Sure! Here is a list of Premier League clubs based in London:
-
-1. Arsenal
-2. Chelsea
-3. Crystal Palace
-4. Fulham
-5. Tottenham Hotspur
-6. West Ham United
-7. Brentford
-
-Please note that this information is accurate as of October 2023.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 132, "prompt_tokens": 68, "completion_tokens": 64}
-As of October 2023, the top five goal scorers in UEFA Champions League history are:
-
-1. Cristiano Ronaldo
-2. Lionel Messi
-3. Robert Lewandowski
-4. Raúl González
-5. Karim Benzema	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 121, "prompt_tokens": 72, "completion_tokens": 49}
-1. FC Barcelona  
-2. Paris Saint-Germain (PSG)  
-3. Inter Miami CF	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 95, "prompt_tokens": 73, "completion_tokens": 22}
-1. Germany  
-2. France  
-3. Italy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 86, "prompt_tokens": 73, "completion_tokens": 13}
-Sure! Here is the list of teams that have won the UEFA Champions League since 2015:
-
-1. Barcelona (2015)
-2. Real Madrid (2016)
-3. Real Madrid (2017)
-4. Real Madrid (2018)
-5. Liverpool (2019)
-6. Bayern Munich (2020)
-7. Chelsea (2021)
-8. Real Madrid (2022)
-9. Manchester City (2023)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 164, "prompt_tokens": 74, "completion_tokens": 90}
-1. Premier League: 2017-18, 2018-19, 2020-21, 2021-22, 2022-23  
-2. FA Cup: 2018-19, 2022-23  
-3. EFL Cup (Carabao Cup): 2017-18, 2018-19, 2019-20  
-4. UEFA Champions League: 2022-23  
-5. UEFA Super Cup: 2023  
-
-These trophies reflect Manchester City's success under Pep Guardiola's management.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 187, "prompt_tokens": 71, "completion_tokens": 116}
-Sure! Here is the list of stadiums used during the 2022 FIFA World Cup:
-
-1. Lusail Stadium (Lusail)
-2. Al Bayt Stadium (Al Khor)
-3. Al Janoub Stadium (Al Wakrah)
-4. Education City Stadium (Al Rayyan)
-5. Ahmad Bin Ali Stadium (Al Rayyan)
-6. Khalifa International Stadium (Doha)
-7. Stadium 974 (Doha)
-8. Al Thumama Stadium (Doha)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 176, "prompt_tokens": 73, "completion_tokens": 103}
-Sure! Here is the list of clubs that participated in the 2022-23 Premier League season:
-
+2. Ghana  
+3. Sudan  
+4. Ethiopia  
+5. Tunisia  
+6. South Africa  
+7. Cameroon  
+8. Gabon  
+9. Equatorial Guinea  
+10. Côte d'Ivoire	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 974, "prompt_tokens": 926, "completion_tokens": 48, "retrieved_doc_ids": ["4", "49", "44"], "retrieval_scores": [0.7911522835666823, 0.5921393211467135, 0.5694091075058626]}
+1. Japan (2011)  
+2. United States (2015)  
+3. United States (2019)  
+4. Spain (2023)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 967, "prompt_tokens": 932, "completion_tokens": 35, "retrieved_doc_ids": ["47", "49", "50"], "retrieval_scores": [0.7692352965219191, 0.4844947483148937, 0.4832612153847304]}
 1. Arsenal  
-2. Aston Villa  
-3. Bournemouth  
-4. Brentford  
-5. Brighton & Hove Albion  
-6. Chelsea  
-7. Crystal Palace  
-8. Everton  
-9. Fulham  
-10. Leeds United  
-11. Leicester City  
-12. Liverpool  
-13. Manchester City  
-14. Manchester United  
-15. Newcastle United  
+2. Chelsea  
+3. Tottenham Hotspur  
+4. West Ham United  
+5. Crystal Palace  
+6. Brentford  
+7. Fulham  
+8. Queens Park Rangers  
+9. Charlton Athletic	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 859, "prompt_tokens": 811, "completion_tokens": 48, "retrieved_doc_ids": ["27", "40", "12"], "retrieval_scores": [0.7497855520496822, 0.5631787603899665, 0.3868619160102335]}
+1. Cristiano Ronaldo - 140 goals  
+2. Lionel Messi - 129 goals  
+3. Robert Lewandowski - over 90 goals  
+4. Karim Benzema - 90 goals  
+5. Raúl González - 71 goals	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 837, "prompt_tokens": 786, "completion_tokens": 51, "retrieved_doc_ids": ["11", "12", "32"], "retrieval_scores": [0.6898265455850744, 0.5091482167538074, 0.49416400265881466]}
+1. FC Barcelona  
+2. Paris Saint-Germain  
+3. Inter Miami CF	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 745, "prompt_tokens": 727, "completion_tokens": 18, "retrieved_doc_ids": ["33", "34", "32"], "retrieval_scores": [0.7776403219829432, 0.6517252163777366, 0.5205603331052128]}
+1. Germany  
+2. Spain  
+3. France  
+4. Italy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 892, "prompt_tokens": 875, "completion_tokens": 17, "retrieved_doc_ids": ["17", "49", "12"], "retrieval_scores": [0.7681353327259929, 0.5169782691042162, 0.5157839942941627]}
+1. Barcelona (2014-15)  
+2. Real Madrid (2015-16)  
+3. Real Madrid (2016-17)  
+4. Real Madrid (2017-18)  
+5. Liverpool (2018-19)  
+6. Bayern Munich (2019-20)  
+7. Chelsea (2020-21)  
+8. Real Madrid (2021-22)  
+9. Manchester City (2022-23)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 964, "prompt_tokens": 867, "completion_tokens": 97, "retrieved_doc_ids": ["12", "10", "17"], "retrieval_scores": [0.6325688395470266, 0.4663058118353503, 0.4571352092369336]}
+1. Premier League titles: 2017-18, 2018-19, 2020-21, 2021-22, 2022-23, 2023-24 (6 titles)  
+2. FA Cup: 2018-19, 2022-23 (2 titles)  
+3. EFL Cup (League Cup): 2017-18, 2018-19, 2019-20, 2020-21 (4 titles)  
+4. UEFA Champions League: 2022-23 (1 title)  
+5. FA Community Shield: 2018, 2019 (2 titles)  
+6. UEFA Super Cup: 2023 (1 title)  
+7. FIFA Club World Cup: 2023 (1 title)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1021, "prompt_tokens": 853, "completion_tokens": 168, "retrieved_doc_ids": ["28", "38", "12"], "retrieval_scores": [0.8404929281919743, 0.7564957824943055, 0.5125095003291376]}
+1. Lusail Iconic Stadium (Lusail) - Capacity: 88,966
+2. Al Bayt Stadium (Al Khor) - Capacity: 60,000
+3. Stadium 974 (Doha) - Capacity: 40,000
+4. Ahmad Bin Ali Stadium (Al Rayyan) - Capacity: 40,000
+5. Khalifa International Stadium (Doha) - Capacity: 40,000
+6. Education City Stadium (Al Rayyan) - Capacity: 40,000
+7. Al Thumama Stadium (Doha) - Capacity: 40,000
+8. Al Janoub Stadium (Al Wakrah) - Capacity: 40,000	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1034, "prompt_tokens": 885, "completion_tokens": 149, "retrieved_doc_ids": ["2", "49", "0"], "retrieval_scores": [0.6767825171462623, 0.5532040552734508, 0.5151368522015431]}
+1. Manchester City  
+2. Arsenal  
+3. Manchester United  
+4. Newcastle United  
+5. Liverpool  
+6. Brighton & Hove Albion  
+7. Aston Villa  
+8. Tottenham Hotspur  
+9. Brentford  
+10. Fulham  
+11. Crystal Palace  
+12. Chelsea  
+13. Wolverhampton Wanderers  
+14. West Ham United  
+15. Bournemouth  
 16. Nottingham Forest  
-17. Tottenham Hotspur  
-18. West Ham United  
-19. Wolverhampton Wanderers  
-20. Southampton	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 198, "prompt_tokens": 75, "completion_tokens": 123}
-1. Lionel Messi  
-2. Cristiano Ronaldo	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 86, "prompt_tokens": 75, "completion_tokens": 11}
+17. Everton  
+18. Leicester City  
+19. Leeds United  
+20. Southampton	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 947, "prompt_tokens": 845, "completion_tokens": 102, "retrieved_doc_ids": ["40", "27", "28"], "retrieval_scores": [0.7182301991089157, 0.5181487622889871, 0.4204483082962843]}
+1. Lionel Messi	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 906, "prompt_tokens": 901, "completion_tokens": 5, "retrieved_doc_ids": ["8", "17", "31"], "retrieval_scores": [0.7616632319882111, 0.5010148701577185, 0.4683143531049683]}
 1. Kylian Mbappé (France) - 8 goals  
 2. Lionel Messi (Argentina) - 7 goals  
-3. Olivier Giroud (France) - 4 goals  
-4. Julian Alvarez (Argentina) - 4 goals  
-5. Richarlison (Brazil) - 2 goals	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 142, "prompt_tokens": 75, "completion_tokens": 67}
+3. Julián Álvarez (Argentina) - 4 goals  
+4. Olivier Giroud (France) - 4 goals  
+5. Gonçalo Ramos (Portugal) - 3 goals	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 905, "prompt_tokens": 834, "completion_tokens": 71, "retrieved_doc_ids": ["3", "1", "31"], "retrieval_scores": [0.6940789193539347, 0.536988484210667, 0.49757739957303704]}
 1. AC Milan  
 2. Inter Milan  
-3. Juventus  
-4. Napoli  
-5. Fiorentina	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 95, "prompt_tokens": 71, "completion_tokens": 24}
-1. Iker Casillas (2010–2015)  
-2. Sergio Ramos (2015–2021)  
-3. Karim Benzema (2021–2023)  
-4. Luka Modrić (2023–present)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 124, "prompt_tokens": 71, "completion_tokens": 53}
-1. Cameroon (1990)
-2. Senegal (2002)
-3. Ghana (2010)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 95, "prompt_tokens": 73, "completion_tokens": 22}
-1. Italy  
-2. France  
-3. Brazil  
+3. Juventus	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 854, "prompt_tokens": 839, "completion_tokens": 15, "retrieved_doc_ids": ["23", "12", "11"], "retrieval_scores": [0.7352440390105544, 0.5952566988286934, 0.5033120189139202]}
+1. Iker Casillas (2010-2015)  
+2. Sergio Ramos (2015-2021)  
+3. Marcelo (2021-2022)  
+4. Karim Benzema (2022-2023)  
+5. Nacho Fernández (2023-present)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 960, "prompt_tokens": 898, "completion_tokens": 62, "retrieved_doc_ids": ["41", "12", "45"], "retrieval_scores": [0.8014465718460889, 0.4905764227388945, 0.4358878084746144]}
+1. Cameroon  
+2. Senegal  
+3. Ghana	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 933, "prompt_tokens": 920, "completion_tokens": 13, "retrieved_doc_ids": ["5", "4", "50"], "retrieval_scores": [0.7724673233709143, 0.5603866546394244, 0.5557663631795668]}
+1. Mexico  
+2. Italy  
+3. France  
 4. Germany  
-5. Mexico  
-6. United States  
-7. Spain	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 103, "prompt_tokens": 73, "completion_tokens": 30}
-Lionel Messi has scored hat-tricks in the UEFA Champions League against the following clubs:
-
-1. Manchester City
-2. Bayer Leverkusen
-3. Ajax
-4. Arsenal
-5. Porto
-6. Celtic
-7. Lyon
-8. Real Madrid
-
-Please note that this information is accurate as of October 2023.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 146, "prompt_tokens": 76, "completion_tokens": 70}
-1. 1993  
-2. 1998  
-3. 2002  
-4. 2003  
+5. Brazil  
+6. United States	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 859, "prompt_tokens": 833, "completion_tokens": 26, "retrieved_doc_ids": ["49", "0", "4"], "retrieval_scores": [0.7991295550956484, 0.5123657627750153, 0.510115495046324]}
+1. Arsenal  
+2. Bayer Leverkusen  
+3. Ajax  
+4. APOEL  
+5. PSV Eindhoven  
+6. Manchester City  
+7. BATE Borisov	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 776, "prompt_tokens": 738, "completion_tokens": 38, "retrieved_doc_ids": ["32", "11", "33"], "retrieval_scores": [0.7778017635542123, 0.5810879886195993, 0.5451988961978791]}
+1. 1998  
+2. 2002  
+3. 2003  
+4. 2005  
 5. 2014  
 6. 2015  
-7. 2017	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 118, "prompt_tokens": 75, "completion_tokens": 43}
-1. Golden Ball (Best Player of the Tournament)  
-2. FIFA World Cup Champion (with Argentina)  
-3. Most Assists in the Tournament (3 assists)  
-4. FIFA World Cup Golden Boot Runner-up (with 7 goals, tied but behind Kylian Mbappé on goals scored)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 140, "prompt_tokens": 74, "completion_tokens": 66}
-To qualify for the UEFA Champions League group stage, clubs must follow a series of steps, which can vary slightly depending on their domestic league performance and UEFA coefficients. Here’s a general outline of the process:
+7. 2017	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 905, "prompt_tokens": 862, "completion_tokens": 43, "retrieved_doc_ids": ["7", "28", "40"], "retrieval_scores": [0.7593973774485433, 0.3662310877280565, 0.3653830424437849]}
+1. Golden Ball (best player of the tournament)  
+2. Silver Boot (top scorer, tied with 7 goals)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 914, "prompt_tokens": 886, "completion_tokens": 28, "retrieved_doc_ids": ["31", "6", "3"], "retrieval_scores": [0.81851316076428, 0.5953059557741656, 0.5927925032503089]}
+To qualify for the UEFA Champions League group stage, follow these steps:
 
-1. **Domestic League Performance**: 
-   - Finish in a qualifying position in your domestic league. The number of teams that qualify from each league depends on the league's UEFA coefficient ranking. Typically, the top leagues (like the Premier League, La Liga, Serie A, etc.) have multiple spots.
+1. **Direct Qualification**: 
+   - If you are a top team from one of Europe's strongest leagues (England, Spain, Germany, Italy, or France), you automatically qualify for the group stage based on your league position.
 
-2. **Determine Qualification Route**:
-   - Identify whether your club qualifies directly for the group stage or needs to enter the qualifying rounds. 
-   - Direct qualification is usually granted to league champions from the top leagues, while other teams may need to go through qualifying rounds.
+2. **Domestic Champions Path**: 
+   - If you are the champion of a smaller European league, you must enter the qualifying rounds. This involves:
+     - Competing in the first qualifying round.
+     - Advancing to the second qualifying round if you win.
+     - Advancing to the third qualifying round if you win the second round.
+     - Reaching the playoff round if you win the third round.
 
-3. **Participate in Qualifying Rounds (if applicable)**:
-   - If your club does not qualify directly, participate in the qualifying rounds. There are typically three qualifying rounds (first, second, and third) and a playoff round before reaching the group stage.
-   - The number of qualifying rounds and the teams involved can vary based on the league's UEFA ranking.
+3. **League Path**: 
+   - If you finish in a qualifying position (typically 3rd or 4th place) in your league but are not the champion, you enter through the league path, starting from the third qualifying round.
 
-4. **Win Qualifying Matches**:
-   - Successfully compete in each qualifying round. Each round consists of two-legged matches (home and away). 
-   - Accumulate enough points or aggregate goals to advance to the next round.
+4. **Playoff Round**: 
+   - Compete in the playoff round, which consists of two-legged ties. The winners of these ties secure their place in the group stage.
 
-5. **Reach the Playoff Round**:
-   - If you successfully navigate the first three qualifying rounds, you will enter the playoff round. This is the final hurdle before the group stage.
-   - Again, this round consists of two-legged matches.
+5. **UEFA Europa League Winners**: 
+   - If you are the winner of the previous season's UEFA Europa League, you automatically qualify for the group stage.
 
-6. **Win the Playoff Round**:
-   - Compete in the playoff round and win your tie to secure a place in the group stage. 
+6. **UEFA Champions League Title Holders**: 
+   - If you are the defending champion of the UEFA Champions League, you automatically qualify for the group stage.
 
-7. **Group Stage Draw**:
-   - Once qualified, your club will be placed into the group stage draw, which typically takes place in late August.
-   - Teams are drawn into groups based on seeding, which is determined by UEFA coefficients.
+7. **Group Stage Participation**: 
+   - Successfully complete the above steps to secure a place in the 32-team (now 36-team) group stage, which begins in September.
 
-8. **Participate in the Group Stage**:
-   - Compete in the group stage matches, which consist of six games (three home and three away) against the other teams in your group.
+These steps outline the various routes and requirements for teams to qualify for the UEFA Champions League group stage.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1324, "prompt_tokens": 959, "completion_tokens": 365, "retrieved_doc_ids": ["10", "50", "25"], "retrieval_scores": [0.7225794516565139, 0.49483660270828167, 0.40211402275894037]}
+According to FIFA Laws of the Game, the steps a player must follow to take a penalty kick are as follows:
 
-By following these steps, a club can successfully qualify for and participate in the UEFA Champions League group stage.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 541, "prompt_tokens": 63, "completion_tokens": 478}
-Certainly! Here are the step-by-step instructions a player must follow to take a penalty kick according to FIFA Laws of the Game:
+1. **Ball Placement**: Place the ball on the penalty mark, which is 12 yards from the goal.
 
-1. **Positioning**: The player taking the penalty kick must place the ball on the penalty mark, which is 12 yards (11 meters) from the goal line.
+2. **Player Identification**: Ensure that the player taking the penalty kick is clearly identified.
 
-2. **Goalkeeper Positioning**: The goalkeeper must remain on the goal line, facing the kicker, and cannot move forward until the ball is kicked. The goalkeeper must also stay between the goalposts.
+3. **Goalkeeper Positioning**: Confirm that the defending goalkeeper remains on the goal line, facing the kicker, and positioned between the goalposts until the ball is kicked.
 
-3. **Player's Approach**: The player can take a few steps back or to the side to prepare for the kick. There is no specific limit to the number of steps, but the player must not encroach on the penalty area until the ball is kicked.
+4. **Player Positioning**: Ensure that all other players are outside the penalty area and arc, at least 10 yards from the penalty mark.
 
-4. **Referee's Signal**: The player must wait for the referee’s signal to take the kick. The referee will typically signal by blowing the whistle.
+5. **Referee Signal**: Wait for the referee to signal that the kick may be taken.
 
-5. **Taking the Kick**: The player must kick the ball forward. The ball must move in a forward direction and cannot be touched again by the kicker until it has been touched by another player.
+6. **Kick the Ball**: The kicker must kick the ball forward.
 
-6. **Scoring**: If the ball goes into the goal, it counts as a goal. If the ball misses the goal or is saved by the goalkeeper, play continues.
+7. **Touching the Ball**: The kicker cannot touch the ball again until another player has touched it.
 
-7. **Follow-Up**: After taking the penalty kick, the player must not interfere with the ball until it has been touched by another player. If the player does so, it may result in an indirect free kick for the opposing team.
+8. **Goalkeeper Movement**: The goalkeeper must not move off the goal line until the ball is kicked, although they may move along the line.
 
-8. **Re-take Conditions**: If the goalkeeper moves off the line before the ball is kicked, or if the player taking the kick does not follow the proper procedure, the referee may order a re-take of the penalty kick.
+9. **Completion of the Kick**: The kick is considered complete when the ball stops moving, goes out of play, or the referee stops play for any offense.
 
-These steps ensure that the penalty kick is taken fairly and according to the rules set by FIFA.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 456, "prompt_tokens": 69, "completion_tokens": 387}
-Certainly! Here’s a step-by-step explanation of the procedure for deciding a winner in a knockout match that ends in a draw after regular time:
+10. **Retake or Disallowance**: If the goalkeeper commits an offense and the kick is missed or saved, the kick is retaken. If the kicker commits an offense, the kick is disallowed, and an indirect free kick is awarded to the defending team.
 
-1. **Extra Time**: If the match ends in a draw after the standard 90 minutes of regulation time, the first step is to play two additional periods of 15 minutes each, known as extra time. The teams will switch sides after the first 15-minute period.
+11. **VAR Check**: Be aware that VAR technology may be used to check for any infringements by the goalkeeper or kicker. The goalkeeper must have at least part of one foot on or in line with the goal line when the kick is taken. 
 
-2. **Golden Goal Rule (if applicable)**: Note that some competitions may have a "golden goal" rule, where the match ends immediately if a team scores during extra time. However, this rule is not commonly used in modern tournaments.
+Following these steps ensures that the penalty kick is taken in accordance with FIFA regulations.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1292, "prompt_tokens": 909, "completion_tokens": 383, "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.7875373878191517, 0.5626618552986196, 0.4921370349771461]}
+1. **Extra Time**: If the match ends in a draw after 90 minutes of regular time, the teams proceed to extra time.
+   - Two 15-minute periods are played, totaling 30 minutes.
+   - There is a short break (typically 5 minutes) before extra time begins.
+   - Teams change ends between the two extra time periods.
 
-3. **End of Extra Time**: If the score remains tied after both 15-minute periods of extra time, the match will proceed to the next step.
+2. **Check Score After Extra Time**: After the completion of extra time, if the score remains level, the match goes to a penalty shootout.
 
-4. **Penalty Shootout**: A penalty shootout will be conducted to determine the winner. Each team will take turns to kick the ball from the penalty mark (12 yards from the goal).
+3. **Penalty Shootout Procedure**:
+   - Each team takes five penalties alternately.
+   - If the scores are level after both teams have taken five penalties, the shootout continues on a sudden-death basis.
+   - Only players who were on the field at the end of extra time are eligible to take penalties.
+   - Each team's penalties must be taken by different players until all eligible players have taken one.
 
-5. **Selecting Kickers**: Each team must select five players to take the initial penalty kicks. The order of the kickers is determined by the teams.
+4. **Determine the Winner**: The team that scores more goals during the penalty shootout wins the match. 
 
-6. **Taking Penalties**: The teams alternate taking penalty kicks. The team that scores the most goals after the five kicks wins the match.
+This procedure is standard for knockout stages in major tournaments such as the World Cup, European Championships, and Champions League.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1148, "prompt_tokens": 909, "completion_tokens": 239, "retrieved_doc_ids": ["25", "39", "37"], "retrieval_scores": [0.7624551403138699, 0.42317003799528086, 0.39764777784472083]}
+Here is the step-by-step process for how a team qualifies for the FIFA World Cup:
 
-7. **Tiebreaker**: If the score is still tied after both teams have taken their five penalty kicks, the shootout will continue to a sudden death format. Each team will take one kick at a time, and the first team to score while the other team misses will be declared the winner.
+1. **Continental Confederation Participation**: Teams must participate in the qualifying tournaments organized by their respective continental confederations (UEFA, CONMEBOL, CAF, AFC, CONCACAF, OFC).
 
-8. **Determining the Winner**: The team that scores more goals in the penalty shootout is declared the winner of the match and advances to the next round of the tournament.
+2. **Qualification Format**: Each confederation has its own qualification format, which typically spans over a period of 2-3 years leading up to the World Cup.
 
-9. **Documentation**: Finally, the match officials will document the outcome, including the final score and the results of the penalty shootout, for official records.
+3. **Group Stage (if applicable)**: 
+   - **UEFA**: Teams are divided into groups, with group winners qualifying directly.
+   - **CAF**: Teams are placed in groups, and group winners advance to the final round.
+   - **AFC and CONCACAF**: Teams compete in multiple rounds, with the best teams qualifying directly and others entering playoffs.
 
-This procedure ensures a clear and fair method for determining a winner in knockout matches that end in a draw after regular and extra time.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 501, "prompt_tokens": 69, "completion_tokens": 432}
-Certainly! Here’s a step-by-step outline of how a team qualifies for the FIFA World Cup:
+4. **League Format (for CONMEBOL)**: All teams play in a single league format, playing home and away matches against each other. The top teams qualify directly, while lower-ranked teams may enter intercontinental playoffs.
 
-1. **Confederation Membership**: Ensure that the national football association is a member of one of the six FIFA confederations: AFC (Asia), CAF (Africa), CONCACAF (North America, Central America, and the Caribbean), CONMEBOL (South America), OFC (Oceania), or UEFA (Europe).
+5. **Final Rounds**: 
+   - In CAF and AFC, the final round often consists of home-and-away playoffs to determine the last qualifiers.
+   - In UEFA, runners-up may enter playoffs to secure additional spots.
 
-2. **Qualification Tournament Structure**: Understand that each confederation organizes its own qualification tournament. The format and number of spots available for the World Cup can vary by confederation.
+6. **Intercontinental Playoffs**: Teams from lower-ranked confederations may enter intercontinental playoffs for a chance to qualify for the World Cup.
 
-3. **Registration for Qualification**: Register for the qualification process as determined by the respective confederation. This usually involves submitting a squad and adhering to specific regulations set by FIFA and the confederation.
+7. **Automatic Qualification**: The host nation(s) automatically qualify for the World Cup, regardless of their performance in the qualifying rounds.
 
-4. **Participate in Qualification Matches**: Compete in the qualification matches, which may include round-robin group stages, knockout rounds, or a combination of both, depending on the confederation's format.
+8. **Confirmation of Spots**: Each confederation has a set number of spots allocated for the World Cup, which may change with the expansion of the tournament (e.g., 48 teams from 2026).
 
-5. **Points Accumulation**: Accumulate points through match results. Typically, teams earn three points for a win, one point for a draw, and no points for a loss. The teams with the most points at the end of the qualification phase advance to the World Cup.
+By following these steps, teams can secure their place in the FIFA World Cup.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1337, "prompt_tokens": 944, "completion_tokens": 393, "retrieved_doc_ids": ["50", "10", "5"], "retrieval_scores": [0.7743757761766497, 0.57287419847593, 0.5055700960732932]}
+Here is the sequence of events during a VAR (Video Assistant Referee) review, presented in a step-by-step format:
 
-6. **Ranking and Tiebreakers**: In case teams finish with the same number of points, follow the tiebreaker rules set by the confederation, which may include goal difference, goals scored, head-to-head results, and fair play points.
+1. **Incident Occurs**: A specific incident occurs during the match that is eligible for VAR review (e.g., a goal, penalty decision, direct red card incident, or mistaken identity).
 
-7. **Securing a Spot**: Finish in the top positions of the qualification tournament as determined by the confederation to secure a spot in the World Cup. The number of teams that qualify from each confederation varies based on FIFA's allocation.
+2. **VAR Monitoring**: The VAR team, located in a video operation room, continuously monitors the match action using multiple camera angles.
 
-8. **Playoff Matches (if applicable)**: Some confederations have additional playoff matches for teams that finish in qualifying positions. Compete in these matches to secure a final spot in the World Cup.
+3. **Initial Check**: The VAR reviews the incident in question to determine if there is a clear and obvious error made by the on-field referee.
 
-9. **Final Confirmation**: Once the qualification process is complete, FIFA confirms the list of teams that will participate in the World Cup, including those that qualified directly and those that came through playoffs.
+4. **Communication**: If the VAR identifies a potential clear error, they communicate with the on-field referee via headset to recommend a review.
 
-10. **Preparation for the World Cup**: Begin preparations for the World Cup, including training camps, friendly matches, and logistical arrangements for the tournament.
+5. **On-Field Review**: The referee acknowledges the VAR's recommendation and signals for an on-field review by making a TV screen gesture.
 
-By following these steps, a national team	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 563, "prompt_tokens": 63, "completion_tokens": 500}
-Certainly! Here’s a step-by-step breakdown of the sequence of events during a VAR (Video Assistant Referee) review:
+6. **Viewing the Incident**: The referee goes to a pitchside monitor to view the incident from the available camera angles.
 
-1. **Incident Occurs**: A potentially controversial incident occurs during the match, such as a goal, penalty decision, red card, or mistaken identity.
+7. **Decision Making**: After reviewing the footage, the referee makes a final decision regarding the incident based on what they have seen.
 
-2. **On-Field Decision**: The on-field referee makes an initial decision regarding the incident based on their view of the play.
+8. **Signal Decision**: The referee communicates the final decision to the players and spectators, which may involve a change to the initial call (e.g., awarding a penalty, overturning a red card).
 
-3. **VAR Communication**: The VAR, who is located in a video review room, monitors the match using multiple camera angles. If the VAR identifies a clear and obvious error or a serious incident that the referee may have missed, they communicate with the on-field referee via a headset.
+9. **Resume Play**: Once the decision is made and communicated, play resumes according to the referee's ruling.
 
-4. **Referee Review**: The on-field referee may choose to review the incident themselves. They can either accept the VAR's recommendation to review or stick with their original decision.
+10. **Documentation**: The VAR review and the final decision are recorded by match officials for reference.
 
-5. **Review Process**: If the referee decides to review the incident, they will go to the pitch-side monitor (often referred to as the "VAR monitor") to watch the relevant footage.
+This process is designed to be completed quickly to minimize delays in the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1233, "prompt_tokens": 893, "completion_tokens": 340, "retrieved_doc_ids": ["46", "37", "39"], "retrieval_scores": [0.7545765277185861, 0.48839564853292294, 0.43602369209857506]}
+To replace an injured player during a match, the following step-by-step procedure should be followed:
 
-6. **Analysis of Footage**: The referee watches the video replays from various angles to assess the incident in question. This may include slow-motion replays for better clarity.
+1. **Notification**: The team notifies the fourth official of the intended substitution due to the injury.
 
-7. **Decision Making**: After reviewing the footage, the referee makes a decision based on what they have seen. They can either uphold their original decision or change it based on the evidence provided by the VAR.
+2. **Preparation**: The substitute player prepares on the sideline, wearing a numbered bib, indicating they are ready to enter the match.
 
-8. **Communication of Decision**: The referee communicates the final decision to the players, officials, and spectators. This is often done through gestures, such as pointing to the spot for a penalty or showing a red card.
+3. **Referee Authorization**: The referee must stop the play and give permission for the substitution to take place.
 
-9. **Match Resumes**: Play resumes according to the referee's final decision, whether it involves a restart of play, awarding a goal, or issuing a card.
+4. **Exit of Injured Player**: The injured player must leave the field of play at the nearest boundary line to where they are located.
 
-10. **Documentation**: The incident and the VAR review process are documented for future reference, ensuring transparency and accountability in the officiating process.
+5. **Entry of Substitute**: The substitute player enters the field from the halfway line after the injured player has completely exited.
 
-This sequence ensures that the VAR system is used effectively to assist referees in making accurate decisions during a match.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 497, "prompt_tokens": 65, "completion_tokens": 432}
-Certainly! Here’s a step-by-step procedure for replacing an injured player during a football match:
+6. **Completion of Substitution**: The substitution is considered complete when the substitute has fully entered the field of play.
 
-1. **Assessment of Injury**: The referee or team medical staff assesses the injured player to determine the severity of the injury and whether they can continue playing.
+7. **Recording**: The match officials record the substitution, noting which player was replaced and who the substitute is.
 
-2. **Signal for Substitution**: If the player is unable to continue, the team manager or coaching staff signals to the fourth official that they wish to make a substitution. This is typically done by raising a substitution board or indicating the number of the player being replaced.
+8. **Post-Substitution Rule**: The replaced injured player cannot re-enter the match.
 
-3. **Informing the Fourth Official**: The team manager or coach communicates the player’s number who is coming off and the number of the player who will be coming on to the fourth official.
+9. **Full Player Rights**: The substitute becomes a full player with all rights and responsibilities once they are on the field.
 
-4. **Waiting for Referee’s Approval**: The fourth official informs the referee about the substitution request. The substitution can only take place when the referee gives the signal.
+10. **Expedited Substitution (if necessary)**: If the injury is severe and the player cannot continue, the substitution may be expedited, but must still follow the authorization from the referee. 
 
-5. **Player Leaving the Field**: The injured player must leave the field of play at the nearest touchline, unless otherwise directed by the referee. They should exit promptly to avoid delaying the game.
+Following these steps ensures that the substitution process is conducted in accordance with the rules of the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1207, "prompt_tokens": 902, "completion_tokens": 305, "retrieved_doc_ids": ["39", "37", "25"], "retrieval_scores": [0.648043293388802, 0.4319960729100569, 0.4242007873386049]}
+The context provided does not include specific information about the procedure for taking a corner kick. However, based on general knowledge of football rules, here are the steps involved in taking a corner kick:
 
-6. **Substituting Player Enters**: The new player, who is ready and waiting at the touchline, enters the field of play only after the injured player has fully exited and the referee has given the signal for the substitution.
+1. **Positioning the Ball**: The ball must be placed in the corner arc nearest to where the ball went out of play.
 
-7. **Confirmation of Substitution**: The fourth official displays the substitution on the board, showing the numbers of both the player coming off and the player coming on.
+2. **Player Identification**: The player taking the corner kick must be clearly identified.
 
-8. **Resuming Play**: Once the substitution is complete, the game resumes with a drop ball or the team in possession of the ball, depending on the situation at the time of the injury.
+3. **Defending Team Positioning**: The opposing team must remain at least 10 yards away from the corner arc until the ball is in play.
 
-9. **Documentation**: The substitution is recorded by the match officials for official match records, including the time of the substitution and the players involved.
+4. **Referee's Signal**: The referee will signal that the corner kick can be taken.
 
-This procedure ensures that the substitution is conducted fairly and in accordance with the laws of the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 458, "prompt_tokens": 62, "completion_tokens": 396}
-Here are the step-by-step instructions for taking a corner kick:
+5. **Taking the Kick**: The player taking the corner kick must kick the ball from within the corner arc. The ball must move forward.
 
-1. **Identify the Corner Arc**: The player taking the corner kick should approach the corner arc at the corner of the field where the ball went out of play.
+6. **Ball in Play**: The ball is in play as soon as it is kicked and moves. The kicker cannot touch the ball again until another player has touched it.
 
-2. **Position the Ball**: Place the ball within the corner arc, ensuring that the ball is stationary and touching the line of the corner arc. The ball must not be placed outside the arc.
+7. **Player Movement**: Other players (teammates and opponents) can move freely but must adhere to the distance requirement until the kick is taken.
 
-3. **Choose the Kicking Foot**: Decide which foot will be used to take the kick. This may depend on the desired direction of the kick and the player's dominant foot.
+8. **Outcome**: The corner kick is complete when the ball goes out of play, is touched by another player, or the referee stops play for any reason.
 
-4. **Communicate with Teammates**: Signal to teammates about the intended play or strategy for the corner kick. This could involve a specific run or positioning.
+These steps outline the general procedure for taking a corner kick in football.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1183, "prompt_tokens": 899, "completion_tokens": 284, "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.5836252039412066, 0.44297010432210915, 0.41854838576323733]}
+To promote a team from the EFL Championship to the Premier League, the following steps are typically followed:
 
-5. **Check the Opponent's Positioning**: Observe the positioning of the opposing players and the goalkeeper to identify any potential weaknesses or openings.
+1. **Season Performance**: A team must perform well during the EFL Championship season, which consists of 46 matches. The objective is to finish in one of the top positions in the league table.
 
-6. **Take a Few Steps Back**: Step back a few paces from the ball to create space for the run-up. This distance can vary based on the player's preference and kicking style.
+2. **Top Two Positions**: The teams that finish in the top two positions of the Championship table at the end of the regular season automatically gain promotion to the Premier League.
 
-7. **Run Up to the Ball**: Approach the ball at an angle, maintaining focus on the target area where the kick will be directed.
+3. **Playoff System**: The teams finishing from 3rd to 6th place in the Championship enter the playoff system. These teams compete in a series of knockout matches to determine the third team that will be promoted.
 
-8. **Plant the Non-Kicking Foot**: As you reach the ball, plant your non-kicking foot beside the ball to provide stability and balance.
+4. **Playoff Semifinals**: The 3rd place team plays against the 6th place team, and the 4th place team plays against the 5th place team in two-legged semifinals. The teams with the higher aggregate score over the two matches advance to the final.
 
-9. **Kick the Ball**: Strike the ball with your kicking foot. Depending on the intended outcome, this could be a driven ball, a curled ball, or a short pass to a teammate.
+5. **Playoff Final**: The winners of the semifinals meet in the playoff final, which is typically held at Wembley Stadium. The winner of this match secures the final promotion spot to the Premier League.
 
-10. **Follow Through**: After making contact with the ball, follow through with your kicking leg to ensure accuracy and power. Your body should remain balanced to prepare for any subsequent actions.
+6. **Promotion Confirmation**: Once the playoff final is completed, the promoted teams (the top two and the playoff winner) are confirmed for the next season's Premier League.
 
-11. **Observe the Play**: After taking the kick, quickly assess the situation to react to the outcome, whether it’s to support teammates, defend against a counter-attack, or reposition for a potential rebound.
+7. **Registration and Compliance**: The promoted teams must then ensure they meet all Premier League regulations, including financial fair play and stadium requirements, before officially participating in the league.
 
-12. **Prepare for the Next Play**: Be ready for the next phase of play, whether it’s defending, attacking, or resetting for another corner kick if necessary.
+By following these steps, a team can successfully transition from the EFL Championship to the Premier League.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1163, "prompt_tokens": 818, "completion_tokens": 345, "retrieved_doc_ids": ["40", "10", "27"], "retrieval_scores": [0.4919683044151372, 0.47009521974888774, 0.4213372767476258]}
+Here are the steps referees follow before starting a professional football match:
 
-By following these steps, a player can effectively execute a corner kick and maximize the chances of creating a scoring opportunity.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 532, "prompt_tokens": 59, "completion_tokens": 473}
-Certainly! Here’s a step-by-step explanation of how a team is promoted from the EFL Championship to the Premier League:
+1. **Pre-Match Meeting**: The referee conducts a meeting with the assistant referees and the fourth official to discuss match procedures, roles, and any specific instructions.
 
-1. **Season Structure**: The EFL Championship operates on a league system where 24 teams compete over a season, typically spanning from August to May.
+2. **Inspect the Field**: The referee inspects the pitch to ensure it meets the required standards, checking for any hazards, proper markings, and goalposts.
 
-2. **Points System**: Teams earn points based on their match results: 3 points for a win, 1 point for a draw, and 0 points for a loss. The total points accumulated over the season determines the league standings.
+3. **Check Equipment**: The referee checks the match balls to ensure they are in good condition and meet the regulations. They also verify that the players' equipment (boots, shin guards, etc.) complies with the rules.
 
-3. **Final Standings**: At the end of the regular season (usually 46 matches), the teams are ranked in the league table based on their total points. 
+4. **Confirm Player Eligibility**: The referee ensures that all players on the matchday squad are eligible to play, checking for any suspensions or injuries.
 
-4. **Automatic Promotion**: The top two teams in the final standings at the end of the season are automatically promoted to the Premier League. These teams finish in 1st and 2nd place.
+5. **Coin Toss**: The referee conducts a coin toss with the team captains to determine which team will kick off and which side will defend which goal.
 
-5. **Play-Offs for Promotion**: The teams finishing from 3rd to 6th place enter the Championship Play-Offs. This is a knockout tournament to determine the third team to be promoted.
+6. **Final Instructions**: The referee provides final instructions to the players regarding the match rules, emphasizing any specific points of focus for the game.
 
-6. **Play-Off Semi-Finals**: The 3rd place team plays against the 6th place team, and the 4th place team plays against the 5th place team in two-legged semi-finals. The teams with the higher aggregate score over the two matches advance to the final.
+7. **Check Timekeeping Equipment**: The referee ensures that their watch or timekeeping device is functioning correctly and is set to the official match time.
 
-7. **Play-Off Final**: The winners of the semi-finals face each other in the Championship Play-Off Final, usually held at Wembley Stadium. The winner of this match secures the third and final promotion spot to the Premier League.
+8. **Positioning**: The referee takes their position on the field, ensuring they are in a suitable spot to monitor the kickoff and the start of play.
 
-8. **Financial Implications**: Promotion to the Premier League comes with significant financial benefits, including increased broadcasting revenue, sponsorship deals, and higher matchday income, which can greatly enhance a club's financial standing.
+9. **Signal Start of Match**: The referee signals the start of the match, typically by blowing the whistle to indicate that play can commence. 
 
-9. **Preparation for Premier League**: Once promoted, the teams must prepare for the Premier League, which includes strengthening their squad, adjusting their strategies, and meeting the league's financial and operational requirements.
+These steps help ensure that the match starts smoothly and that all regulations are adhered to.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1227, "prompt_tokens": 890, "completion_tokens": 337, "retrieved_doc_ids": ["39", "37", "46"], "retrieval_scores": [0.5785292930868505, 0.49095370328524496, 0.4602402594136967]}
+To determine the group stage standings in the UEFA Champions League, follow these steps:
 
-10. **Registration and Compliance**: Finally, promoted teams must ensure they comply with the Premier League's regulations and complete the necessary registration processes before the start of the new season.
-
-By following these steps, a team can successfully transition from the EFL Championship to the Premier League.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 544, "prompt_tokens": 65, "completion_tokens": 479}
-Certainly! Here are the steps referees typically follow before starting a professional football match:
-
-1. **Pre-Match Meeting**: The referee meets with the assistant referees and the fourth official to discuss the match, review any specific instructions, and confirm their roles and responsibilities.
-
-2. **Check Equipment**: The referee ensures that all necessary equipment is ready, including the match ball, whistle, cards (yellow and red), and a watch or timing device.
-
-3. **Inspect the Field**: The referee inspects the pitch to ensure it meets the required standards. This includes checking the goalposts, nets, corner flags, and overall condition of the playing surface.
-
-4. **Verify Player Eligibility**: The referee checks the team sheets submitted by both teams to confirm that all players are eligible to participate in the match.
-
-5. **Conduct Pre-Match Coin Toss**: The referee conducts a coin toss with the team captains to determine which team will kick off and which side of the pitch they will defend in the first half.
-
-6. **Review Match Protocols**: The referee goes over any specific protocols or rules that may be relevant to the match, such as VAR procedures or local regulations.
-
-7. **Warm-Up**: The referee and assistant referees perform a brief warm-up to ensure they are physically prepared for the match.
-
-8. **Final Check on Players**: The referee checks that all players are wearing the correct kit, including appropriate footwear and shin guards, and that there are no dangerous items (like jewelry) being worn.
-
-9. **Gathering at the Halfway Line**: The referee and officials gather at the halfway line to prepare for the start of the match, ensuring they are in position.
-
-10. **Kick-off**: The referee signals the start of the match by blowing the whistle, indicating that the game can begin.
-
-These steps help ensure that the match is conducted fairly and safely, adhering to the rules of the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 459, "prompt_tokens": 62, "completion_tokens": 397}
-Certainly! Here’s a step-by-step explanation of how group stage standings are determined in the UEFA Champions League:
-
-1. **Points Allocation**: Teams earn points based on their performance in matches during the group stage. A team receives:
-   - 3 points for a win
-   - 1 point for a draw
-   - 0 points for a loss
-
-2. **Total Points Calculation**: After all group matches are played, the total points for each team in the group are calculated by summing the points earned from each match.
-
-3. **Ranking Teams**: Teams in the group are ranked based on their total points. The team with the highest points is placed at the top of the group, followed by the team with the second-highest points, and so on.
-
-4. **Tiebreaker Criteria**: If two or more teams have the same number of points, the following tiebreaker criteria are applied in order:
-   - **Goal Difference**: The difference between goals scored and goals conceded. A higher goal difference ranks a team higher.
-   - **Goals Scored**: The total number of goals scored by the team. A higher number of goals scored ranks a team higher.
-   - **Head-to-Head Results**: If teams are still tied, the results of the matches played between the tied teams are considered. The team with more points in those matches ranks higher.
-   - **Head-to-Head Goal Difference**: If still tied, the goal difference from the matches between the tied teams is considered.
-   - **Head-to-Head Goals Scored**: If necessary, the total number of goals scored in the matches between the tied teams is evaluated.
-   - **Fair Play Points**: If teams are still tied, fair play points (based on yellow and red cards received) can be used as a tiebreaker.
-   - **UEFA Coefficient**: As a last resort, the UEFA coefficient ranking of the teams can be used to determine the standings.
-
-5. **Advancement to Knockout Stage**: The top two teams from each group (based on the rankings) advance to the knockout stage of the tournament, while the third-placed team may qualify for the UEFA Europa League, depending on the competition rules.
-
-By following these steps, the standings in the UEFA Champions League group stage are determined systematically and fairly.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 547, "prompt_tokens": 62, "completion_tokens": 485}
-Certainly! Here is a step-by-step procedure for conducting a penalty shootout in football:
-
-1. **Determine the Need for a Shootout**: A penalty shootout occurs when a match is tied after regular time and any extra time (if applicable) in knockout competitions.
-
-2. **Notify the Teams**: Inform both teams that a penalty shootout will take place to determine the winner.
-
-3. **Select the Goal**: Designate which goal will be used for the shootout. This is typically the goal closest to where the match ended.
-
-4. **Choose the Order of Shooters**: Each team must select five players to take penalty kicks. The teams can choose their shooters in any order they prefer.
-
-5. **Coin Toss**: Conduct a coin toss to determine which team will shoot first. The team that wins the toss can choose to either shoot first or second.
-
-6. **Position the Goalkeeper**: The goalkeeper of the defending team must remain on the goal line until the ball is kicked. They can move side to side along the line but cannot advance forward until the ball is struck.
-
-7. **Start the Shootout**: The first player from the team that was chosen to shoot first steps up to the penalty mark (12 yards from the goal) and takes their shot.
-
-8. **Record the Outcome**: After each kick, the referee must record whether the shot was a goal or a miss. The score is updated accordingly.
-
-9. **Alternate Shooters**: The teams alternate taking penalty kicks. After the first team has completed their first kick, the second team takes their first kick, and this continues until all five players from each team have taken their shots.
-
-10. **Determine the Winner**: After all ten initial kicks (five from each team), if one team has scored more goals than the other, that team is declared the winner. 
-
-11. **Tiebreaker (if necessary)**: If the score is still tied after the first round of kicks, the shootout continues to a sudden death format. Each team will take one kick at a time, and the shootout will continue until one team scores and the other does not.
-
-12. **Celebrate or Acknowledge the Outcome**: Once a winner is determined, the teams should acknowledge the result, and the winning team can celebrate their victory.
-
-13. **Post-Shootout Procedures**: Ensure that all players and officials are aware of the outcome and proceed	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 559, "prompt_tokens": 59, "completion_tokens": 500}
-FIFA ranks national teams using a specific algorithm that considers various factors. Here’s a step-by-step explanation of how the FIFA World Ranking system works:
-
-1. **Match Results**: The ranking starts with the results of international matches. Teams earn points based on whether they win, lose, or draw.
-
-2. **Match Importance**: Different matches are weighted differently. Competitive matches (like World Cup qualifiers and continental tournaments) are valued more than friendly matches. The importance of the match is categorized as follows:
-   - **A Matches**: Official competitive matches.
-   - **Friendly Matches**: Less weight compared to competitive matches.
-
-3. **Points Calculation**: Points are awarded based on the match outcome:
+1. **Points Allocation**: Each team earns points based on match results:
    - Win: 3 points
    - Draw: 1 point
    - Loss: 0 points
 
-4. **Opponent Strength**: The ranking system takes into account the strength of the opposing team. Beating a higher-ranked team earns more points than defeating a lower-ranked team. This is done using a coefficient based on the opponent's ranking.
+2. **Match Results**: After all teams in a group have played each other twice (home and away), the total points for each team are calculated.
 
-5. **Time Decay**: The ranking system uses a time decay factor, meaning that results from matches played more than four years ago have less impact on a team's current ranking. This ensures that recent performances are weighted more heavily.
+3. **Ranking Teams**: Teams are ranked in the following order based on their total points:
+   - The team with the highest points is placed at the top of the group.
+   - If two or more teams have the same number of points, the following tiebreakers are applied in order:
 
-6. **Calculation Formula**: The final ranking points for a team are calculated using a specific formula that incorporates the match results, the importance of the matches, the strength of the opponents, and the time decay of results.
+4. **Goal Difference**: Calculate the goal difference for each team, which is the difference between goals scored and goals conceded. The team with the higher goal difference ranks higher.
 
-7. **Ranking Update**: FIFA updates the rankings regularly, typically every month. This ensures that the rankings reflect the most current performances of national teams.
+5. **Goals Scored**: If teams are still tied after goal difference, the total number of goals scored by each team is considered. The team with the higher number of goals scored ranks higher.
 
-8. **Final Ranking**: After all calculations, teams are ranked from highest to lowest based on their total points. The team with the highest points is ranked first.
+6. **Head-to-Head Results**: If teams remain tied, the results of the matches played between the tied teams are examined. The team with the better head-to-head record ranks higher.
 
-By following these steps, FIFA creates a comprehensive ranking system that reflects the performance and strength of national teams in international football.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 459, "prompt_tokens": 61, "completion_tokens": 398}
-Certainly! Here’s a detailed step-by-step process for awarding and executing a direct free kick in football:
+7. **Fair Play Points**: If teams are still tied after the above criteria, fair play points may be considered, which are calculated based on yellow and red cards received during the group stage.
 
-### Awarding a Direct Free Kick
+8. **UEFA Coefficient**: As a last resort, if teams are still tied, the UEFA coefficient ranking of the clubs may be used to determine the standings.
 
-1. **Identify the Foul**: The referee must first identify an infringement of the Laws of the Game that warrants a direct free kick. This includes offenses such as tripping, pushing, holding, or any other act of misconduct committed by a player.
+9. **Final Standings**: Once all criteria have been applied, the final standings of the group are established, determining which teams advance to the knockout stage and which teams are eliminated.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1261, "prompt_tokens": 880, "completion_tokens": 381, "retrieved_doc_ids": ["10", "25", "12"], "retrieval_scores": [0.6142120741814164, 0.48412171723495456, 0.42869828180494673]}
+Here is the step-by-step procedure for conducting a penalty shootout:
 
-2. **Determine the Location**: The referee must determine the exact location on the field where the foul occurred. A direct free kick is awarded at the spot of the foul, unless the foul occurs within the penalty area, in which case a penalty kick is awarded.
+1. **Preparation**: Ensure that both teams have completed extra time and the score is still level.
 
-3. **Signal the Free Kick**: The referee will signal the awarding of the direct free kick by blowing the whistle and, if necessary, raising an arm to indicate the direction in which the kick will be taken.
+2. **Team Selection**: Each team selects five players to take penalties. These players must be those who were on the field at the end of extra time.
 
-4. **Inform Players**: The referee may communicate with the players involved, ensuring they understand the decision and the location of the free kick.
+3. **Order of Kicks**: The teams will take turns to kick, with one team kicking first.
 
-### Executing a Direct Free Kick
+4. **Taking the Penalties**:
+   - The first player from Team A takes the penalty kick.
+   - The first player from Team B takes their penalty kick.
+   - This alternation continues until all five penalties from each team have been taken.
 
-5. **Position the Ball**: The player taking the direct free kick must place the ball on the ground at the spot where the foul occurred.
+5. **Scoring**: Keep track of the number of successful penalties scored by each team.
 
-6. **Ensure Proper Distance**: The opposing team must retreat at least 9.15 meters (10 yards) away from the ball until it is in play. The referee may use their discretion to ensure this distance is respected.
+6. **Determining the Winner**:
+   - If one team scores more goals than the other after both teams have taken five penalties, that team is declared the winner.
+   - If the scores are level after the initial five penalties, proceed to sudden death.
 
-7. **Ready the Kick**: The player taking the kick can take a moment to prepare, ensuring they are ready to strike the ball.
+7. **Sudden Death**:
+   - Each team continues to take penalties alternately.
+   - The first team to score while the other team misses wins the shootout.
 
-8. **Signal for Readiness**: The player may look to the referee or their teammates to signal that they are ready to take the kick.
+8. **Completion**: The shootout concludes when one team has scored more goals than the other in the sudden death phase, or all eligible players have taken their penalties.
 
-9. **Take the Kick**: The player takes the direct free kick by striking the ball with their foot. The kick can be taken directly at the goal or passed to a teammate.
+9. **Recording Results**: The outcome of the penalty shootout is recorded by match officials.
 
-10. **Ball in Play**: The ball is considered in play as soon as it is kicked and moves. The player must ensure that the ball is stationary before taking the kick.
+This procedure ensures a fair and organized method for determining the winner in a knockout match that ends in a draw after extra time.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1232, "prompt_tokens": 899, "completion_tokens": 333, "retrieved_doc_ids": ["37", "25", "39"], "retrieval_scores": [0.6234995512002994, 0.5854282922670233, 0.4970541357764608]}
+FIFA ranks national teams in its world ranking system using a specific methodology. Here are the step-by-step instructions on how this ranking system works:
 
-11. **Follow Up**: After the kick is taken, players from both teams can move freely. The attacking team will aim to score, while the defending team will try to prevent a goal.
+1. **Match Results**: The ranking is primarily based on the results of international matches. This includes friendly matches, qualifying matches, and tournament matches.
 
-12. **Referee’s Role**: The referee will monitor the situation to ensure that the kick is taken fairly and that all players adhere to the rules, including	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 561, "prompt_tokens": 61, "completion_tokens": 500}
-Certainly! Here are the steps involved in signing a new player during the transfer window:
+2. **Points Allocation**: Teams earn points based on the outcome of each match:
+   - **Win**: A team earns points for winning a match.
+   - **Draw**: A team earns fewer points for drawing a match.
+   - **Loss**: A team earns no points for losing a match.
 
-1. **Scouting and Identification**: 
-   - Clubs identify potential targets through scouting reports, performance analysis, and recommendations from coaches and scouts.
+3. **Match Importance**: The points awarded are adjusted based on the importance of the match:
+   - **Competitive Matches**: Matches in tournaments or qualifiers carry more weight than friendly matches.
+   - **Tournament Stage**: Points may vary depending on the stage of the tournament (e.g., group stage vs. knockout stage).
 
-2. **Initial Assessment**: 
-   - The club assesses the player's fit within the team's tactical setup, needs, and budget constraints.
+4. **Opponent Strength**: The ranking system also considers the strength of the opposing team:
+   - Teams earn more points for defeating higher-ranked opponents and fewer points for defeating lower-ranked opponents.
 
-3. **Contacting the Player’s Club**: 
-   - The club makes initial contact with the player’s current club to express interest and inquire about the player's availability.
+5. **Calculation Formula**: FIFA uses a specific formula to calculate the total points for each team, taking into account the match result, importance, and opponent strength.
 
-4. **Negotiating Terms with the Selling Club**: 
-   - The clubs negotiate the transfer fee, which may include discussions about bonuses, sell-on clauses, and payment structures.
+6. **Ranking Update Frequency**: The FIFA World Rankings are updated regularly, typically every month, to reflect the latest match results and changes in team performance.
 
-5. **Player Agreement**: 
-   - Once a fee is agreed upon, the player’s club will typically agree to the transfer, and the player is informed of the negotiations.
+7. **Ranking List**: The final rankings are published in a list format, showing the position of each national team based on their accumulated points.
 
-6. **Personal Terms Negotiation**: 
-   - The club negotiates personal terms with the player, including salary, contract length, bonuses, and other benefits.
+By following these steps, FIFA establishes a ranking system that reflects the performance and competitiveness of national teams in international football.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1237, "prompt_tokens": 886, "completion_tokens": 351, "retrieved_doc_ids": ["50", "19", "49"], "retrieval_scores": [0.5742530950054786, 0.49410285479183697, 0.4613983758244976]}
+The process for awarding and executing a direct free kick in football is as follows:
 
-7. **Medical Examination**: 
-   - The player undergoes a medical examination to ensure they are fit to play and to identify any potential health issues.
+1. **Awarding the Free Kick**:
+   - The referee identifies an infringement of the Laws of the Game (e.g., a foul committed by a player).
+   - The referee stops play and signals for a direct free kick to be awarded to the opposing team at the location of the foul.
 
-8. **Contract Signing**: 
-   - Once the medical is passed, the player signs the contract, formalizing the agreement between the player and the club.
+2. **Placement of the Ball**:
+   - The ball is placed on the ground at the spot where the foul occurred.
+   - If the foul occurs within the penalty area, a penalty kick is awarded instead of a direct free kick.
 
-9. **Registration with Governing Bodies**: 
-   - The club submits the necessary paperwork to the relevant football governing bodies (e.g., FIFA, UEFA, FA) to register the player officially.
+3. **Player Identification**:
+   - The player designated to take the direct free kick must be clearly identified.
+   - Other players on the team taking the kick should position themselves appropriately.
 
-10. **Announcement**: 
-    - The club announces the signing through official channels, often accompanied by a press conference or promotional material.
+4. **Defending Team's Positioning**:
+   - The defending team must retreat to a distance of at least 10 yards (9.15 meters) from the spot of the free kick.
+   - The defending players should not interfere with the kick or the kicker’s preparation.
 
-11. **Integration into the Team**: 
-    - The player is introduced to the squad and begins training, where they integrate into the team’s dynamics and tactics.
+5. **Referee's Signal**:
+   - The referee signals for the free kick to be taken, indicating that the defending players must be at least 10 yards away.
 
-These steps can vary slightly depending on the specific circumstances of the transfer, but this outline provides a general framework for the player signing process during the transfer window.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 481, "prompt_tokens": 63, "completion_tokens": 418}
-Certainly! Here’s a step-by-step explanation of how the Ballon d'Or winner is selected:
+6. **Execution of the Free Kick**:
+   - The player taking the free kick must kick the ball forward.
+   - The kicker cannot touch the ball again until it has been touched by another player (either a teammate or an opponent).
 
-1. **Eligibility Criteria**: Players eligible for the Ballon d'Or must be professional footballers who have performed well during the calendar year. This includes players from all over the world, regardless of their nationality.
+7. **Outcome of the Kick**:
+   - The free kick is complete when the ball stops moving, goes out of play, or the referee stops play for any offense.
+   - If the ball goes directly into the opponent's goal, a goal is awarded.
+   - If the kick is taken incorrectly (e.g., the kicker touches the ball again before another player does), the kick may be disallowed, and an indirect free kick may be awarded to the opposing team.
 
-2. **Voting Panel Composition**: A panel of international journalists is assembled. This panel typically consists of one journalist from each country that has a football association recognized by FIFA.
+8. **Special Considerations**:
+   - If the free kick is taken from within the defensive team's penalty area, the ball must leave the penalty area before it can be played by another player.
+   - The referee may caution players for unsporting behavior if they attempt to obstruct or distract the kicker.
 
-3. **Nomination Process**: Before the voting begins, a shortlist of candidates is created. This shortlist usually includes around 30 players who have had outstanding performances over the year, as determined by a combination of their individual achievements and contributions to their teams.
+By following these steps, a direct free kick is properly awarded and executed in accordance with the Laws of the Game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1391, "prompt_tokens": 901, "completion_tokens": 490, "retrieved_doc_ids": ["37", "25", "39"], "retrieval_scores": [0.5967672433579453, 0.490864469145836, 0.4677901435650993]}
+The context provided does not include specific details about the steps involved in signing a new player during the transfer window. However, based on general knowledge of football transfer procedures, here are the typical steps involved:
 
-4. **Voting Procedure**: Each journalist on the panel is asked to select their top five players from the shortlist. They assign points to their selections: 6 points for their first choice, 4 points for their second choice, 3 points for their third choice, 2 points for their fourth choice, and 1 point for their fifth choice.
+1. **Scouting and Identification**: Clubs identify potential players through scouting reports, performance analysis, and recommendations from coaches and scouts.
 
-5. **Point Calculation**: After all votes are cast, the points are tallied. The player with the highest total points is declared the winner of the Ballon d'Or.
+2. **Initial Contact**: The club interested in signing the player makes initial contact with the player's current club to express interest.
 
-6. **Announcement**: The winner is announced at a ceremony, typically held in December. This event garners significant media attention and celebrates the achievements of the top players in football.
+3. **Negotiation**: The two clubs negotiate the transfer fee, which is the amount the buying club will pay to the selling club for the player's rights.
 
-7. **Award Presentation**: The Ballon d'Or trophy is presented to the winner during the ceremony, marking their recognition as the best football player in the world for that year.
+4. **Personal Terms**: Once a transfer fee is agreed upon, the buying club negotiates personal terms with the player, including salary, contract length, and any bonuses.
 
-These steps outline the process by which the prestigious Ballon d'Or award is determined and awarded.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 413, "prompt_tokens": 60, "completion_tokens": 353}
-Certainly! Here’s a step-by-step outline of the procedure used to check for an offside decision during a football match:
+5. **Medical Examination**: The player undergoes a medical examination to ensure they are fit to play and do not have any undisclosed injuries.
 
-1. **Identify the Offside Situation**: The assistant referee observes the attacking player’s position relative to the second-last opponent (usually the last outfield player) and the ball at the moment the ball is played.
+6. **Contract Signing**: After passing the medical, the player signs a contract with the buying club, formalizing the transfer.
 
-2. **Assess Player Position**: Determine if the attacking player is in an offside position. A player is in an offside position if:
-   - They are nearer to the opponent's goal line than both the ball and the second-last opponent when the ball is played.
-   - They are involved in active play (interfering with an opponent or gaining an advantage from their position).
+7. **Registration**: The buying club submits the necessary paperwork to the relevant football association to register the player officially.
 
-3. **Signal the Offside**: If the assistant referee determines that an attacking player is offside, they raise their flag to signal the infraction to the referee.
+8. **Announcement**: Once all formalities are completed, the club announces the signing to the media and fans.
 
-4. **Referee's Decision**: The referee acknowledges the assistant's signal and stops play if necessary. The referee has the final authority to confirm the offside decision.
+9. **Integration**: The player is introduced to the team and begins training with their new teammates.
 
-5. **Review by VAR (if applicable)**: If the match is using Video Assistant Referee (VAR) technology, the referee may consult VAR for a more detailed review. This includes:
-   - Checking video footage to confirm the offside decision.
-   - Analyzing the position of players at the moment the ball was played using multiple camera angles.
+These steps may vary slightly depending on the specific regulations of different leagues and football associations.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1155, "prompt_tokens": 849, "completion_tokens": 306, "retrieved_doc_ids": ["39", "16", "9"], "retrieval_scores": [0.45276543540417613, 0.35081860450988556, 0.32595020111025613]}
+The selection process for the Ballon d'Or winner involves several key steps. Here’s a clear breakdown:
 
-6. **Communication**: The VAR communicates with the on-field referee to provide insights. If the VAR confirms the offside, the referee will uphold the decision.
+1. **Eligibility**: Players from around the world are eligible for the Ballon d'Or, regardless of their league or nationality. The award is open to both male and female players, but the men's and women's awards are given separately.
 
-7. **Restart Play**: If the offside is confirmed, the opposing team is awarded an indirect free kick from the location where the offside occurred. If the VAR finds no offside, play continues as normal.
+2. **Performance Evaluation**: The performance of players is evaluated based on their achievements over the calendar year. This includes individual statistics, contributions to their teams, and success in major tournaments (e.g., domestic leagues, UEFA Champions League, international competitions).
 
-8. **Documentation**: The incident is recorded for match reports and statistics, ensuring transparency and accountability in officiating.
+3. **Voting Panel Selection**: A panel of international journalists is selected to vote for the Ballon d'Or. The panel typically consists of one journalist from each country that has a professional football league.
 
-This procedure ensures that offside decisions are made accurately and fairly during a match.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 473, "prompt_tokens": 64, "completion_tokens": 409}
-Certainly! Here’s a step-by-step guide on how a referee determines whether a foul is punishable by a yellow or red card:
+4. **Voting Process**: Each journalist on the panel is asked to submit their top five players. They assign points based on their rankings: 6 points for the first choice, 4 points for the second, 3 points for the third, 2 points for the fourth, and 1 point for the fifth.
 
-1. **Identify the Foul**: The referee must first observe the incident and determine if a foul has occurred. This includes actions like tripping, pushing, holding, or any other infringement of the Laws of the Game.
+5. **Point Calculation**: The points from all the votes are tallied. The player with the highest total points is declared the winner.
 
-2. **Assess the Severity**: The referee evaluates the nature and severity of the foul. This includes considering whether the action was reckless, excessive force, or involved serious foul play.
+6. **Announcement**: The winner is announced at a gala event, where the Ballon d'Or trophy is awarded.
 
-3. **Consider the Intent**: The referee looks at the player’s intent. Was the foul committed deliberately, or was it an accident? A deliberate foul may warrant a harsher punishment.
+7. **Consideration of Factors**: While the voting is based on performance, factors such as team success, individual accolades, and overall impact on the game during the year are also considered by the voters.
 
-4. **Evaluate the Impact**: The referee assesses the impact of the foul on the opposing player. Did it endanger their safety? Did it prevent a clear goal-scoring opportunity?
+This structured process ensures that the Ballon d'Or winner is recognized based on a combination of individual brilliance and team success over the year.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1262, "prompt_tokens": 911, "completion_tokens": 351, "retrieved_doc_ids": ["8", "25", "31"], "retrieval_scores": [0.5469749445491467, 0.4448467664257646, 0.42056467133067776]}
+The provided context does not include specific details about the procedure for checking offside decisions during a match. However, based on general knowledge of football and the VAR system, here is a step-by-step outline of the procedure used to check for an offside decision:
 
-5. **Check for Previous Offenses**: The referee considers the player's disciplinary history in the match. If the player has already received a yellow card, a subsequent foul may lead to a red card.
+1. **Incident Occurs**: A potential offside situation arises during the match, typically when an attacking player receives the ball.
 
-6. **Determine the Context**: The referee takes into account the context of the match, including the score, time remaining, and the overall flow of the game. This can influence the decision but does not override the laws.
+2. **Referee's Initial Decision**: The on-field referee makes an initial decision based on their judgment of the offside position.
 
-7. **Make the Decision**: Based on the evaluation, the referee decides whether to issue a yellow card (for cautionable offenses) or a red card (for serious offenses). 
+3. **VAR Notification**: The VAR team, monitoring the game from a video operation room, identifies the potential offside incident through multiple camera angles.
 
-8. **Communicate the Decision**: The referee signals the card decision clearly to the players and spectators, ensuring that the reason for the card is understood.
+4. **Review Process Initiated**: The VAR communicates with the on-field referee via headset to inform them of the potential offside and recommends a review if necessary.
 
-9. **Document the Incident**: The referee records the card issued in the match report, noting the player’s name, the nature of the foul, and any relevant details.
+5. **On-Field Review**: The referee may choose to conduct an on-field review by signaling for a VAR check, often indicated by making a TV screen gesture.
 
-By following these steps, a referee can make a fair and informed decision regarding the issuance of yellow or red cards during a match.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 474, "prompt_tokens": 67, "completion_tokens": 407}
-Certainly! The UEFA Champions League draw is an important event that determines the matchups for the tournament. Here’s a step-by-step explanation of how the draw is conducted each season:
+6. **Video Analysis**: The VAR team analyzes the incident using video footage, focusing on the positioning of players at the moment the ball is played. They look for:
+   - The position of the attacking player relative to the second-last defender.
+   - The moment the ball is played to determine if the player was in an offside position.
 
-1. **Qualification Rounds**: Before the main draw, teams must go through qualification rounds. These rounds consist of several stages (first qualifying round, second qualifying round, etc.) where teams compete to secure a spot in the group stage.
+7. **Communication of Findings**: After reviewing the footage, the VAR team communicates their findings to the referee, indicating whether the attacking player was onside or offside.
 
-2. **Finalizing the Teams**: Once the qualification rounds are complete, the final list of teams that will participate in the group stage is confirmed. This includes the automatic qualifiers (top teams from the strongest leagues) and the teams that have successfully navigated the qualifying rounds.
+8. **Final Decision**: The referee makes the final decision based on the VAR's input. If the player is deemed offside, the goal or attacking play is disallowed. If onside, the play continues.
 
-3. **Seeding the Teams**: The teams are then seeded into different pots based on their UEFA coefficient rankings. Typically, there are four pots:
-   - **Pot 1**: Contains the title holder and the champions of the top leagues.
-   - **Pot 2**: Contains the next highest-ranked teams.
-   - **Pot 3**: Contains teams ranked lower than those in Pot 2.
-   - **Pot 4**: Contains the lowest-ranked teams.
+9. **Signal to Restart Play**: The referee signals the decision to the players and the crowd, and play resumes accordingly.
 
-4. **Setting the Draw Date**: UEFA announces a specific date and time for the draw, which usually takes place in late August or early September.
+10. **Documentation**: The incident and the decision are recorded by match officials for review and analysis.
 
-5. **Conducting the Draw**: The draw is conducted in a live event, often hosted in a prestigious location. A representative from UEFA or a celebrity usually conducts the draw. The process involves:
-   - Drawing teams from each pot one by one.
-   - Placing teams into groups (A to H, for example) while adhering to specific rules (e.g., teams from the same country cannot be drawn into the same group).
+Note: The specifics of the VAR process may vary slightly by competition, but the general steps remain consistent.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1318, "prompt_tokens": 892, "completion_tokens": 426, "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.5214751485058009, 0.49981942420001146, 0.4974068202322065]}
+To determine whether a foul is punishable by a yellow or red card, a referee follows these steps:
 
-6. **Announcing the Groups**: As each team is drawn, the groups are announced publicly. This is often accompanied by commentary and analysis from football experts.
+1. **Identify the Nature of the Foul**: The referee observes the incident to determine if a foul has occurred, such as tripping, pushing, or holding an opponent.
 
-7. **Finalizing the Schedule**: After the groups are formed, UEFA finalizes the match schedule for the group stage, which includes dates and venues for each match.
+2. **Assess the Severity of the Foul**: The referee evaluates the severity of the foul based on the following criteria:
+   - **Intent**: Was the action intentional or reckless?
+   - **Force Used**: Was excessive force or violence used in the challenge?
+   - **Impact on the Opponent**: Did the foul endanger the safety of the opponent?
 
-8. **Publicizing the Draw Results**: The results of the draw are widely publicized through various media channels, including UEFA's official website, social media, and sports news outlets.
+3. **Consider the Context of the Match**: The referee takes into account the context of the match, including the score, time remaining, and overall game dynamics.
 
-9. **Group Stage Matches**: Following the draw, the group stage matches take place over several weeks, where teams compete to secure a place in the knockout stages.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 561, "prompt_tokens": 61, "completion_tokens": 500}
-Certainly! Here’s a step-by-step guide on the process of appealing a red card in professional football:
+4. **Determine the Type of Card**:
+   - **Yellow Card (Caution)**: If the foul is deemed to be a minor offense, such as unsporting behavior, persistent infringement, or delaying the restart of play, the referee issues a yellow card.
+   - **Red Card (Sending Off)**: If the foul is serious, such as violent conduct, using excessive force, or denying an obvious goal-scoring opportunity, the referee issues a red card.
 
-1. **Immediate Reaction**: After the red card is issued, the player, coach, or club officials should remain calm and respectful towards the match officials. This is crucial for maintaining professionalism.
+5. **Communicate the Decision**: The referee signals the card decision clearly, showing the yellow or red card to the offending player and informing them of the reason for the card.
 
-2. **Review the Match Report**: The club should obtain the official match report from the referee, which details the reasons for the red card. This document is essential for understanding the basis of the decision.
+6. **Record the Incident**: The referee ensures that the incident is recorded in the match report, noting the player’s name, the nature of the offense, and the type of card issued.
 
-3. **Gather Evidence**: Collect any video footage of the incident, including highlights from the match. This evidence can be critical in supporting the appeal.
+7. **Enforce the Consequences**: If a red card is issued, the player must leave the field immediately, and their team must continue with one player less. If a yellow card is issued, the player remains on the field but is cautioned.
 
-4. **Consult with Legal or Football Experts**: The club should consult with legal advisors or football experts to evaluate the chances of a successful appeal based on the evidence and the rules of the competition.
+By following these steps, the referee ensures that the disciplinary actions taken are fair and consistent with the laws of the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1315, "prompt_tokens": 895, "completion_tokens": 420, "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.4705434156157823, 0.44536923622841074, 0.43883905552708935]}
+The UEFA Champions League draw is conducted each season through a structured process. Here are the step-by-step instructions:
 
-5. **Prepare the Appeal Submission**: Draft a formal appeal letter addressed to the relevant governing body (e.g., the Football Association, UEFA, or FIFA). This letter should include:
-   - The player's details
-   - Match details (date, teams, competition)
-   - A clear statement of the appeal
-   - Supporting evidence (video clips, witness statements, etc.)
-   - Any relevant rules or precedents that support the appeal
+1. **Preparation of Teams**: Before the draw, all the qualified teams are categorized based on their performance in domestic leagues and UEFA coefficients. Teams are divided into different pots.
 
-6. **Submit the Appeal**: Send the appeal to the governing body within the stipulated timeframe, which is usually within a few days of the match. Ensure that all required documentation is included.
+2. **Formation of Pots**: 
+   - **Pot 1**: Contains the reigning Champions League title holders and the UEFA Europa League winners, along with the top-ranked teams from the highest-ranked leagues.
+   - **Pots 2, 3, and 4**: These pots include the remaining qualified teams, ranked according to their UEFA coefficients.
 
-7. **Await Response**: After submission, the club must wait for the governing body to review the appeal. This process may take several days to weeks, depending on the organization.
+3. **Setting the Date and Venue**: The draw is scheduled and announced by UEFA, typically taking place in late August for the group stage. The venue is often a prestigious location in Europe.
 
-8. **Attend the Hearing (if applicable)**: In some cases, a hearing may be scheduled where the club can present their case in person. Be prepared to provide a strong argument and answer any questions from the panel.
+4. **Conducting the Draw**: 
+   - A UEFA official or a celebrity draws teams from each pot one by one.
+   - The first team drawn from Pot 1 is placed in Group A, the second in Group B, and so on until all groups are filled.
 
-9. **Receive the Decision**: Once the governing body has made a decision, they will communicate the outcome to the club. This could result in the red card being upheld, overturned, or the punishment being reduced.
+5. **Placement of Teams**: As teams are drawn, they are placed into groups (A to H) according to the order of the draw. Each group will consist of one team from each pot.
 
-10. **Implement Next Steps**: Depending on the outcome, the club should take appropriate action. If the appeal is successful, the player may be eligible to play in upcoming matches. If unsuccessful, the club may need to consider further options, such as accepting the decision or exploring other avenues.
+6. **Adhering to Restrictions**: The draw must comply with specific restrictions, such as not allowing teams from the same country to be placed in the same group.
 
-By following these steps, a club can effectively navigate the process of	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 561, "prompt_tokens": 61, "completion_tokens": 500}
-Certainly! Here’s a step-by-step explanation of how the away goals rule was applied in UEFA competitions before it was abolished:
+7. **Finalizing the Groups**: Once all teams have been drawn and placed into their respective groups, the groups are confirmed and announced to the public.
 
-1. **Two-Legged Tie Format**: In UEFA competitions, knockout rounds were typically played over two legs. Each team played one match at home and one away.
+8. **Post-Draw Procedures**: Following the draw, UEFA publishes the group stage fixtures, and the teams prepare for the matches, which begin in September.
 
-2. **Aggregate Score Calculation**: After both legs were completed, the scores from each match were combined to determine the aggregate score. For example, if Team A won the first leg 2-1 and lost the second leg 1-3, the aggregate score would be 3-4 in favor of Team B.
+This structured approach ensures a fair and organized draw for the UEFA Champions League each season.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1347, "prompt_tokens": 957, "completion_tokens": 390, "retrieved_doc_ids": ["10", "25", "50"], "retrieval_scores": [0.6136674262694103, 0.4720392286140067, 0.4294285024248661]}
+The context provided does not specifically outline the process of appealing a red card in professional football. However, based on general knowledge of football regulations, here is a step-by-step guide on how a team can appeal a red card decision:
 
-3. **Application of the Away Goals Rule**: If the aggregate score was tied (e.g., both teams scored a total of 3 goals over the two legs), the away goals rule was applied. This rule stated that the team that scored more goals away from home would advance to the next round.
+1. **Review the Incident**: After the match, the club reviews the circumstances surrounding the red card, including video footage and referee reports.
 
-4. **Determining Away Goals**: For example, if Team A scored 1 goal at home and 2 goals away (totaling 3 goals), and Team B scored 3 goals at home and 0 goals away (totaling 3 goals), Team A would advance because they scored 2 away goals compared to Team B's 0 away goals.
+2. **Consult with Officials**: The club's management or coaching staff consults with the team’s legal or compliance department to understand the grounds for an appeal based on the rules and regulations of the competition.
 
-5. **Extra Time and Penalties**: If the aggregate score remained tied after considering away goals, the match would go into extra time. If the score was still tied after extra time, a penalty shootout would determine the winner.
+3. **Gather Evidence**: Collect any relevant evidence that supports the appeal, such as video footage, witness statements, or any other documentation that may demonstrate that the red card was unjustified.
 
-6. **Abolition of the Rule**: In June 2021, UEFA announced the abolition of the away goals rule, meaning that if the aggregate score was tied after both legs, the match would proceed directly to extra time and, if necessary, penalties, without considering away goals.
+4. **Prepare an Appeal Letter**: Draft a formal appeal letter addressed to the governing body of the competition (e.g., FA, UEFA) outlining the reasons for the appeal, including the evidence gathered.
 
-This process was designed to encourage attacking play and reward teams for scoring away from home, but it was ultimately replaced due to various criticisms and the evolving nature of the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 470, "prompt_tokens": 65, "completion_tokens": 405}
-Certainly! Here’s a step-by-step outline of the sequence of events during a player substitution in an official FIFA match:
+5. **Submit the Appeal**: Send the appeal letter along with any supporting evidence to the relevant governing body within the specified time frame (usually within a few days after the match).
 
-1. **Decision to Substitute**: The coach or manager decides to make a substitution based on the match situation, player performance, or tactical adjustments.
+6. **Await Response**: Wait for the governing body to review the appeal. This may involve a hearing or review process where the club may be invited to present their case.
 
-2. **Notification to Fourth Official**: The coach communicates the substitution to the fourth official, indicating which player will be substituted out and who will be substituted in.
+7. **Receive Decision**: The governing body will communicate their decision regarding the appeal. This can result in the upholding of the red card, a reduction of the suspension, or in some cases, the overturning of the red card.
 
-3. **Preparation of Substitute**: The substitute player prepares to enter the field, usually by warming up on the sidelines.
+8. **Implement Decision**: If the appeal is successful, the player may be eligible to play in subsequent matches. If the appeal is denied, the club must adhere to the original suspension imposed on the player.
 
-4. **Signal to Referee**: The fourth official raises a substitution board to indicate the number of the player coming off and the number of the player coming on.
+Please note that the specific procedures and timelines may vary depending on the league or competition's regulations.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1272, "prompt_tokens": 889, "completion_tokens": 383, "retrieved_doc_ids": ["46", "39", "37"], "retrieval_scores": [0.47629429485004093, 0.4654194291683882, 0.449996453214318]}
+The away goals rule was applied in UEFA competitions to determine the winner of two-legged knockout ties when the aggregate score was level after both matches. Here’s how it worked, step-by-step:
 
-5. **Referee Acknowledgment**: The referee acknowledges the substitution signal from the fourth official.
+1. **Two-Legged Tie**: Each knockout round consisted of two matches, one played at each team's home ground.
 
-6. **Substituted Player Exits**: The player being substituted leaves the field of play at the nearest touchline, ensuring they do not interfere with the ongoing play.
+2. **Aggregate Score Calculation**: After both matches were completed, the total number of goals scored by each team across both matches was calculated. This is known as the aggregate score.
 
-7. **Substitute Enters**: The substitute player enters the field of play at the same point where the outgoing player exited, ensuring they do not enter until the outgoing player has fully left the field.
+3. **Tied Aggregate Score**: If the aggregate score was tied (e.g., 3-3), the next step was to apply the away goals rule.
 
-8. **Confirmation of Substitution**: The fourth official confirms the substitution to the referee, who then updates the match record.
+4. **Away Goals Count**: The team that scored more goals in the away match (the match played at the opponent's home ground) was declared the winner. For example, if Team A scored 2 goals at Team B's stadium and Team B scored 1 goal at Team A's stadium, Team A would advance due to the away goals rule (2 away goals to 1).
 
-9. **Restart of Play**: The match continues, either with a restart of play if it was stopped for the substitution or as part of the ongoing game.
+5. **No Away Goals Advantage**: If both teams scored the same number of away goals (e.g., both scored 1 away goal), the tie would remain tied on away goals, and the next step would be taken.
 
-10. **Record Keeping**: The match officials record the substitution in the official match report, noting the time and players involved.
+6. **Extra Time**: If the away goals rule did not determine a winner, the match would proceed to extra time, consisting of two 15-minute periods.
 
-This sequence ensures that substitutions are conducted smoothly and in accordance with FIFA regulations.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 410, "prompt_tokens": 64, "completion_tokens": 346}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 91, "prompt_tokens": 89, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 96, "prompt_tokens": 94, "completion_tokens": 2}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 93, "prompt_tokens": 91, "completion_tokens": 2}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 88, "prompt_tokens": 86, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 96, "prompt_tokens": 94, "completion_tokens": 2}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 87, "prompt_tokens": 85, "completion_tokens": 2}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 91, "prompt_tokens": 89, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 86, "prompt_tokens": 84, "completion_tokens": 2}
-D	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 89, "prompt_tokens": 87, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 92, "prompt_tokens": 90, "completion_tokens": 2}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 90, "prompt_tokens": 88, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 92, "prompt_tokens": 90, "completion_tokens": 2}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 86, "prompt_tokens": 84, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 92, "prompt_tokens": 90, "completion_tokens": 2}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 104, "prompt_tokens": 102, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 107, "prompt_tokens": 105, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 84, "prompt_tokens": 82, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 90, "prompt_tokens": 88, "completion_tokens": 2}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 93, "prompt_tokens": 91, "completion_tokens": 2}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 95, "prompt_tokens": 93, "completion_tokens": 2}
+7. **Penalty Shootout**: If the score remained level after extra time, the match would then go to a penalty shootout to determine the winner.
+
+This rule was designed to encourage attacking play away from home, as scoring away goals could provide a significant advantage in knockout rounds. However, it was abolished by UEFA in 2021, meaning that tied two-legged matches now go directly to extra time and, if necessary, penalties, without considering away goals.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1288, "prompt_tokens": 897, "completion_tokens": 391, "retrieved_doc_ids": ["25", "37", "10"], "retrieval_scores": [0.5140877581868467, 0.38281224217369897, 0.37550562800547777]}
+Here is the sequence of events during a player substitution in an official FIFA match, outlined step-by-step:
+
+1. **Notification**: The team informs the fourth official of the intended substitution.
+
+2. **Preparation**: The substitute player prepares on the sideline, wearing a numbered bib.
+
+3. **Referee Authorization**: The substitute cannot enter the field until authorized by the referee.
+
+4. **Stopping Play**: Play must be stopped by the referee before the substitution can take place.
+
+5. **Leaving the Field**: The player being substituted must leave the field at the nearest boundary line.
+
+6. **Entering the Field**: The substitute enters the field from the halfway line after the replaced player has completely left.
+
+7. **Completion of Substitution**: The substitution is completed when the substitute enters the field.
+
+8. **Informing the Referee**: The referee is informed which player is being replaced and by whom.
+
+9. **Post-Substitution**: The replaced player cannot re-enter the match, and the substitute becomes a full player with all rights and responsibilities.
+
+10. **Recording**: The substitution is recorded by match officials.
+
+11. **Expedited Substitution (if necessary)**: If the player being substituted is injured and cannot continue, the substitution may be expedited.
+
+12. **Compliance with Special Rules**: Ensure that substitutions are typically made during stoppages and that any specific rules regarding goalkeepers or additional substitutions in extra time are followed.
+
+13. **Penalty for Delays**: The referee may show yellow cards to players who delay substitutions or enter the field without permission.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1230, "prompt_tokens": 904, "completion_tokens": 326, "retrieved_doc_ids": ["39", "37", "25"], "retrieval_scores": [0.8046848703942722, 0.5141372301089118, 0.4836286397129139]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 837, "prompt_tokens": 835, "completion_tokens": 2, "retrieved_doc_ids": ["16", "40", "38"], "retrieval_scores": [0.6744646979683364, 0.42191069830237166, 0.3715491738277091]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 864, "prompt_tokens": 862, "completion_tokens": 2, "retrieved_doc_ids": ["21", "49", "19"], "retrieval_scores": [0.6989588971253127, 0.5001857919662246, 0.4831552310322405]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 889, "prompt_tokens": 887, "completion_tokens": 2, "retrieved_doc_ids": ["45", "41", "17"], "retrieval_scores": [0.6625166184492086, 0.5359864145733745, 0.4015522507327619]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 917, "prompt_tokens": 915, "completion_tokens": 2, "retrieved_doc_ids": ["44", "49", "0"], "retrieval_scores": [0.6386217393285484, 0.5708266024889158, 0.5218837690443848]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 975, "prompt_tokens": 973, "completion_tokens": 2, "retrieved_doc_ids": ["30", "6", "3"], "retrieval_scores": [0.6685631391701994, 0.4961242657666244, 0.48623471334681634]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 830, "prompt_tokens": 828, "completion_tokens": 2, "retrieved_doc_ids": ["27", "40", "12"], "retrieval_scores": [0.5747917337056533, 0.5533062439360128, 0.4702483920900146]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 965, "prompt_tokens": 963, "completion_tokens": 2, "retrieved_doc_ids": ["8", "31", "3"], "retrieval_scores": [0.5555407496132709, 0.5335819460819919, 0.5108575693145757]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 807, "prompt_tokens": 805, "completion_tokens": 2, "retrieved_doc_ids": ["20", "6", "49"], "retrieval_scores": [0.47069089747686155, 0.4228179344985977, 0.3863654049355342]}
+D	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 792, "prompt_tokens": 790, "completion_tokens": 2, "retrieved_doc_ids": ["23", "42", "13"], "retrieval_scores": [0.5719241385369888, 0.4249664740271775, 0.30965337711641644]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 822, "prompt_tokens": 820, "completion_tokens": 2, "retrieved_doc_ids": ["42", "41", "12"], "retrieval_scores": [0.467405620830811, 0.4007613493001298, 0.36652244537196893]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 814, "prompt_tokens": 812, "completion_tokens": 2, "retrieved_doc_ids": ["5", "4", "35"], "retrieval_scores": [0.6643556696791656, 0.5362109371338974, 0.4716407324021206]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 873, "prompt_tokens": 871, "completion_tokens": 2, "retrieved_doc_ids": ["12", "24", "28"], "retrieval_scores": [0.41183962578032457, 0.3882267431243333, 0.38324983126646134]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 772, "prompt_tokens": 770, "completion_tokens": 2, "retrieved_doc_ids": ["20", "49", "48"], "retrieval_scores": [0.4816391113417419, 0.439275610732908, 0.3885104192633763]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 823, "prompt_tokens": 821, "completion_tokens": 2, "retrieved_doc_ids": ["11", "32", "3"], "retrieval_scores": [0.7017522887525894, 0.5060504064542894, 0.480078332061945]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 886, "prompt_tokens": 884, "completion_tokens": 2, "retrieved_doc_ids": ["28", "38", "12"], "retrieval_scores": [0.6307967179232198, 0.5845673760680036, 0.511021669512745]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 823, "prompt_tokens": 821, "completion_tokens": 2, "retrieved_doc_ids": ["7", "40", "27"], "retrieval_scores": [0.44392091457197363, 0.4078175702586184, 0.3654210122333402]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 826, "prompt_tokens": 824, "completion_tokens": 2, "retrieved_doc_ids": ["17", "49", "24"], "retrieval_scores": [0.5062996783740257, 0.5004398557482951, 0.48429791304444547]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 691, "prompt_tokens": 689, "completion_tokens": 2, "retrieved_doc_ids": ["1", "9", "18"], "retrieval_scores": [0.4557851002254403, 0.39306850457650055, 0.37212280884980753]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1021, "prompt_tokens": 1019, "completion_tokens": 2, "retrieved_doc_ids": ["3", "30", "21"], "retrieval_scores": [0.4960773116673155, 0.4646194324723504, 0.43808836567987225]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 736, "prompt_tokens": 734, "completion_tokens": 2, "retrieved_doc_ids": ["13", "33", "34"], "retrieval_scores": [0.6251757991606945, 0.40345590568886736, 0.4004741948085249]}
+11 players	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 920, "prompt_tokens": 917, "completion_tokens": 3, "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [0.4175509869425843, 0.3418816392536032, 0.32556852724146074]}
+Marta	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 866, "prompt_tokens": 863, "completion_tokens": 3, "retrieved_doc_ids": ["49", "3", "15"], "retrieval_scores": [0.5174186715701518, 0.5025797532864531, 0.4906166897426507]}
+Red card	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 826, "prompt_tokens": 823, "completion_tokens": 3, "retrieved_doc_ids": ["21", "6", "48"], "retrieval_scores": [0.4632358741407311, 0.4103960066120397, 0.3785495220468559]}
+Arsenal	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 723, "prompt_tokens": 720, "completion_tokens": 3, "retrieved_doc_ids": ["36", "27", "7"], "retrieval_scores": [0.519330896875597, 0.47244909815436414, 0.43219609225097994]}
+Erling Haaland	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 731, "prompt_tokens": 726, "completion_tokens": 5, "retrieved_doc_ids": ["18", "40", "11"], "retrieval_scores": [0.5608144973290506, 0.5435722618821535, 0.5357604931629525]}
+1. United States  
+2. Mexico  
+3. Canada	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 847, "prompt_tokens": 833, "completion_tokens": 14, "retrieved_doc_ids": ["49", "0", "4"], "retrieval_scores": [0.6627897263799719, 0.5655774637879243, 0.5208163593080549]}
+1. Uruguay  
+2. Brazil  
+3. Argentina	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 879, "prompt_tokens": 866, "completion_tokens": 13, "retrieved_doc_ids": ["49", "20", "44"], "retrieval_scores": [0.5738222991660682, 0.5347421879974309, 0.5037273332973276]}
+1. Thomas Müller (Germany) - 2010
+2. Diego Forlán (Uruguay) - 2014
+3. Harry Kane (England) - 2018
+4. Kylian Mbappé (France) - 2022	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 889, "prompt_tokens": 835, "completion_tokens": 54, "retrieved_doc_ids": ["1", "3", "31"], "retrieval_scores": [0.626722104540826, 0.6180602514408395, 0.5672205849335541]}
+1. Manchester United  
+2. Arsenal  
+3. Chelsea  
+4. Blackburn Rovers  
+5. Manchester City  
+6. Leicester City	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 848, "prompt_tokens": 818, "completion_tokens": 30, "retrieved_doc_ids": ["40", "27", "12"], "retrieval_scores": [0.5734335533785649, 0.5112422207193237, 0.47764549588273386]}
+1. Rangers  
+2. Celtic  
+3. Aberdeen  
+4. Hearts  
+
+Other major derbies in Scottish football include:  
+- Edinburgh Derby (Hearts vs Hibernian)  
+- Dundee Derby (Dundee vs Dundee United)  
+- West of Scotland Derby (Rangers vs Partick Thistle)  
+- Fife Derby (East Fife vs Raith Rovers)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 812, "prompt_tokens": 731, "completion_tokens": 81, "retrieved_doc_ids": ["27", "40", "36"], "retrieval_scores": [0.3757807284327236, 0.3415067733849864, 0.33299787696851735]}
+The procedure for conducting the coin toss before a football match is as follows:
+
+1. **Pre-Match Preparation**: The referee gathers both team captains and the match officials at the center of the field before the match begins.
+
+2. **Coin Selection**: The referee takes a coin, which is typically a standard coin with a distinct side (heads and tails).
+
+3. **Captain's Call**: The referee asks one of the team captains to call the coin toss while the coin is in the air. The captain can choose either "heads" or "tails."
+
+4. **Tossing the Coin**: The referee tosses the coin into the air, ensuring that it flips and is visible to all present.
+
+5. **Result Announcement**: Once the coin lands, the referee announces the result (either heads or tails) to both captains.
+
+6. **Choosing Ends**: The captain who wins the toss can choose either:
+   - The end of the field they wish to attack in the first half, or
+   - The option to kick off the match.
+
+7. **Confirmation**: The referee confirms the decision and ensures that both teams are aware of which end they will be attacking and who will kick off.
+
+8. **Proceeding to Kick-Off**: After the coin toss is completed and decisions are made, the teams return to their respective positions for the kick-off to start the match.
+
+This procedure ensures a fair start to the match and is an important tradition in football.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1208, "prompt_tokens": 902, "completion_tokens": 306, "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [0.42997687641170923, 0.39025342122459733, 0.38472187115454554]}
+Based on the provided context, the specific steps involved in applying the handball rule in the penalty area are not explicitly detailed. However, I can provide a general outline of the steps typically followed when a handball offense occurs in the penalty area, based on common football regulations:
+
+1. **Observation**: The referee observes the play and identifies a potential handball offense in the penalty area.
+
+2. **Assessment of Intent**: The referee assesses whether the player deliberately handled the ball or if it was an accidental contact. Factors considered include the position of the player's arms, the distance to the ball, and the player's movement.
+
+3. **Determination of Position**: The referee evaluates the position of the player’s arms at the time of contact. If the arms are in an unnatural position (e.g., away from the body), it may indicate a handball offense.
+
+4. **Decision Making**: If the referee determines that a handball offense has occurred, they decide whether to award a penalty kick to the opposing team.
+
+5. **Signal**: The referee signals the decision by pointing to the penalty mark to indicate that a penalty kick will be awarded.
+
+6. **Communication**: The referee communicates the decision to the players and may explain the reasoning if necessary.
+
+7. **Penalty Kick Procedure**: The game proceeds to the penalty kick procedure as outlined in the FIFA Laws of the Game, including the placement of the ball, player positioning, and the actions of the goalkeeper.
+
+8. **Follow-up**: After the penalty kick is taken, the referee continues to monitor the game for any further offenses or incidents.
+
+These steps provide a general framework for how the handball rule is applied in the penalty area during a football match.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1255, "prompt_tokens": 904, "completion_tokens": 351, "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.6068759585685313, 0.481433345328285, 0.40396696868320286]}
+The provided context does not include specific information about goal-line technology. However, I can outline how goal-line technology generally works in modern football based on my knowledge.
+
+1. **Installation of Cameras**: Multiple high-speed cameras are installed in the stadium, typically positioned around the goal area to capture the ball's position from various angles.
+
+2. **Ball Sensors**: Some systems use a special ball that contains sensors to detect its position relative to the goal line.
+
+3. **Real-Time Data Processing**: The camera system continuously tracks the ball's movement and sends the data to a central processing unit.
+
+4. **Goal Detection Algorithm**: The system uses advanced algorithms to determine whether the entire ball has crossed the goal line. This is done by analyzing the footage from the cameras and/or the data from the ball sensors.
+
+5. **Instant Communication**: When a goal is detected, the system sends an instant signal to the referee's watch or earpiece, typically within one second.
+
+6. **Referee Decision**: The referee receives the confirmation of the goal and can then make the official call on the field.
+
+7. **Public Announcement**: Once the goal is confirmed, the stadium's scoreboard and public address system are updated to inform players, officials, and fans that a goal has been scored.
+
+8. **Review Process**: In case of any disputes, the footage can be reviewed by officials, but the initial decision made by the goal-line technology is considered final.
+
+This technology is designed to eliminate human error in goal decisions and enhance the accuracy of officiating in football matches.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1208, "prompt_tokens": 887, "completion_tokens": 321, "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.4895206045984294, 0.4713549157970141, 0.39482895825033204]}
+The provided context does not contain information about the process of appealing against a transfer ban in football. Therefore, I cannot provide step-by-step instructions based on the context given. However, I can provide a general outline of the typical steps involved in appealing a transfer ban based on common practices in football:
+
+1. **Review the Ban**: The club should thoroughly review the reasons for the transfer ban as stated by the governing body (e.g., FIFA, UEFA).
+
+2. **Gather Evidence**: Collect all relevant documentation and evidence that supports the club's case, including contracts, communications, and any compliance measures taken.
+
+3. **Consult Legal Advisors**: Engage with legal experts who specialize in sports law to understand the implications of the ban and the appeal process.
+
+4. **Prepare the Appeal**: Draft a formal appeal letter outlining the reasons for the appeal, the evidence gathered, and any legal arguments that support the club's position.
+
+5. **Submit the Appeal**: File the appeal with the appropriate governing body within the specified time frame. Ensure that all required forms and documentation are included.
+
+6. **Await Acknowledgment**: Wait for confirmation from the governing body that the appeal has been received and is being processed.
+
+7. **Attend Hearings (if applicable)**: If the governing body schedules a hearing, prepare to present the case. This may involve presenting evidence and arguments in front of a panel.
+
+8. **Receive the Decision**: After the appeal process is complete, await the decision from the governing body regarding the appeal.
+
+9. **Consider Further Action**: If the appeal is unsuccessful, consult with legal advisors about the possibility of further appeals to higher courts or arbitration bodies, such as the Court of Arbitration for Sport (CAS).
+
+10. **Implement Changes (if necessary)**: If the appeal is successful, ensure that any required changes or compliance measures are implemented to avoid future issues.
+
+Please note that the actual process may vary depending on the specific governing body and the circumstances of the transfer ban.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1295, "prompt_tokens": 889, "completion_tokens": 406, "retrieved_doc_ids": ["39", "46", "37"], "retrieval_scores": [0.39784308138579155, 0.39248511099641215, 0.38478266797787186]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1024, "prompt_tokens": 1022, "completion_tokens": 2, "retrieved_doc_ids": ["30", "31", "8"], "retrieval_scores": [0.5425838134886184, 0.5342440642595978, 0.500444799622236]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 810, "prompt_tokens": 808, "completion_tokens": 2, "retrieved_doc_ids": ["17", "21", "20"], "retrieval_scores": [0.6087921995667852, 0.4445546451967377, 0.43405661354311925]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 822, "prompt_tokens": 820, "completion_tokens": 2, "retrieved_doc_ids": ["35", "23", "48"], "retrieval_scores": [0.36192548279983344, 0.34509422669035794, 0.3253151208644333]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 896, "prompt_tokens": 894, "completion_tokens": 2, "retrieved_doc_ids": ["42", "2", "44"], "retrieval_scores": [0.5695120941055117, 0.40230002672344156, 0.38715019634755415]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 852, "prompt_tokens": 850, "completion_tokens": 2, "retrieved_doc_ids": ["38", "40", "28"], "retrieval_scores": [0.44649414749350824, 0.42923958453880917, 0.4259388198008308]}

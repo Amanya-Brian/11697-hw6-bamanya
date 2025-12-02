@@ -10,11 +10,11 @@ OVERALL SCORES BY CONFIGURATION
 
 Configuration            LLM Judge (0-2) Exact Match    F1 ScoreContains Match     ROUGE-L
 --------------------------------------------------------------------------------
-bm25_gpt                       0.4568      0.1975      0.2383      0.2469      0.2163
-bm25_llama                     0.3580      0.1358      0.1637      0.1605      0.1510
-dense_gpt                      0.4568      0.1852      0.2280      0.2469      0.2146
-dense_llama                    0.3457      0.1605      0.1724      0.1852      0.1661
-none_gpt                       0.4568      0.1975      0.2399      0.2593      0.2245
+bm25_gpt                       0.3900      0.1600      0.2003      0.2200      0.1934
+bm25_llama                     0.3500      0.1500      0.1833      0.2100      0.1755
+dense_gpt                      0.4000      0.1600      0.2104      0.2400      0.2038
+dense_llama                    0.3800      0.1700      0.1924      0.2100      0.1885
+none_gpt                       0.3600      0.1500      0.1884      0.2200      0.1800
 
 
 --------------------------------------------------------------------------------
@@ -22,53 +22,53 @@ DETAILED RESULTS
 --------------------------------------------------------------------------------
 
 Configuration: bm25_gpt
-  Questions evaluated: 81
-  LLM Judge (0-2): 0.4568
-  Exact Match: 0.1975
-  F1 Score: 0.2383
-  Contains Match: 0.2469
-  ROUGE-L: 0.2163
+  Questions evaluated: 100
+  LLM Judge (0-2): 0.3900
+  Exact Match: 0.1600
+  F1 Score: 0.2003
+  Contains Match: 0.2200
+  ROUGE-L: 0.1934
 
 Configuration: bm25_llama
-  Questions evaluated: 81
-  LLM Judge (0-2): 0.3580
-  Exact Match: 0.1358
-  F1 Score: 0.1637
-  Contains Match: 0.1605
-  ROUGE-L: 0.1510
+  Questions evaluated: 100
+  LLM Judge (0-2): 0.3500
+  Exact Match: 0.1500
+  F1 Score: 0.1833
+  Contains Match: 0.2100
+  ROUGE-L: 0.1755
 
 Configuration: dense_gpt
-  Questions evaluated: 81
-  LLM Judge (0-2): 0.4568
-  Exact Match: 0.1852
-  F1 Score: 0.2280
-  Contains Match: 0.2469
-  ROUGE-L: 0.2146
+  Questions evaluated: 100
+  LLM Judge (0-2): 0.4000
+  Exact Match: 0.1600
+  F1 Score: 0.2104
+  Contains Match: 0.2400
+  ROUGE-L: 0.2038
 
 Configuration: dense_llama
-  Questions evaluated: 81
-  LLM Judge (0-2): 0.3457
-  Exact Match: 0.1605
-  F1 Score: 0.1724
-  Contains Match: 0.1852
-  ROUGE-L: 0.1661
+  Questions evaluated: 100
+  LLM Judge (0-2): 0.3800
+  Exact Match: 0.1700
+  F1 Score: 0.1924
+  Contains Match: 0.2100
+  ROUGE-L: 0.1885
 
 Configuration: none_gpt
-  Questions evaluated: 81
-  LLM Judge (0-2): 0.4568
-  Exact Match: 0.1975
-  F1 Score: 0.2399
-  Contains Match: 0.2593
-  ROUGE-L: 0.2245
+  Questions evaluated: 100
+  LLM Judge (0-2): 0.3600
+  Exact Match: 0.1500
+  F1 Score: 0.1884
+  Contains Match: 0.2200
+  ROUGE-L: 0.1800
 
 --------------------------------------------------------------------------------
 BEST CONFIGURATION PER METRIC
 --------------------------------------------------------------------------------
 
-LLM Judge (0-2): bm25_gpt (0.4568)
-Exact Match: bm25_gpt (0.1975)
-F1 Score: none_gpt (0.2399)
-Contains Match: none_gpt (0.2593)
-ROUGE-L: none_gpt (0.2245)
+LLM Judge (0-2): dense_gpt (0.4000)
+Exact Match: dense_llama (0.1700)
+F1 Score: dense_gpt (0.2104)
+Contains Match: dense_gpt (0.2400)
+ROUGE-L: dense_gpt (0.2038)
 
 ================================================================================

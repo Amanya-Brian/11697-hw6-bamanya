@@ -7,7 +7,6 @@ import json
 from typing import List, Dict, Tuple
 from tqdm import tqdm
 
-# Add src to path
 sys.path.insert(0, os.path.dirname(__file__))
 
 from utils.data_loader import load_questions, load_answers
@@ -38,11 +37,9 @@ def load_predictions(prediction_file: str) -> Tuple[List[str], List[Dict]]:
             
             parts = line.split('\t')
             
-            # Get prediction (first column)
             prediction = parts[0] if len(parts) > 0 else ""
             predictions.append(prediction)
             
-            # Get metadata (second column)
             if len(parts) > 1:
                 try:
                     metadata = json.loads(parts[1])
@@ -80,7 +77,6 @@ def evaluate_predictions(
     Returns:
         List of evaluation result dictionaries
     """
-    # Initialize evaluators
     evaluators = {}
     
     if use_llm_judge:
@@ -90,12 +86,10 @@ def evaluate_predictions(
     if use_automatic:
         evaluators['automatic'] = AutomaticMetricsEvaluator()
     
-    # Always initialize ROUGE (will use simple fallback if library not available)
     if use_rouge:
         print("Initializing ROUGE evaluator...")
         evaluators['rouge'] = ROUGEEvaluator()
     
-    # Evaluate each prediction
     results = []
     
     print(f"Evaluating {len(predictions)} predictions...")
@@ -113,7 +107,6 @@ def evaluate_predictions(
             'prediction': pred
         }
         
-        # LLM Judge
         if 'llm_judge' in evaluators:
             try:
                 score, reasoning = evaluators['llm_judge'].evaluate_single(
@@ -129,21 +122,19 @@ def evaluate_predictions(
                 result['llm_judge_score'] = 0
                 result['llm_judge_reasoning'] = f"Error: {str(e)}"
         
-        # Automatic metrics
         if 'automatic' in evaluators:
             auto_scores = evaluators['automatic'].evaluate_single(gold, pred, qtype)
             result['exact_match'] = auto_scores['exact_match']
             result['f1_score'] = auto_scores['f1_score']
             result['contains_match'] = auto_scores['contains_match']
         
-        # ROUGE
         if 'rouge' in evaluators:
             rouge_scores = evaluators['rouge'].evaluate_single(gold, pred)
             result['rouge_l'] = rouge_scores['rouge_l']
         
         results.append(result)
     
-    # Print LLM judge stats
+    # judge stats
     if 'llm_judge' in evaluators:
         stats = evaluators['llm_judge'].get_stats()
         print(f"\nLLM Judge Stats:")
@@ -165,7 +156,7 @@ def compute_aggregate_scores(results: List[Dict]) -> Dict:
     """
     aggregates = {}
     
-    # Count non-empty predictions
+    # non-empty predictions
     non_empty = sum(1 for r in results if r['prediction'] and r['prediction'].strip())
     total = len(results)
     
@@ -181,7 +172,6 @@ def compute_aggregate_scores(results: List[Dict]) -> Dict:
         aggregates['llm_judge_1'] = sum(1 for s in scores if s == 1)
         aggregates['llm_judge_2'] = sum(1 for s in scores if s == 2)
     
-    # Automatic metrics
     if 'exact_match' in results[0]:
         aggregates['exact_match_avg'] = sum(r['exact_match'] for r in results) / len(results)
     
@@ -214,10 +204,8 @@ def save_evaluation_results(
     output_path.parent.mkdir(parents=True, exist_ok=True)
     
     if format_type == 'tsv':
-        # TSV format: one row per question with scores
         with open(output_file, 'w', encoding='utf-8') as f:
             for result in results:
-                # Collect all numeric scores
                 scores = []
                 
                 if 'llm_judge_score' in result:
@@ -235,11 +223,9 @@ def save_evaluation_results(
                 if 'rouge_l' in result:
                     scores.append(f"{result['rouge_l']:.4f}")
                 
-                # Write scores separated by tabs
                 f.write('\t'.join(scores) + '\n')
     
     elif format_type == 'json':
-        # JSON format: full detailed results
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(results, f, indent=2)
 
@@ -294,7 +280,6 @@ def main():
     
     args = parser.parse_args()
     
-    # Set default output path
     if args.output is None:
         pred_name = Path(args.prediction_file).stem
         output_dir = Path('output/evaluation')
@@ -317,7 +302,7 @@ def main():
     print(f"  {len(questions)} questions")
     print(f"  {len(predictions)} predictions")
     
-    # Check lengths match
+    # lengths match
     if len(questions) != len(predictions):
         print(f"\nWarning: Number of questions ({len(questions)}) != predictions ({len(predictions)})")
         min_len = min(len(questions), len(predictions), len(gold_answers))
@@ -327,7 +312,7 @@ def main():
         predictions = predictions[:min_len]
         print(f"Using first {min_len} items")
     
-    # Determine which metrics to use
+    # which metrics to use
     use_llm_judge = 'llm_judge' in args.metrics and not args.no_llm_judge
     use_automatic = any(m in args.metrics for m in ['f1', 'exact_match', 'contains'])
     use_rouge = 'rouge' in args.metrics
@@ -352,7 +337,7 @@ def main():
         use_rouge=use_rouge
     )
     
-    # Compute aggregates
+    # aggregates
     print("\n" + "="*80)
     print("Aggregate Scores:")
     print("="*80)
@@ -365,7 +350,7 @@ def main():
         else:
             print(f"  {key}: {value}")
     
-    # Save results
+    # results
     print(f"\nSaving evaluation results...")
     print(f"  TSV output: {args.output}")
     save_evaluation_results(results, args.output, format_type='tsv')

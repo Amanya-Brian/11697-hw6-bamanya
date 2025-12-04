@@ -1,8 +1,3 @@
-"""
-Dense Retriever - Dense retrieval using embeddings
-Uses API-based embeddings (OpenAI)
-"""
-
 from typing import List, Dict
 import numpy as np
 import os
@@ -20,7 +15,6 @@ class DenseRetriever:
         """
         self.documents = documents
         
-        # OpenAI embeddings
         try:
             from openai import OpenAI
             
@@ -37,7 +31,6 @@ class DenseRetriever:
         except ImportError:
             raise ImportError("OpenAI library not installed. Install with: pip install openai")
         
-        # document embeddings
         print("Computing document embeddings...")
         self._compute_document_embeddings()
     
@@ -51,8 +44,7 @@ class DenseRetriever:
         Returns:
             Embedding vector as numpy array
         """
-        # Truncate text if too long 
-        max_chars = 32000 # approx
+        max_chars = 32000
         if len(text) > max_chars:
             text = text[:max_chars]
         
@@ -109,7 +101,6 @@ class DenseRetriever:
         Returns:
             List of documents with scores
         """
-        # query embedding
         query_embedding = self._get_embedding(query)
        
         similarities = []

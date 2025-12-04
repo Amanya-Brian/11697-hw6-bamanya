@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-RAG System for Football QA
-Supports multiple retriever and generator combinations
-"""
-
 import argparse
 import os
 import sys
@@ -12,8 +7,6 @@ import json
 from typing import List, Dict, Tuple, Optional
 import numpy as np
 from tqdm import tqdm
-
-# Import retriever and generator modules
 from retrievers.bm25_retriever import BM25Retriever
 from retrievers.dense_retriever import DenseRetriever
 from generators.gpt_generator import GPTGenerator
@@ -44,12 +37,12 @@ class RAGSystem:
         self.generator_type = generator_type
         self.top_k = top_k
         
-        # Load corpus
+        # corpus
         print(f"Loading corpus from {corpus_path}...")
         self.documents = load_corpus(corpus_path)
         print(f"Loaded {len(self.documents)} documents")
         
-        # Initialize retriever
+        # retriever
         if retriever_type.lower() != 'none':
             print(f"Initializing {retriever_type} retriever...")
             if retriever_type.lower() == 'bm25':
@@ -62,7 +55,7 @@ class RAGSystem:
             self.retriever = None
             print("No retriever - using direct generation")
         
-        # Initialize generator
+        # generator
         print(f"Initializing {generator_type} generator...")
         if generator_type.lower() == 'gpt':
             self.generator = GPTGenerator()
@@ -103,7 +96,6 @@ class RAGSystem:
         Returns:
             Tuple of (answer, metadata)
         """
-        # Build context from retrieved documents
         context = ""
         if retrieved_docs:
             context = "\n\n".join([
@@ -111,14 +103,11 @@ class RAGSystem:
                 for i, doc in enumerate(retrieved_docs)
             ])
         
-        # Generate answer
         answer, metadata = self.generator.generate(
             question=question,
             question_type=question_type,
             context=context
         )
-        
-        # Add retrieval info to metadata
         if retrieved_docs:
             metadata['retrieved_doc_ids'] = [doc.get('id', '') for doc in retrieved_docs]
             metadata['retrieval_scores'] = [doc.get('score', 0.0) for doc in retrieved_docs]
@@ -140,10 +129,9 @@ class RAGSystem:
         Returns:
             Tuple of (answer, metadata)
         """
-        # Retrieve documents
         retrieved_docs = self.retrieve(question)
         
-        # Generate answer
+        # answer
         answer, metadata = self.generate(question, question_type, retrieved_docs)
         
         return answer, metadata
@@ -201,13 +189,11 @@ def main():
     
     args = parser.parse_args()
     
-    # Set default output path
     if args.output is None:
         output_dir = Path('output/prediction')
         output_dir.mkdir(parents=True, exist_ok=True)
         args.output = output_dir / f"{args.retriever}_{args.generator}.tsv"
     
-    # Initialize system
     print("="*80)
     print(f"RAG System Configuration:")
     print(f"  Retriever: {args.retriever}")
@@ -222,12 +208,10 @@ def main():
         top_k=args.top_k
     )
     
-    # Load questions
     print(f"\nLoading questions from {args.questions}...")
     questions, question_types = load_questions(args.questions)
     print(f"Loaded {len(questions)} questions")
     
-    # Process questions
     print(f"\nProcessing questions...")
     results = []
     
@@ -239,7 +223,6 @@ def main():
         try:
             answer, metadata = system.answer_question(question, qtype)
             
-            # Format metadata as JSON string
             metadata_str = json.dumps(metadata)
             
             results.append({
@@ -257,11 +240,9 @@ def main():
                 'metadata': json.dumps({'error': str(e)})
             })
     
-    # Save results
     print(f"\nSaving results to {args.output}...")
     with open(args.output, 'w', encoding='utf-8') as f:
         for result in results:
-            # TSV format: answer \t metadata
             f.write(f"{result['answer']}\t{result['metadata']}\n")
     
     print(f"\nDone! Results saved to {args.output}")

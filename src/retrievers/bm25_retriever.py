@@ -1,8 +1,3 @@
-"""
-BM25 Retriever - Sparse retrieval using BM25 algorithm
-This is an open-weight retriever (no API calls)
-"""
-
 from typing import List, Dict
 import math
 from collections import Counter
@@ -38,7 +33,7 @@ class BM25Retriever:
         Returns:
             List of tokens
         """
-        # Convert to lowercase and split on non-alphanumeric characters
+        # to lowercase and split on non-alphanumeric xters
         tokens = re.findall(r'\b\w+\b', text.lower())
         return tokens
     
@@ -53,10 +48,10 @@ class BM25Retriever:
             self.doc_tokens.append(tokens)
             self.doc_lengths.append(len(tokens))
         
-        # Calculate average document length
+        # average document length
         self.avgdl = sum(self.doc_lengths) / len(self.doc_lengths) if self.doc_lengths else 0
         
-        # Build inverted index: term -> list of (doc_id, term_frequency)
+        # inverted index: term -> list of (doc_id, term_frequency)
         self.inverted_index = {}
         
         for doc_idx, tokens in enumerate(self.doc_tokens):
@@ -67,7 +62,7 @@ class BM25Retriever:
                     self.inverted_index[term] = []
                 self.inverted_index[term].append((doc_idx, freq))
         
-        # Calculate IDF for each term
+        # IDF for each term
         self.idf = {}
         N = len(self.documents)
         
@@ -90,23 +85,19 @@ class BM25Retriever:
         score = 0.0
         doc_len = self.doc_lengths[doc_idx]
         
-        # Get term frequencies for this document
         doc_term_freqs = Counter(self.doc_tokens[doc_idx])
         
         for term in query_tokens:
             if term not in self.inverted_index:
                 continue
             
-            # Get term frequency in document
             tf = doc_term_freqs.get(term, 0)
             
             if tf == 0:
                 continue
             
-            # Get IDF
             idf = self.idf[term]
             
-            # Calculate BM25 component for this term
             numerator = tf * (self.k1 + 1)
             denominator = tf + self.k1 * (1 - self.b + self.b * (doc_len / self.avgdl))
             
@@ -125,22 +116,18 @@ class BM25Retriever:
         Returns:
             List of documents with scores
         """
-        # Tokenize query
         query_tokens = self._tokenize(query)
         
         if not query_tokens:
             return []
         
-        # Calculate scores for all documents
         scores = []
         for doc_idx in range(len(self.documents)):
             score = self._bm25_score(query_tokens, doc_idx)
             scores.append((doc_idx, score))
         
-        # Sort by score (descending)
         scores.sort(key=lambda x: x[1], reverse=True)
         
-        # Get top-k documents
         results = []
         for doc_idx, score in scores[:top_k]:
             doc = self.documents[doc_idx].copy()

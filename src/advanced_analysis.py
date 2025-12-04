@@ -29,7 +29,6 @@ def analyze_prediction_errors(
         'format_issues': []
     }
     
-    # Overall statistics
     total = len(questions)
     perfect_scores = sum(1 for r in eval_results if r.get('llm_judge_score', 0) == 2)
     partial_scores = sum(1 for r in eval_results if r.get('llm_judge_score', 0) == 1)
@@ -44,7 +43,6 @@ def analyze_prediction_errors(
         'failure_rate': zero_scores / total
     }
     
-    # Analyze by question type
     by_type = defaultdict(lambda: {'total': 0, 'perfect': 0, 'partial': 0, 'failed': 0})
     
     for i, (qtype, result) in enumerate(zip(question_types, eval_results)):
@@ -63,7 +61,6 @@ def analyze_prediction_errors(
     
     analysis['by_question_type'] = dict(by_type)
     
-    # Identify failure patterns
     for i, result in enumerate(eval_results):
         if result.get('llm_judge_score', 0) == 0:
             pattern = analyze_failure_pattern(
@@ -95,13 +92,11 @@ def analyze_failure_pattern(
         'issues': []
     }
     
-    # Empty prediction
     if not prediction or not prediction.strip():
         pattern['issues'].append('EMPTY_PREDICTION')
         pattern['category'] = 'generation_failure'
         return pattern
     
-    # Format mismatch
     if question_type == 'multiple choice':
         if not re.match(r'^[A-D]$', prediction.strip()):
             pattern['issues'].append('WRONG_FORMAT_MC')
@@ -112,7 +107,6 @@ def analyze_failure_pattern(
             pattern['issues'].append('TOO_VERBOSE_FACTOID')
             pattern['category'] = 'format_error'
     
-    # Hallucination detection
     pred_lower = prediction.lower()
     gold_lower = ' '.join(gold_answer).lower()
     
@@ -120,7 +114,6 @@ def analyze_failure_pattern(
         pattern['issues'].append('EXPLICIT_REFUSAL')
         pattern['category'] = 'retrieval_failure'
     
-    # Check if prediction is completely off-topic
     pred_tokens = set(pred_lower.split())
     gold_tokens = set(gold_lower.split())
     
@@ -129,7 +122,6 @@ def analyze_failure_pattern(
         pattern['issues'].append('ZERO_OVERLAP')
         pattern['category'] = 'hallucination'
     
-    # Retrieval context issues (if metadata available)
     if 'retrieved_doc_ids' in result:
         if not result['retrieved_doc_ids']:
             pattern['issues'].append('NO_RETRIEVAL')
@@ -145,8 +137,7 @@ def analyze_failure_pattern(
 def analyze_retrieval_quality(predictions_file: str, questions: List[str]) -> Dict:
     """Analyze retrieval quality from metadata"""
     
-    # Load predictions with metadata
-    with open(predictions_file, 'r') as f:
+    with open(predictions_file, 'r', encoding='utf-8', errors='ignore') as f:
         lines = f.readlines()
     
     retrieval_stats = {
@@ -192,7 +183,6 @@ def generate_failure_report(analysis: Dict, output_file: str):
     report.append("="*80)
     report.append("")
     
-    # Overall stats
     report.append("OVERALL PERFORMANCE")
     report.append("-"*80)
     overall = analysis['overall']
@@ -202,7 +192,6 @@ def generate_failure_report(analysis: Dict, output_file: str):
     report.append(f"Failed Answers: {overall['failed_answers']} ({overall['failure_rate']:.1%})")
     report.append("")
     
-    # By question type
     report.append("PERFORMANCE BY QUESTION TYPE")
     report.append("-"*80)
     for qtype, stats in analysis['by_question_type'].items():
@@ -217,7 +206,7 @@ def generate_failure_report(analysis: Dict, output_file: str):
     report.append("FAILURE PATTERN ANALYSIS")
     report.append("-"*80)
     
-    # Count failure categories
+    # failure categories
     categories = Counter([p['category'] for p in analysis['failure_patterns']])
     issues = Counter([issue for p in analysis['failure_patterns'] for issue in p['issues']])
     
@@ -231,7 +220,7 @@ def generate_failure_report(analysis: Dict, output_file: str):
         pct = count / len(analysis['failure_patterns']) * 100 if analysis['failure_patterns'] else 0
         report.append(f"  {issue}: {count} ({pct:.1f}%)")
     
-    # Sample failures
+    # failures
     report.append("\n" + "="*80)
     report.append("SAMPLE FAILURES (First 10)")
     report.append("="*80)
@@ -243,7 +232,7 @@ def generate_failure_report(analysis: Dict, output_file: str):
         report.append(f"Pred: {pattern['prediction']}")
         report.append(f"Issues: {', '.join(pattern['issues'])}")
     
-    # Write report
+    # report
     report_text = '\n'.join(report)
     with open(output_file, 'w') as f:
         f.write(report_text)
@@ -260,7 +249,6 @@ def compare_configurations(eval_dir: str) -> Dict:
         'combined_impact': {}
     }
     
-    # Load all evaluation results
     configs = {}
     for eval_file in Path(eval_dir).glob('*.tsv'):
         config_name = eval_file.stem
@@ -282,7 +270,7 @@ def compare_configurations(eval_dir: str) -> Dict:
                 'scores': scores
             }
     
-    # Compare retrievers (BM25 vs Dense)
+    # retrievers (BM25 vs Dense)
     if 'bm25_gpt' in configs and 'dense_gpt' in configs:
         comparison['retriever_impact']['bm25_vs_dense_with_gpt'] = {
             'bm25': configs['bm25_gpt']['avg_score'],
@@ -291,7 +279,7 @@ def compare_configurations(eval_dir: str) -> Dict:
             'winner': 'dense' if configs['dense_gpt']['avg_score'] > configs['bm25_gpt']['avg_score'] else 'bm25'
         }
     
-    # Compare generators (GPT vs Llama)
+    # generators (GPT vs Llama)
     if 'bm25_gpt' in configs and 'bm25_llama' in configs:
         comparison['generator_impact']['gpt_vs_llama_with_bm25'] = {
             'gpt': configs['bm25_gpt']['avg_score'],
@@ -322,7 +310,7 @@ def main():
     
     args = parser.parse_args()
     
-    # Create output directory
+    # output directory
     Path(args.output_dir).mkdir(parents=True, exist_ok=True)
     
     print("="*80)
@@ -334,29 +322,29 @@ def main():
     questions, question_types = load_questions(args.questions)
     gold_answers = load_answers(args.answers)
     
-    with open(args.prediction_file, 'r') as f:
+    with open(args.prediction_file, 'r', encoding='utf-8', errors='ignore') as f:
         predictions = [line.split('\t')[0] for line in f]
     
-    with open(args.eval_results, 'r') as f:
+    with open(args.eval_results, 'r', encoding='utf-8') as f:
         eval_results = json.load(f)
     
-    # Run analysis
+    # analysis
     print("Analyzing failures...")
     analysis = analyze_prediction_errors(
         questions, question_types, gold_answers, predictions, eval_results
     )
     
-    # Generate report
+    # report
     report_file = f"{args.output_dir}/failure_analysis.txt"
     print(f"\nGenerating failure report: {report_file}")
     report = generate_failure_report(analysis, report_file)
     
-    # Save detailed JSON
+    # JSON
     json_file = f"{args.output_dir}/failure_analysis.json"
     with open(json_file, 'w') as f:
         json.dump(analysis, f, indent=2)
     
-    # Print summary
+    # summary
     print("\n" + report[:1000])
     print(f"\nFull report saved to: {report_file}")
     print(f"Detailed JSON saved to: {json_file}")

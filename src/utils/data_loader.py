@@ -151,7 +151,7 @@ def load_document(filepath: Path) -> str:
                     content.append(page.extract_text())
             return '\n\n'.join(content)
         except ImportError:
-            # Fallback: Try with pdfplumber if PyPDF2 fails
+            # fallback
             try:
                 import pdfplumber
                 content = []
@@ -179,10 +179,8 @@ def clean_text(text: str) -> str:
     Returns:
         Cleaned text
     """
-    # Remove extra whitespace
     text = re.sub(r'\s+', ' ', text)
     
-    # Remove non-printable characters
     text = ''.join(char for char in text if char.isprintable() or char in ['\n', '\t'])
     
     return text.strip()

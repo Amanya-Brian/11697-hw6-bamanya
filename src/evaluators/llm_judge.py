@@ -53,10 +53,15 @@ class LLMJudgeEvaluator:
         Returns:
             Judge prompt
         """
-        # Format gold answers
-        if len(gold_answer) == 1:
+        # Format gold answers based on question type
+        if question_type == 'list':
+            # For list questions, show all items (not as alternatives)
+            gold_str = ", ".join(gold_answer)
+            gold_str += " (all items required)"
+        elif len(gold_answer) == 1:
             gold_str = gold_answer[0]
         else:
+            # For other types, multiple gold answers are alternatives
             gold_str = " OR ".join([f'"{ans}"' for ans in gold_answer])
         
         prompt = f"""# Instruction
@@ -76,9 +81,11 @@ Your task is to provide a rating from 0 to 2:
 - The answer should be concise and direct
 
 **For LIST questions:**
-- Check if the predicted answer includes most/all items from gold answer
-- Order doesn't matter unless specified
-- Partial credit (score 1) if some items are correct
+- The predicted answer should include ALL items from the gold answer
+- Items can be in any order unless specified
+- Partial credit (score 1) if at least 50% of items are present
+- Score 0 if less than 50% of items are present
+- Format doesn't matter (tabs, commas, newlines all acceptable)
 
 **For INSTRUCTION questions:**
 - Check if the main steps are covered

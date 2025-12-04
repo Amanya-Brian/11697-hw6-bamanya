@@ -1,756 +1,100 @@
-Carlos Bilardo	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 717, "prompt_tokens": 713, "completion_tokens": 4, "retrieved_doc_ids": ["48", "6", "20"], "retrieval_scores": [0.6469114611272981, 0.4588248392418273, 0.45240435911706384]}
-1904	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 789, "prompt_tokens": 786, "completion_tokens": 3, "retrieved_doc_ids": ["19", "20", "50"], "retrieval_scores": [0.7653636662225523, 0.5154523468981514, 0.4403675963309052]}
-Geoff Hurst	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 846, "prompt_tokens": 841, "completion_tokens": 5, "retrieved_doc_ids": ["15", "48", "30"], "retrieval_scores": [0.6852438787203577, 0.4509532390925406, 0.4399099753318192]}
-You'll Never Walk Alone	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 778, "prompt_tokens": 773, "completion_tokens": 5, "retrieved_doc_ids": ["26", "40", "12"], "retrieval_scores": [0.6930123277866289, 0.30215643866204167, 0.2685249247743897]}
-Uruguay	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 840, "prompt_tokens": 837, "completion_tokens": 3, "retrieved_doc_ids": ["20", "49", "21"], "retrieval_scores": [0.6746531239696365, 0.5443231209999141, 0.5330602658763869]}
-Harry Kane	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 833, "prompt_tokens": 830, "completion_tokens": 3, "retrieved_doc_ids": ["3", "1", "31"], "retrieval_scores": [0.6715641228032, 0.6129150577677596, 0.5121422700303476]}
-Inter Miami CF	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 725, "prompt_tokens": 721, "completion_tokens": 4, "retrieved_doc_ids": ["34", "33", "32"], "retrieval_scores": [0.6519385305907962, 0.627362908660314, 0.4747509054970357]}
-George Weah	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 815, "prompt_tokens": 811, "completion_tokens": 4, "retrieved_doc_ids": ["22", "8", "5"], "retrieval_scores": [0.7073180090587629, 0.5358654019012679, 0.47817319030367766]}
-Emirates Stadium and Tottenham Hotspur Stadium	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 670, "prompt_tokens": 660, "completion_tokens": 10, "retrieved_doc_ids": ["36", "27", "42"], "retrieval_scores": [0.7519052939861869, 0.513732718191029, 0.39636033733768744]}
-Shane Long	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 725, "prompt_tokens": 721, "completion_tokens": 4, "retrieved_doc_ids": ["18", "40", "11"], "retrieval_scores": [0.7937205489847858, 0.43495109341645233, 0.41363539814033634]}
-Pep Guardiola	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 874, "prompt_tokens": 871, "completion_tokens": 3, "retrieved_doc_ids": ["38", "28", "16"], "retrieval_scores": [0.6764915583374717, 0.5938021765721625, 0.5079311108510081]}
-Milan, Italy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 749, "prompt_tokens": 744, "completion_tokens": 5, "retrieved_doc_ids": ["42", "23", "34"], "retrieval_scores": [0.7358722213516554, 0.32501737824786614, 0.3237665871573456]}
-LA Galaxy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 722, "prompt_tokens": 719, "completion_tokens": 3, "retrieved_doc_ids": ["9", "13", "33"], "retrieval_scores": [0.6893924546112563, 0.4313403524633716, 0.4123771455519631]}
-Sevilla	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 847, "prompt_tokens": 844, "completion_tokens": 3, "retrieved_doc_ids": ["43", "12", "23"], "retrieval_scores": [0.6762623199815828, 0.5485750843101613, 0.4905732795316638]}
-Giorgio Chiellini	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 864, "prompt_tokens": 857, "completion_tokens": 7, "retrieved_doc_ids": ["24", "45", "23"], "retrieval_scores": [0.7611295799199047, 0.5552822144587635, 0.5086622117271286]}
-Diego Maradona	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 792, "prompt_tokens": 787, "completion_tokens": 5, "retrieved_doc_ids": ["14", "29", "3"], "retrieval_scores": [0.6218270455303905, 0.35245699992016066, 0.3443194774263277]}
-Number 10	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 707, "prompt_tokens": 703, "completion_tokens": 4, "retrieved_doc_ids": ["29", "14", "48"], "retrieval_scores": [0.7446462994391845, 0.6071371028111899, 0.44547405633465026]}
-Gonzalo Montiel	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 879, "prompt_tokens": 873, "completion_tokens": 6, "retrieved_doc_ids": ["6", "30", "48"], "retrieval_scores": [0.6858214392063294, 0.5417805533471347, 0.5103257938301955]}
-South Korea and Japan	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 903, "prompt_tokens": 898, "completion_tokens": 5, "retrieved_doc_ids": ["0", "49", "44"], "retrieval_scores": [0.6656380579548105, 0.6088526978528322, 0.5457962759828637]}
-Super Eagles	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 796, "prompt_tokens": 793, "completion_tokens": 3, "retrieved_doc_ids": ["35", "4", "5"], "retrieval_scores": [0.6727067029841398, 0.3629109817109193, 0.3478444536239867]}
-1. Sporting CP  
-2. Manchester United  
-3. Real Madrid	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 822, "prompt_tokens": 806, "completion_tokens": 16, "retrieved_doc_ids": ["13", "33", "23"], "retrieval_scores": [0.7088969695924785, 0.4829682972316463, 0.42674491945466264]}
-1. Egypt  
-2. Ghana  
-3. Sudan  
-4. Ethiopia  
-5. Tunisia  
-6. South Africa  
-7. Cameroon  
-8. Gabon  
-9. Equatorial Guinea  
-10. Côte d'Ivoire	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 974, "prompt_tokens": 926, "completion_tokens": 48, "retrieved_doc_ids": ["4", "49", "44"], "retrieval_scores": [0.7911522835666823, 0.5921393211467135, 0.5694091075058626]}
-1. Japan (2011)  
-2. United States (2015)  
-3. United States (2019)  
-4. Spain (2023)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 967, "prompt_tokens": 932, "completion_tokens": 35, "retrieved_doc_ids": ["47", "49", "50"], "retrieval_scores": [0.7692352965219191, 0.4844947483148937, 0.4832612153847304]}
-1. Arsenal  
-2. Chelsea  
-3. Tottenham Hotspur  
-4. West Ham United  
-5. Crystal Palace  
-6. Brentford  
-7. Fulham  
-8. Queens Park Rangers  
-9. Charlton Athletic	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 859, "prompt_tokens": 811, "completion_tokens": 48, "retrieved_doc_ids": ["27", "40", "12"], "retrieval_scores": [0.7497855520496822, 0.5631787603899665, 0.3868619160102335]}
-1. Cristiano Ronaldo - 140 goals  
-2. Lionel Messi - 129 goals  
-3. Robert Lewandowski - over 90 goals  
-4. Karim Benzema - 90 goals  
-5. Raúl González - 71 goals	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 837, "prompt_tokens": 786, "completion_tokens": 51, "retrieved_doc_ids": ["11", "12", "32"], "retrieval_scores": [0.6898265455850744, 0.5091482167538074, 0.49416400265881466]}
-1. FC Barcelona  
-2. Paris Saint-Germain  
-3. Inter Miami CF	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 745, "prompt_tokens": 727, "completion_tokens": 18, "retrieved_doc_ids": ["33", "34", "32"], "retrieval_scores": [0.7776403219829432, 0.6517252163777366, 0.5205603331052128]}
-1. Germany  
-2. Spain  
-3. France  
-4. Italy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 892, "prompt_tokens": 875, "completion_tokens": 17, "retrieved_doc_ids": ["17", "49", "12"], "retrieval_scores": [0.7681353327259929, 0.5169782691042162, 0.5157839942941627]}
-1. Barcelona (2014-15)  
-2. Real Madrid (2015-16)  
-3. Real Madrid (2016-17)  
-4. Real Madrid (2017-18)  
-5. Liverpool (2018-19)  
-6. Bayern Munich (2019-20)  
-7. Chelsea (2020-21)  
-8. Real Madrid (2021-22)  
-9. Manchester City (2022-23)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 964, "prompt_tokens": 867, "completion_tokens": 97, "retrieved_doc_ids": ["12", "10", "17"], "retrieval_scores": [0.6325688395470266, 0.4663058118353503, 0.4571352092369336]}
-1. Premier League titles: 2017-18, 2018-19, 2020-21, 2021-22, 2022-23, 2023-24 (6 titles)  
-2. FA Cup: 2018-19, 2022-23 (2 titles)  
-3. EFL Cup (League Cup): 2017-18, 2018-19, 2019-20, 2020-21 (4 titles)  
-4. UEFA Champions League: 2022-23 (1 title)  
-5. FA Community Shield: 2018, 2019 (2 titles)  
-6. UEFA Super Cup: 2023 (1 title)  
-7. FIFA Club World Cup: 2023 (1 title)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1021, "prompt_tokens": 853, "completion_tokens": 168, "retrieved_doc_ids": ["28", "38", "12"], "retrieval_scores": [0.8404929281919743, 0.7564957824943055, 0.5125095003291376]}
-1. Lusail Iconic Stadium (Lusail) - Capacity: 88,966
-2. Al Bayt Stadium (Al Khor) - Capacity: 60,000
-3. Stadium 974 (Doha) - Capacity: 40,000
-4. Ahmad Bin Ali Stadium (Al Rayyan) - Capacity: 40,000
-5. Khalifa International Stadium (Doha) - Capacity: 40,000
-6. Education City Stadium (Al Rayyan) - Capacity: 40,000
-7. Al Thumama Stadium (Doha) - Capacity: 40,000
-8. Al Janoub Stadium (Al Wakrah) - Capacity: 40,000	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1034, "prompt_tokens": 885, "completion_tokens": 149, "retrieved_doc_ids": ["2", "49", "0"], "retrieval_scores": [0.6767825171462623, 0.5532040552734508, 0.5151368522015431]}
-1. Manchester City  
-2. Arsenal  
-3. Manchester United  
-4. Newcastle United  
-5. Liverpool  
-6. Brighton & Hove Albion  
-7. Aston Villa  
-8. Tottenham Hotspur  
-9. Brentford  
-10. Fulham  
-11. Crystal Palace  
-12. Chelsea  
-13. Wolverhampton Wanderers  
-14. West Ham United  
-15. Bournemouth  
-16. Nottingham Forest  
-17. Everton  
-18. Leicester City  
-19. Leeds United  
-20. Southampton	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 947, "prompt_tokens": 845, "completion_tokens": 102, "retrieved_doc_ids": ["40", "27", "28"], "retrieval_scores": [0.7182301991089157, 0.5181487622889871, 0.4204483082962843]}
-1. Lionel Messi	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 906, "prompt_tokens": 901, "completion_tokens": 5, "retrieved_doc_ids": ["8", "17", "31"], "retrieval_scores": [0.7616632319882111, 0.5010148701577185, 0.4683143531049683]}
-1. Kylian Mbappé (France) - 8 goals  
-2. Lionel Messi (Argentina) - 7 goals  
-3. Julián Álvarez (Argentina) - 4 goals  
-4. Olivier Giroud (France) - 4 goals  
-5. Gonçalo Ramos (Portugal) - 3 goals	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 905, "prompt_tokens": 834, "completion_tokens": 71, "retrieved_doc_ids": ["3", "1", "31"], "retrieval_scores": [0.6940789193539347, 0.536988484210667, 0.49757739957303704]}
-1. AC Milan  
-2. Inter Milan  
-3. Juventus	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 854, "prompt_tokens": 839, "completion_tokens": 15, "retrieved_doc_ids": ["23", "12", "11"], "retrieval_scores": [0.7352440390105544, 0.5952566988286934, 0.5033120189139202]}
-1. Iker Casillas (2010-2015)  
-2. Sergio Ramos (2015-2021)  
-3. Marcelo (2021-2022)  
-4. Karim Benzema (2022-2023)  
-5. Nacho Fernández (2023-present)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 960, "prompt_tokens": 898, "completion_tokens": 62, "retrieved_doc_ids": ["41", "12", "45"], "retrieval_scores": [0.8014465718460889, 0.4905764227388945, 0.4358878084746144]}
-1. Cameroon  
-2. Senegal  
-3. Ghana	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 933, "prompt_tokens": 920, "completion_tokens": 13, "retrieved_doc_ids": ["5", "4", "50"], "retrieval_scores": [0.7724673233709143, 0.5603866546394244, 0.5557663631795668]}
-1. Mexico  
-2. Italy  
-3. France  
-4. Germany  
-5. Brazil  
-6. United States	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 859, "prompt_tokens": 833, "completion_tokens": 26, "retrieved_doc_ids": ["49", "0", "4"], "retrieval_scores": [0.7991295550956484, 0.5123657627750153, 0.510115495046324]}
-1. Arsenal  
-2. Bayer Leverkusen  
-3. Ajax  
-4. APOEL  
-5. PSV Eindhoven  
-6. Manchester City  
-7. BATE Borisov	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 776, "prompt_tokens": 738, "completion_tokens": 38, "retrieved_doc_ids": ["32", "11", "33"], "retrieval_scores": [0.7778017635542123, 0.5810879886195993, 0.5451988961978791]}
-1. 1998  
-2. 2002  
-3. 2003  
-4. 2005  
-5. 2014  
-6. 2015  
-7. 2017	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 905, "prompt_tokens": 862, "completion_tokens": 43, "retrieved_doc_ids": ["7", "28", "40"], "retrieval_scores": [0.7593973774485433, 0.3662310877280565, 0.3653830424437849]}
-1. Golden Ball (best player of the tournament)  
-2. Silver Boot (top scorer, tied with 7 goals)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 914, "prompt_tokens": 886, "completion_tokens": 28, "retrieved_doc_ids": ["31", "6", "3"], "retrieval_scores": [0.81851316076428, 0.5953059557741656, 0.5927925032503089]}
-To qualify for the UEFA Champions League group stage, follow these steps:
-
-1. **Direct Qualification**: 
-   - If you are a top team from one of Europe's strongest leagues (England, Spain, Germany, Italy, or France), you automatically qualify for the group stage based on your league position.
-
-2. **Domestic Champions Path**: 
-   - If you are the champion of a smaller European league, you must enter the qualifying rounds. This involves:
-     - Competing in the first qualifying round.
-     - Advancing to the second qualifying round if you win.
-     - Advancing to the third qualifying round if you win the second round.
-     - Reaching the playoff round if you win the third round.
-
-3. **League Path**: 
-   - If you finish in a qualifying position (typically 3rd or 4th place) in your league but are not the champion, you enter through the league path, starting from the third qualifying round.
-
-4. **Playoff Round**: 
-   - Compete in the playoff round, which consists of two-legged ties. The winners of these ties secure their place in the group stage.
-
-5. **UEFA Europa League Winners**: 
-   - If you are the winner of the previous season's UEFA Europa League, you automatically qualify for the group stage.
-
-6. **UEFA Champions League Title Holders**: 
-   - If you are the defending champion of the UEFA Champions League, you automatically qualify for the group stage.
-
-7. **Group Stage Participation**: 
-   - Successfully complete the above steps to secure a place in the 32-team (now 36-team) group stage, which begins in September.
-
-These steps outline the various routes and requirements for teams to qualify for the UEFA Champions League group stage.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1324, "prompt_tokens": 959, "completion_tokens": 365, "retrieved_doc_ids": ["10", "50", "25"], "retrieval_scores": [0.7225794516565139, 0.49483660270828167, 0.40211402275894037]}
-According to FIFA Laws of the Game, the steps a player must follow to take a penalty kick are as follows:
-
-1. **Ball Placement**: Place the ball on the penalty mark, which is 12 yards from the goal.
-
-2. **Player Identification**: Ensure that the player taking the penalty kick is clearly identified.
-
-3. **Goalkeeper Positioning**: Confirm that the defending goalkeeper remains on the goal line, facing the kicker, and positioned between the goalposts until the ball is kicked.
-
-4. **Player Positioning**: Ensure that all other players are outside the penalty area and arc, at least 10 yards from the penalty mark.
-
-5. **Referee Signal**: Wait for the referee to signal that the kick may be taken.
-
-6. **Kick the Ball**: The kicker must kick the ball forward.
-
-7. **Touching the Ball**: The kicker cannot touch the ball again until another player has touched it.
-
-8. **Goalkeeper Movement**: The goalkeeper must not move off the goal line until the ball is kicked, although they may move along the line.
-
-9. **Completion of the Kick**: The kick is considered complete when the ball stops moving, goes out of play, or the referee stops play for any offense.
-
-10. **Retake or Disallowance**: If the goalkeeper commits an offense and the kick is missed or saved, the kick is retaken. If the kicker commits an offense, the kick is disallowed, and an indirect free kick is awarded to the defending team.
-
-11. **VAR Check**: Be aware that VAR technology may be used to check for any infringements by the goalkeeper or kicker. The goalkeeper must have at least part of one foot on or in line with the goal line when the kick is taken. 
-
-Following these steps ensures that the penalty kick is taken in accordance with FIFA regulations.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1292, "prompt_tokens": 909, "completion_tokens": 383, "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.7875373878191517, 0.5626618552986196, 0.4921370349771461]}
-1. **Extra Time**: If the match ends in a draw after 90 minutes of regular time, the teams proceed to extra time.
-   - Two 15-minute periods are played, totaling 30 minutes.
-   - There is a short break (typically 5 minutes) before extra time begins.
-   - Teams change ends between the two extra time periods.
-
-2. **Check Score After Extra Time**: After the completion of extra time, if the score remains level, the match goes to a penalty shootout.
-
-3. **Penalty Shootout Procedure**:
-   - Each team takes five penalties alternately.
-   - If the scores are level after both teams have taken five penalties, the shootout continues on a sudden-death basis.
-   - Only players who were on the field at the end of extra time are eligible to take penalties.
-   - Each team's penalties must be taken by different players until all eligible players have taken one.
-
-4. **Determine the Winner**: The team that scores more goals during the penalty shootout wins the match. 
-
-This procedure is standard for knockout stages in major tournaments such as the World Cup, European Championships, and Champions League.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1148, "prompt_tokens": 909, "completion_tokens": 239, "retrieved_doc_ids": ["25", "39", "37"], "retrieval_scores": [0.7624551403138699, 0.42317003799528086, 0.39764777784472083]}
-Here is the step-by-step process for how a team qualifies for the FIFA World Cup:
-
-1. **Continental Confederation Participation**: Teams must participate in the qualifying tournaments organized by their respective continental confederations (UEFA, CONMEBOL, CAF, AFC, CONCACAF, OFC).
-
-2. **Qualification Format**: Each confederation has its own qualification format, which typically spans over a period of 2-3 years leading up to the World Cup.
-
-3. **Group Stage (if applicable)**: 
-   - **UEFA**: Teams are divided into groups, with group winners qualifying directly.
-   - **CAF**: Teams are placed in groups, and group winners advance to the final round.
-   - **AFC and CONCACAF**: Teams compete in multiple rounds, with the best teams qualifying directly and others entering playoffs.
-
-4. **League Format (for CONMEBOL)**: All teams play in a single league format, playing home and away matches against each other. The top teams qualify directly, while lower-ranked teams may enter intercontinental playoffs.
-
-5. **Final Rounds**: 
-   - In CAF and AFC, the final round often consists of home-and-away playoffs to determine the last qualifiers.
-   - In UEFA, runners-up may enter playoffs to secure additional spots.
-
-6. **Intercontinental Playoffs**: Teams from lower-ranked confederations may enter intercontinental playoffs for a chance to qualify for the World Cup.
-
-7. **Automatic Qualification**: The host nation(s) automatically qualify for the World Cup, regardless of their performance in the qualifying rounds.
-
-8. **Confirmation of Spots**: Each confederation has a set number of spots allocated for the World Cup, which may change with the expansion of the tournament (e.g., 48 teams from 2026).
-
-By following these steps, teams can secure their place in the FIFA World Cup.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1337, "prompt_tokens": 944, "completion_tokens": 393, "retrieved_doc_ids": ["50", "10", "5"], "retrieval_scores": [0.7743757761766497, 0.57287419847593, 0.5055700960732932]}
-Here is the sequence of events during a VAR (Video Assistant Referee) review, presented in a step-by-step format:
-
-1. **Incident Occurs**: A specific incident occurs during the match that is eligible for VAR review (e.g., a goal, penalty decision, direct red card incident, or mistaken identity).
-
-2. **VAR Monitoring**: The VAR team, located in a video operation room, continuously monitors the match action using multiple camera angles.
-
-3. **Initial Check**: The VAR reviews the incident in question to determine if there is a clear and obvious error made by the on-field referee.
-
-4. **Communication**: If the VAR identifies a potential clear error, they communicate with the on-field referee via headset to recommend a review.
-
-5. **On-Field Review**: The referee acknowledges the VAR's recommendation and signals for an on-field review by making a TV screen gesture.
-
-6. **Viewing the Incident**: The referee goes to a pitchside monitor to view the incident from the available camera angles.
-
-7. **Decision Making**: After reviewing the footage, the referee makes a final decision regarding the incident based on what they have seen.
-
-8. **Signal Decision**: The referee communicates the final decision to the players and spectators, which may involve a change to the initial call (e.g., awarding a penalty, overturning a red card).
-
-9. **Resume Play**: Once the decision is made and communicated, play resumes according to the referee's ruling.
-
-10. **Documentation**: The VAR review and the final decision are recorded by match officials for reference.
-
-This process is designed to be completed quickly to minimize delays in the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1233, "prompt_tokens": 893, "completion_tokens": 340, "retrieved_doc_ids": ["46", "37", "39"], "retrieval_scores": [0.7545765277185861, 0.48839564853292294, 0.43602369209857506]}
-To replace an injured player during a match, the following step-by-step procedure should be followed:
-
-1. **Notification**: The team notifies the fourth official of the intended substitution due to the injury.
-
-2. **Preparation**: The substitute player prepares on the sideline, wearing a numbered bib, indicating they are ready to enter the match.
-
-3. **Referee Authorization**: The referee must stop the play and give permission for the substitution to take place.
-
-4. **Exit of Injured Player**: The injured player must leave the field of play at the nearest boundary line to where they are located.
-
-5. **Entry of Substitute**: The substitute player enters the field from the halfway line after the injured player has completely exited.
-
-6. **Completion of Substitution**: The substitution is considered complete when the substitute has fully entered the field of play.
-
-7. **Recording**: The match officials record the substitution, noting which player was replaced and who the substitute is.
-
-8. **Post-Substitution Rule**: The replaced injured player cannot re-enter the match.
-
-9. **Full Player Rights**: The substitute becomes a full player with all rights and responsibilities once they are on the field.
-
-10. **Expedited Substitution (if necessary)**: If the injury is severe and the player cannot continue, the substitution may be expedited, but must still follow the authorization from the referee. 
-
-Following these steps ensures that the substitution process is conducted in accordance with the rules of the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1207, "prompt_tokens": 902, "completion_tokens": 305, "retrieved_doc_ids": ["39", "37", "25"], "retrieval_scores": [0.648043293388802, 0.4319960729100569, 0.4242007873386049]}
-The context provided does not include specific information about the procedure for taking a corner kick. However, based on general knowledge of football rules, here are the steps involved in taking a corner kick:
-
-1. **Positioning the Ball**: The ball must be placed in the corner arc nearest to where the ball went out of play.
-
-2. **Player Identification**: The player taking the corner kick must be clearly identified.
-
-3. **Defending Team Positioning**: The opposing team must remain at least 10 yards away from the corner arc until the ball is in play.
-
-4. **Referee's Signal**: The referee will signal that the corner kick can be taken.
-
-5. **Taking the Kick**: The player taking the corner kick must kick the ball from within the corner arc. The ball must move forward.
-
-6. **Ball in Play**: The ball is in play as soon as it is kicked and moves. The kicker cannot touch the ball again until another player has touched it.
-
-7. **Player Movement**: Other players (teammates and opponents) can move freely but must adhere to the distance requirement until the kick is taken.
-
-8. **Outcome**: The corner kick is complete when the ball goes out of play, is touched by another player, or the referee stops play for any reason.
-
-These steps outline the general procedure for taking a corner kick in football.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1183, "prompt_tokens": 899, "completion_tokens": 284, "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.5836252039412066, 0.44297010432210915, 0.41854838576323733]}
-To promote a team from the EFL Championship to the Premier League, the following steps are typically followed:
-
-1. **Season Performance**: A team must perform well during the EFL Championship season, which consists of 46 matches. The objective is to finish in one of the top positions in the league table.
-
-2. **Top Two Positions**: The teams that finish in the top two positions of the Championship table at the end of the regular season automatically gain promotion to the Premier League.
-
-3. **Playoff System**: The teams finishing from 3rd to 6th place in the Championship enter the playoff system. These teams compete in a series of knockout matches to determine the third team that will be promoted.
-
-4. **Playoff Semifinals**: The 3rd place team plays against the 6th place team, and the 4th place team plays against the 5th place team in two-legged semifinals. The teams with the higher aggregate score over the two matches advance to the final.
-
-5. **Playoff Final**: The winners of the semifinals meet in the playoff final, which is typically held at Wembley Stadium. The winner of this match secures the final promotion spot to the Premier League.
-
-6. **Promotion Confirmation**: Once the playoff final is completed, the promoted teams (the top two and the playoff winner) are confirmed for the next season's Premier League.
-
-7. **Registration and Compliance**: The promoted teams must then ensure they meet all Premier League regulations, including financial fair play and stadium requirements, before officially participating in the league.
-
-By following these steps, a team can successfully transition from the EFL Championship to the Premier League.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1163, "prompt_tokens": 818, "completion_tokens": 345, "retrieved_doc_ids": ["40", "10", "27"], "retrieval_scores": [0.4919683044151372, 0.47009521974888774, 0.4213372767476258]}
-Here are the steps referees follow before starting a professional football match:
-
-1. **Pre-Match Meeting**: The referee conducts a meeting with the assistant referees and the fourth official to discuss match procedures, roles, and any specific instructions.
-
-2. **Inspect the Field**: The referee inspects the pitch to ensure it meets the required standards, checking for any hazards, proper markings, and goalposts.
-
-3. **Check Equipment**: The referee checks the match balls to ensure they are in good condition and meet the regulations. They also verify that the players' equipment (boots, shin guards, etc.) complies with the rules.
-
-4. **Confirm Player Eligibility**: The referee ensures that all players on the matchday squad are eligible to play, checking for any suspensions or injuries.
-
-5. **Coin Toss**: The referee conducts a coin toss with the team captains to determine which team will kick off and which side will defend which goal.
-
-6. **Final Instructions**: The referee provides final instructions to the players regarding the match rules, emphasizing any specific points of focus for the game.
-
-7. **Check Timekeeping Equipment**: The referee ensures that their watch or timekeeping device is functioning correctly and is set to the official match time.
-
-8. **Positioning**: The referee takes their position on the field, ensuring they are in a suitable spot to monitor the kickoff and the start of play.
-
-9. **Signal Start of Match**: The referee signals the start of the match, typically by blowing the whistle to indicate that play can commence. 
-
-These steps help ensure that the match starts smoothly and that all regulations are adhered to.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1227, "prompt_tokens": 890, "completion_tokens": 337, "retrieved_doc_ids": ["39", "37", "46"], "retrieval_scores": [0.5785292930868505, 0.49095370328524496, 0.4602402594136967]}
-To determine the group stage standings in the UEFA Champions League, follow these steps:
-
-1. **Points Allocation**: Each team earns points based on match results:
-   - Win: 3 points
-   - Draw: 1 point
-   - Loss: 0 points
-
-2. **Match Results**: After all teams in a group have played each other twice (home and away), the total points for each team are calculated.
-
-3. **Ranking Teams**: Teams are ranked in the following order based on their total points:
-   - The team with the highest points is placed at the top of the group.
-   - If two or more teams have the same number of points, the following tiebreakers are applied in order:
-
-4. **Goal Difference**: Calculate the goal difference for each team, which is the difference between goals scored and goals conceded. The team with the higher goal difference ranks higher.
-
-5. **Goals Scored**: If teams are still tied after goal difference, the total number of goals scored by each team is considered. The team with the higher number of goals scored ranks higher.
-
-6. **Head-to-Head Results**: If teams remain tied, the results of the matches played between the tied teams are examined. The team with the better head-to-head record ranks higher.
-
-7. **Fair Play Points**: If teams are still tied after the above criteria, fair play points may be considered, which are calculated based on yellow and red cards received during the group stage.
-
-8. **UEFA Coefficient**: As a last resort, if teams are still tied, the UEFA coefficient ranking of the clubs may be used to determine the standings.
-
-9. **Final Standings**: Once all criteria have been applied, the final standings of the group are established, determining which teams advance to the knockout stage and which teams are eliminated.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1261, "prompt_tokens": 880, "completion_tokens": 381, "retrieved_doc_ids": ["10", "25", "12"], "retrieval_scores": [0.6142120741814164, 0.48412171723495456, 0.42869828180494673]}
-Here is the step-by-step procedure for conducting a penalty shootout:
-
-1. **Preparation**: Ensure that both teams have completed extra time and the score is still level.
-
-2. **Team Selection**: Each team selects five players to take penalties. These players must be those who were on the field at the end of extra time.
-
-3. **Order of Kicks**: The teams will take turns to kick, with one team kicking first.
-
-4. **Taking the Penalties**:
-   - The first player from Team A takes the penalty kick.
-   - The first player from Team B takes their penalty kick.
-   - This alternation continues until all five penalties from each team have been taken.
-
-5. **Scoring**: Keep track of the number of successful penalties scored by each team.
-
-6. **Determining the Winner**:
-   - If one team scores more goals than the other after both teams have taken five penalties, that team is declared the winner.
-   - If the scores are level after the initial five penalties, proceed to sudden death.
-
-7. **Sudden Death**:
-   - Each team continues to take penalties alternately.
-   - The first team to score while the other team misses wins the shootout.
-
-8. **Completion**: The shootout concludes when one team has scored more goals than the other in the sudden death phase, or all eligible players have taken their penalties.
-
-9. **Recording Results**: The outcome of the penalty shootout is recorded by match officials.
-
-This procedure ensures a fair and organized method for determining the winner in a knockout match that ends in a draw after extra time.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1232, "prompt_tokens": 899, "completion_tokens": 333, "retrieved_doc_ids": ["37", "25", "39"], "retrieval_scores": [0.6234995512002994, 0.5854282922670233, 0.4970541357764608]}
-FIFA ranks national teams in its world ranking system using a specific methodology. Here are the step-by-step instructions on how this ranking system works:
-
-1. **Match Results**: The ranking is primarily based on the results of international matches. This includes friendly matches, qualifying matches, and tournament matches.
-
-2. **Points Allocation**: Teams earn points based on the outcome of each match:
-   - **Win**: A team earns points for winning a match.
-   - **Draw**: A team earns fewer points for drawing a match.
-   - **Loss**: A team earns no points for losing a match.
-
-3. **Match Importance**: The points awarded are adjusted based on the importance of the match:
-   - **Competitive Matches**: Matches in tournaments or qualifiers carry more weight than friendly matches.
-   - **Tournament Stage**: Points may vary depending on the stage of the tournament (e.g., group stage vs. knockout stage).
-
-4. **Opponent Strength**: The ranking system also considers the strength of the opposing team:
-   - Teams earn more points for defeating higher-ranked opponents and fewer points for defeating lower-ranked opponents.
-
-5. **Calculation Formula**: FIFA uses a specific formula to calculate the total points for each team, taking into account the match result, importance, and opponent strength.
-
-6. **Ranking Update Frequency**: The FIFA World Rankings are updated regularly, typically every month, to reflect the latest match results and changes in team performance.
-
-7. **Ranking List**: The final rankings are published in a list format, showing the position of each national team based on their accumulated points.
-
-By following these steps, FIFA establishes a ranking system that reflects the performance and competitiveness of national teams in international football.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1237, "prompt_tokens": 886, "completion_tokens": 351, "retrieved_doc_ids": ["50", "19", "49"], "retrieval_scores": [0.5742530950054786, 0.49410285479183697, 0.4613983758244976]}
-The process for awarding and executing a direct free kick in football is as follows:
-
-1. **Awarding the Free Kick**:
-   - The referee identifies an infringement of the Laws of the Game (e.g., a foul committed by a player).
-   - The referee stops play and signals for a direct free kick to be awarded to the opposing team at the location of the foul.
-
-2. **Placement of the Ball**:
-   - The ball is placed on the ground at the spot where the foul occurred.
-   - If the foul occurs within the penalty area, a penalty kick is awarded instead of a direct free kick.
-
-3. **Player Identification**:
-   - The player designated to take the direct free kick must be clearly identified.
-   - Other players on the team taking the kick should position themselves appropriately.
-
-4. **Defending Team's Positioning**:
-   - The defending team must retreat to a distance of at least 10 yards (9.15 meters) from the spot of the free kick.
-   - The defending players should not interfere with the kick or the kicker’s preparation.
-
-5. **Referee's Signal**:
-   - The referee signals for the free kick to be taken, indicating that the defending players must be at least 10 yards away.
-
-6. **Execution of the Free Kick**:
-   - The player taking the free kick must kick the ball forward.
-   - The kicker cannot touch the ball again until it has been touched by another player (either a teammate or an opponent).
-
-7. **Outcome of the Kick**:
-   - The free kick is complete when the ball stops moving, goes out of play, or the referee stops play for any offense.
-   - If the ball goes directly into the opponent's goal, a goal is awarded.
-   - If the kick is taken incorrectly (e.g., the kicker touches the ball again before another player does), the kick may be disallowed, and an indirect free kick may be awarded to the opposing team.
-
-8. **Special Considerations**:
-   - If the free kick is taken from within the defensive team's penalty area, the ball must leave the penalty area before it can be played by another player.
-   - The referee may caution players for unsporting behavior if they attempt to obstruct or distract the kicker.
-
-By following these steps, a direct free kick is properly awarded and executed in accordance with the Laws of the Game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1391, "prompt_tokens": 901, "completion_tokens": 490, "retrieved_doc_ids": ["37", "25", "39"], "retrieval_scores": [0.5967672433579453, 0.490864469145836, 0.4677901435650993]}
-The context provided does not include specific details about the steps involved in signing a new player during the transfer window. However, based on general knowledge of football transfer procedures, here are the typical steps involved:
-
-1. **Scouting and Identification**: Clubs identify potential players through scouting reports, performance analysis, and recommendations from coaches and scouts.
-
-2. **Initial Contact**: The club interested in signing the player makes initial contact with the player's current club to express interest.
-
-3. **Negotiation**: The two clubs negotiate the transfer fee, which is the amount the buying club will pay to the selling club for the player's rights.
-
-4. **Personal Terms**: Once a transfer fee is agreed upon, the buying club negotiates personal terms with the player, including salary, contract length, and any bonuses.
-
-5. **Medical Examination**: The player undergoes a medical examination to ensure they are fit to play and do not have any undisclosed injuries.
-
-6. **Contract Signing**: After passing the medical, the player signs a contract with the buying club, formalizing the transfer.
-
-7. **Registration**: The buying club submits the necessary paperwork to the relevant football association to register the player officially.
-
-8. **Announcement**: Once all formalities are completed, the club announces the signing to the media and fans.
-
-9. **Integration**: The player is introduced to the team and begins training with their new teammates.
-
-These steps may vary slightly depending on the specific regulations of different leagues and football associations.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1155, "prompt_tokens": 849, "completion_tokens": 306, "retrieved_doc_ids": ["39", "16", "9"], "retrieval_scores": [0.45276543540417613, 0.35081860450988556, 0.32595020111025613]}
-The selection process for the Ballon d'Or winner involves several key steps. Here’s a clear breakdown:
-
-1. **Eligibility**: Players from around the world are eligible for the Ballon d'Or, regardless of their league or nationality. The award is open to both male and female players, but the men's and women's awards are given separately.
-
-2. **Performance Evaluation**: The performance of players is evaluated based on their achievements over the calendar year. This includes individual statistics, contributions to their teams, and success in major tournaments (e.g., domestic leagues, UEFA Champions League, international competitions).
-
-3. **Voting Panel Selection**: A panel of international journalists is selected to vote for the Ballon d'Or. The panel typically consists of one journalist from each country that has a professional football league.
-
-4. **Voting Process**: Each journalist on the panel is asked to submit their top five players. They assign points based on their rankings: 6 points for the first choice, 4 points for the second, 3 points for the third, 2 points for the fourth, and 1 point for the fifth.
-
-5. **Point Calculation**: The points from all the votes are tallied. The player with the highest total points is declared the winner.
-
-6. **Announcement**: The winner is announced at a gala event, where the Ballon d'Or trophy is awarded.
-
-7. **Consideration of Factors**: While the voting is based on performance, factors such as team success, individual accolades, and overall impact on the game during the year are also considered by the voters.
-
-This structured process ensures that the Ballon d'Or winner is recognized based on a combination of individual brilliance and team success over the year.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1262, "prompt_tokens": 911, "completion_tokens": 351, "retrieved_doc_ids": ["8", "25", "31"], "retrieval_scores": [0.5469749445491467, 0.4448467664257646, 0.42056467133067776]}
-The provided context does not include specific details about the procedure for checking offside decisions during a match. However, based on general knowledge of football and the VAR system, here is a step-by-step outline of the procedure used to check for an offside decision:
-
-1. **Incident Occurs**: A potential offside situation arises during the match, typically when an attacking player receives the ball.
-
-2. **Referee's Initial Decision**: The on-field referee makes an initial decision based on their judgment of the offside position.
-
-3. **VAR Notification**: The VAR team, monitoring the game from a video operation room, identifies the potential offside incident through multiple camera angles.
-
-4. **Review Process Initiated**: The VAR communicates with the on-field referee via headset to inform them of the potential offside and recommends a review if necessary.
-
-5. **On-Field Review**: The referee may choose to conduct an on-field review by signaling for a VAR check, often indicated by making a TV screen gesture.
-
-6. **Video Analysis**: The VAR team analyzes the incident using video footage, focusing on the positioning of players at the moment the ball is played. They look for:
-   - The position of the attacking player relative to the second-last defender.
-   - The moment the ball is played to determine if the player was in an offside position.
-
-7. **Communication of Findings**: After reviewing the footage, the VAR team communicates their findings to the referee, indicating whether the attacking player was onside or offside.
-
-8. **Final Decision**: The referee makes the final decision based on the VAR's input. If the player is deemed offside, the goal or attacking play is disallowed. If onside, the play continues.
-
-9. **Signal to Restart Play**: The referee signals the decision to the players and the crowd, and play resumes accordingly.
-
-10. **Documentation**: The incident and the decision are recorded by match officials for review and analysis.
-
-Note: The specifics of the VAR process may vary slightly by competition, but the general steps remain consistent.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1318, "prompt_tokens": 892, "completion_tokens": 426, "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.5214751485058009, 0.49981942420001146, 0.4974068202322065]}
-To determine whether a foul is punishable by a yellow or red card, a referee follows these steps:
-
-1. **Identify the Nature of the Foul**: The referee observes the incident to determine if a foul has occurred, such as tripping, pushing, or holding an opponent.
-
-2. **Assess the Severity of the Foul**: The referee evaluates the severity of the foul based on the following criteria:
-   - **Intent**: Was the action intentional or reckless?
-   - **Force Used**: Was excessive force or violence used in the challenge?
-   - **Impact on the Opponent**: Did the foul endanger the safety of the opponent?
-
-3. **Consider the Context of the Match**: The referee takes into account the context of the match, including the score, time remaining, and overall game dynamics.
-
-4. **Determine the Type of Card**:
-   - **Yellow Card (Caution)**: If the foul is deemed to be a minor offense, such as unsporting behavior, persistent infringement, or delaying the restart of play, the referee issues a yellow card.
-   - **Red Card (Sending Off)**: If the foul is serious, such as violent conduct, using excessive force, or denying an obvious goal-scoring opportunity, the referee issues a red card.
-
-5. **Communicate the Decision**: The referee signals the card decision clearly, showing the yellow or red card to the offending player and informing them of the reason for the card.
-
-6. **Record the Incident**: The referee ensures that the incident is recorded in the match report, noting the player’s name, the nature of the offense, and the type of card issued.
-
-7. **Enforce the Consequences**: If a red card is issued, the player must leave the field immediately, and their team must continue with one player less. If a yellow card is issued, the player remains on the field but is cautioned.
-
-By following these steps, the referee ensures that the disciplinary actions taken are fair and consistent with the laws of the game.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1315, "prompt_tokens": 895, "completion_tokens": 420, "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.4705434156157823, 0.44536923622841074, 0.43883905552708935]}
-The UEFA Champions League draw is conducted each season through a structured process. Here are the step-by-step instructions:
-
-1. **Preparation of Teams**: Before the draw, all the qualified teams are categorized based on their performance in domestic leagues and UEFA coefficients. Teams are divided into different pots.
-
-2. **Formation of Pots**: 
-   - **Pot 1**: Contains the reigning Champions League title holders and the UEFA Europa League winners, along with the top-ranked teams from the highest-ranked leagues.
-   - **Pots 2, 3, and 4**: These pots include the remaining qualified teams, ranked according to their UEFA coefficients.
-
-3. **Setting the Date and Venue**: The draw is scheduled and announced by UEFA, typically taking place in late August for the group stage. The venue is often a prestigious location in Europe.
-
-4. **Conducting the Draw**: 
-   - A UEFA official or a celebrity draws teams from each pot one by one.
-   - The first team drawn from Pot 1 is placed in Group A, the second in Group B, and so on until all groups are filled.
-
-5. **Placement of Teams**: As teams are drawn, they are placed into groups (A to H) according to the order of the draw. Each group will consist of one team from each pot.
-
-6. **Adhering to Restrictions**: The draw must comply with specific restrictions, such as not allowing teams from the same country to be placed in the same group.
-
-7. **Finalizing the Groups**: Once all teams have been drawn and placed into their respective groups, the groups are confirmed and announced to the public.
-
-8. **Post-Draw Procedures**: Following the draw, UEFA publishes the group stage fixtures, and the teams prepare for the matches, which begin in September.
-
-This structured approach ensures a fair and organized draw for the UEFA Champions League each season.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1347, "prompt_tokens": 957, "completion_tokens": 390, "retrieved_doc_ids": ["10", "25", "50"], "retrieval_scores": [0.6136674262694103, 0.4720392286140067, 0.4294285024248661]}
-The context provided does not specifically outline the process of appealing a red card in professional football. However, based on general knowledge of football regulations, here is a step-by-step guide on how a team can appeal a red card decision:
-
-1. **Review the Incident**: After the match, the club reviews the circumstances surrounding the red card, including video footage and referee reports.
-
-2. **Consult with Officials**: The club's management or coaching staff consults with the team’s legal or compliance department to understand the grounds for an appeal based on the rules and regulations of the competition.
-
-3. **Gather Evidence**: Collect any relevant evidence that supports the appeal, such as video footage, witness statements, or any other documentation that may demonstrate that the red card was unjustified.
-
-4. **Prepare an Appeal Letter**: Draft a formal appeal letter addressed to the governing body of the competition (e.g., FA, UEFA) outlining the reasons for the appeal, including the evidence gathered.
-
-5. **Submit the Appeal**: Send the appeal letter along with any supporting evidence to the relevant governing body within the specified time frame (usually within a few days after the match).
-
-6. **Await Response**: Wait for the governing body to review the appeal. This may involve a hearing or review process where the club may be invited to present their case.
-
-7. **Receive Decision**: The governing body will communicate their decision regarding the appeal. This can result in the upholding of the red card, a reduction of the suspension, or in some cases, the overturning of the red card.
-
-8. **Implement Decision**: If the appeal is successful, the player may be eligible to play in subsequent matches. If the appeal is denied, the club must adhere to the original suspension imposed on the player.
-
-Please note that the specific procedures and timelines may vary depending on the league or competition's regulations.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1272, "prompt_tokens": 889, "completion_tokens": 383, "retrieved_doc_ids": ["46", "39", "37"], "retrieval_scores": [0.47629429485004093, 0.4654194291683882, 0.449996453214318]}
-The away goals rule was applied in UEFA competitions to determine the winner of two-legged knockout ties when the aggregate score was level after both matches. Here’s how it worked, step-by-step:
-
-1. **Two-Legged Tie**: Each knockout round consisted of two matches, one played at each team's home ground.
-
-2. **Aggregate Score Calculation**: After both matches were completed, the total number of goals scored by each team across both matches was calculated. This is known as the aggregate score.
-
-3. **Tied Aggregate Score**: If the aggregate score was tied (e.g., 3-3), the next step was to apply the away goals rule.
-
-4. **Away Goals Count**: The team that scored more goals in the away match (the match played at the opponent's home ground) was declared the winner. For example, if Team A scored 2 goals at Team B's stadium and Team B scored 1 goal at Team A's stadium, Team A would advance due to the away goals rule (2 away goals to 1).
-
-5. **No Away Goals Advantage**: If both teams scored the same number of away goals (e.g., both scored 1 away goal), the tie would remain tied on away goals, and the next step would be taken.
-
-6. **Extra Time**: If the away goals rule did not determine a winner, the match would proceed to extra time, consisting of two 15-minute periods.
-
-7. **Penalty Shootout**: If the score remained level after extra time, the match would then go to a penalty shootout to determine the winner.
-
-This rule was designed to encourage attacking play away from home, as scoring away goals could provide a significant advantage in knockout rounds. However, it was abolished by UEFA in 2021, meaning that tied two-legged matches now go directly to extra time and, if necessary, penalties, without considering away goals.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1288, "prompt_tokens": 897, "completion_tokens": 391, "retrieved_doc_ids": ["25", "37", "10"], "retrieval_scores": [0.5140877581868467, 0.38281224217369897, 0.37550562800547777]}
-Here is the sequence of events during a player substitution in an official FIFA match, outlined step-by-step:
-
-1. **Notification**: The team informs the fourth official of the intended substitution.
-
-2. **Preparation**: The substitute player prepares on the sideline, wearing a numbered bib.
-
-3. **Referee Authorization**: The substitute cannot enter the field until authorized by the referee.
-
-4. **Stopping Play**: Play must be stopped by the referee before the substitution can take place.
-
-5. **Leaving the Field**: The player being substituted must leave the field at the nearest boundary line.
-
-6. **Entering the Field**: The substitute enters the field from the halfway line after the replaced player has completely left.
-
-7. **Completion of Substitution**: The substitution is completed when the substitute enters the field.
-
-8. **Informing the Referee**: The referee is informed which player is being replaced and by whom.
-
-9. **Post-Substitution**: The replaced player cannot re-enter the match, and the substitute becomes a full player with all rights and responsibilities.
-
-10. **Recording**: The substitution is recorded by match officials.
-
-11. **Expedited Substitution (if necessary)**: If the player being substituted is injured and cannot continue, the substitution may be expedited.
-
-12. **Compliance with Special Rules**: Ensure that substitutions are typically made during stoppages and that any specific rules regarding goalkeepers or additional substitutions in extra time are followed.
-
-13. **Penalty for Delays**: The referee may show yellow cards to players who delay substitutions or enter the field without permission.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1230, "prompt_tokens": 904, "completion_tokens": 326, "retrieved_doc_ids": ["39", "37", "25"], "retrieval_scores": [0.8046848703942722, 0.5141372301089118, 0.4836286397129139]}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 837, "prompt_tokens": 835, "completion_tokens": 2, "retrieved_doc_ids": ["16", "40", "38"], "retrieval_scores": [0.6744646979683364, 0.42191069830237166, 0.3715491738277091]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 864, "prompt_tokens": 862, "completion_tokens": 2, "retrieved_doc_ids": ["21", "49", "19"], "retrieval_scores": [0.6989588971253127, 0.5001857919662246, 0.4831552310322405]}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 889, "prompt_tokens": 887, "completion_tokens": 2, "retrieved_doc_ids": ["45", "41", "17"], "retrieval_scores": [0.6625166184492086, 0.5359864145733745, 0.4015522507327619]}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 917, "prompt_tokens": 915, "completion_tokens": 2, "retrieved_doc_ids": ["44", "49", "0"], "retrieval_scores": [0.6386217393285484, 0.5708266024889158, 0.5218837690443848]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 975, "prompt_tokens": 973, "completion_tokens": 2, "retrieved_doc_ids": ["30", "6", "3"], "retrieval_scores": [0.6685631391701994, 0.4961242657666244, 0.48623471334681634]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 830, "prompt_tokens": 828, "completion_tokens": 2, "retrieved_doc_ids": ["27", "40", "12"], "retrieval_scores": [0.5747917337056533, 0.5533062439360128, 0.4702483920900146]}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 965, "prompt_tokens": 963, "completion_tokens": 2, "retrieved_doc_ids": ["8", "31", "3"], "retrieval_scores": [0.5555407496132709, 0.5335819460819919, 0.5108575693145757]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 807, "prompt_tokens": 805, "completion_tokens": 2, "retrieved_doc_ids": ["20", "6", "49"], "retrieval_scores": [0.47069089747686155, 0.4228179344985977, 0.3863654049355342]}
-D	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 792, "prompt_tokens": 790, "completion_tokens": 2, "retrieved_doc_ids": ["23", "42", "13"], "retrieval_scores": [0.5719241385369888, 0.4249664740271775, 0.30965337711641644]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 822, "prompt_tokens": 820, "completion_tokens": 2, "retrieved_doc_ids": ["42", "41", "12"], "retrieval_scores": [0.467405620830811, 0.4007613493001298, 0.36652244537196893]}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 814, "prompt_tokens": 812, "completion_tokens": 2, "retrieved_doc_ids": ["5", "4", "35"], "retrieval_scores": [0.6643556696791656, 0.5362109371338974, 0.4716407324021206]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 873, "prompt_tokens": 871, "completion_tokens": 2, "retrieved_doc_ids": ["12", "24", "28"], "retrieval_scores": [0.41183962578032457, 0.3882267431243333, 0.38324983126646134]}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 772, "prompt_tokens": 770, "completion_tokens": 2, "retrieved_doc_ids": ["20", "49", "48"], "retrieval_scores": [0.4816391113417419, 0.439275610732908, 0.3885104192633763]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 823, "prompt_tokens": 821, "completion_tokens": 2, "retrieved_doc_ids": ["11", "32", "3"], "retrieval_scores": [0.7017522887525894, 0.5060504064542894, 0.480078332061945]}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 886, "prompt_tokens": 884, "completion_tokens": 2, "retrieved_doc_ids": ["28", "38", "12"], "retrieval_scores": [0.6307967179232198, 0.5845673760680036, 0.511021669512745]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 823, "prompt_tokens": 821, "completion_tokens": 2, "retrieved_doc_ids": ["7", "40", "27"], "retrieval_scores": [0.44392091457197363, 0.4078175702586184, 0.3654210122333402]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 826, "prompt_tokens": 824, "completion_tokens": 2, "retrieved_doc_ids": ["17", "49", "24"], "retrieval_scores": [0.5062996783740257, 0.5004398557482951, 0.48429791304444547]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 691, "prompt_tokens": 689, "completion_tokens": 2, "retrieved_doc_ids": ["1", "9", "18"], "retrieval_scores": [0.4557851002254403, 0.39306850457650055, 0.37212280884980753]}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1021, "prompt_tokens": 1019, "completion_tokens": 2, "retrieved_doc_ids": ["3", "30", "21"], "retrieval_scores": [0.4960773116673155, 0.4646194324723504, 0.43808836567987225]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 736, "prompt_tokens": 734, "completion_tokens": 2, "retrieved_doc_ids": ["13", "33", "34"], "retrieval_scores": [0.6251757991606945, 0.40345590568886736, 0.4004741948085249]}
-11 players	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 920, "prompt_tokens": 917, "completion_tokens": 3, "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [0.4175509869425843, 0.3418816392536032, 0.32556852724146074]}
-Marta	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 866, "prompt_tokens": 863, "completion_tokens": 3, "retrieved_doc_ids": ["49", "3", "15"], "retrieval_scores": [0.5174186715701518, 0.5025797532864531, 0.4906166897426507]}
-Red card	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 826, "prompt_tokens": 823, "completion_tokens": 3, "retrieved_doc_ids": ["21", "6", "48"], "retrieval_scores": [0.4632358741407311, 0.4103960066120397, 0.3785495220468559]}
-Arsenal	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 723, "prompt_tokens": 720, "completion_tokens": 3, "retrieved_doc_ids": ["36", "27", "7"], "retrieval_scores": [0.519330896875597, 0.47244909815436414, 0.43219609225097994]}
-Erling Haaland	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 731, "prompt_tokens": 726, "completion_tokens": 5, "retrieved_doc_ids": ["18", "40", "11"], "retrieval_scores": [0.5608144973290506, 0.5435722618821535, 0.5357604931629525]}
-1. United States  
-2. Mexico  
-3. Canada	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 847, "prompt_tokens": 833, "completion_tokens": 14, "retrieved_doc_ids": ["49", "0", "4"], "retrieval_scores": [0.6627897263799719, 0.5655774637879243, 0.5208163593080549]}
-1. Uruguay  
-2. Brazil  
-3. Argentina	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 879, "prompt_tokens": 866, "completion_tokens": 13, "retrieved_doc_ids": ["49", "20", "44"], "retrieval_scores": [0.5738222991660682, 0.5347421879974309, 0.5037273332973276]}
-1. Thomas Müller (Germany) - 2010
-2. Diego Forlán (Uruguay) - 2014
-3. Harry Kane (England) - 2018
-4. Kylian Mbappé (France) - 2022	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 889, "prompt_tokens": 835, "completion_tokens": 54, "retrieved_doc_ids": ["1", "3", "31"], "retrieval_scores": [0.626722104540826, 0.6180602514408395, 0.5672205849335541]}
-1. Manchester United  
-2. Arsenal  
-3. Chelsea  
-4. Blackburn Rovers  
-5. Manchester City  
-6. Leicester City	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 848, "prompt_tokens": 818, "completion_tokens": 30, "retrieved_doc_ids": ["40", "27", "12"], "retrieval_scores": [0.5734335533785649, 0.5112422207193237, 0.47764549588273386]}
-1. Rangers  
-2. Celtic  
-3. Aberdeen  
-4. Hearts  
-
-Other major derbies in Scottish football include:  
-- Edinburgh Derby (Hearts vs Hibernian)  
-- Dundee Derby (Dundee vs Dundee United)  
-- West of Scotland Derby (Rangers vs Partick Thistle)  
-- Fife Derby (East Fife vs Raith Rovers)	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 812, "prompt_tokens": 731, "completion_tokens": 81, "retrieved_doc_ids": ["27", "40", "36"], "retrieval_scores": [0.3757807284327236, 0.3415067733849864, 0.33299787696851735]}
-The procedure for conducting the coin toss before a football match is as follows:
-
-1. **Pre-Match Preparation**: The referee gathers both team captains and the match officials at the center of the field before the match begins.
-
-2. **Coin Selection**: The referee takes a coin, which is typically a standard coin with a distinct side (heads and tails).
-
-3. **Captain's Call**: The referee asks one of the team captains to call the coin toss while the coin is in the air. The captain can choose either "heads" or "tails."
-
-4. **Tossing the Coin**: The referee tosses the coin into the air, ensuring that it flips and is visible to all present.
-
-5. **Result Announcement**: Once the coin lands, the referee announces the result (either heads or tails) to both captains.
-
-6. **Choosing Ends**: The captain who wins the toss can choose either:
-   - The end of the field they wish to attack in the first half, or
-   - The option to kick off the match.
-
-7. **Confirmation**: The referee confirms the decision and ensures that both teams are aware of which end they will be attacking and who will kick off.
-
-8. **Proceeding to Kick-Off**: After the coin toss is completed and decisions are made, the teams return to their respective positions for the kick-off to start the match.
-
-This procedure ensures a fair start to the match and is an important tradition in football.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1208, "prompt_tokens": 902, "completion_tokens": 306, "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [0.42997687641170923, 0.39025342122459733, 0.38472187115454554]}
-Based on the provided context, the specific steps involved in applying the handball rule in the penalty area are not explicitly detailed. However, I can provide a general outline of the steps typically followed when a handball offense occurs in the penalty area, based on common football regulations:
-
-1. **Observation**: The referee observes the play and identifies a potential handball offense in the penalty area.
-
-2. **Assessment of Intent**: The referee assesses whether the player deliberately handled the ball or if it was an accidental contact. Factors considered include the position of the player's arms, the distance to the ball, and the player's movement.
-
-3. **Determination of Position**: The referee evaluates the position of the player’s arms at the time of contact. If the arms are in an unnatural position (e.g., away from the body), it may indicate a handball offense.
-
-4. **Decision Making**: If the referee determines that a handball offense has occurred, they decide whether to award a penalty kick to the opposing team.
-
-5. **Signal**: The referee signals the decision by pointing to the penalty mark to indicate that a penalty kick will be awarded.
-
-6. **Communication**: The referee communicates the decision to the players and may explain the reasoning if necessary.
-
-7. **Penalty Kick Procedure**: The game proceeds to the penalty kick procedure as outlined in the FIFA Laws of the Game, including the placement of the ball, player positioning, and the actions of the goalkeeper.
-
-8. **Follow-up**: After the penalty kick is taken, the referee continues to monitor the game for any further offenses or incidents.
-
-These steps provide a general framework for how the handball rule is applied in the penalty area during a football match.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1255, "prompt_tokens": 904, "completion_tokens": 351, "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.6068759585685313, 0.481433345328285, 0.40396696868320286]}
-The provided context does not include specific information about goal-line technology. However, I can outline how goal-line technology generally works in modern football based on my knowledge.
-
-1. **Installation of Cameras**: Multiple high-speed cameras are installed in the stadium, typically positioned around the goal area to capture the ball's position from various angles.
-
-2. **Ball Sensors**: Some systems use a special ball that contains sensors to detect its position relative to the goal line.
-
-3. **Real-Time Data Processing**: The camera system continuously tracks the ball's movement and sends the data to a central processing unit.
-
-4. **Goal Detection Algorithm**: The system uses advanced algorithms to determine whether the entire ball has crossed the goal line. This is done by analyzing the footage from the cameras and/or the data from the ball sensors.
-
-5. **Instant Communication**: When a goal is detected, the system sends an instant signal to the referee's watch or earpiece, typically within one second.
-
-6. **Referee Decision**: The referee receives the confirmation of the goal and can then make the official call on the field.
-
-7. **Public Announcement**: Once the goal is confirmed, the stadium's scoreboard and public address system are updated to inform players, officials, and fans that a goal has been scored.
-
-8. **Review Process**: In case of any disputes, the footage can be reviewed by officials, but the initial decision made by the goal-line technology is considered final.
-
-This technology is designed to eliminate human error in goal decisions and enhance the accuracy of officiating in football matches.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1208, "prompt_tokens": 887, "completion_tokens": 321, "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.4895206045984294, 0.4713549157970141, 0.39482895825033204]}
-The provided context does not contain information about the process of appealing against a transfer ban in football. Therefore, I cannot provide step-by-step instructions based on the context given. However, I can provide a general outline of the typical steps involved in appealing a transfer ban based on common practices in football:
-
-1. **Review the Ban**: The club should thoroughly review the reasons for the transfer ban as stated by the governing body (e.g., FIFA, UEFA).
-
-2. **Gather Evidence**: Collect all relevant documentation and evidence that supports the club's case, including contracts, communications, and any compliance measures taken.
-
-3. **Consult Legal Advisors**: Engage with legal experts who specialize in sports law to understand the implications of the ban and the appeal process.
-
-4. **Prepare the Appeal**: Draft a formal appeal letter outlining the reasons for the appeal, the evidence gathered, and any legal arguments that support the club's position.
-
-5. **Submit the Appeal**: File the appeal with the appropriate governing body within the specified time frame. Ensure that all required forms and documentation are included.
-
-6. **Await Acknowledgment**: Wait for confirmation from the governing body that the appeal has been received and is being processed.
-
-7. **Attend Hearings (if applicable)**: If the governing body schedules a hearing, prepare to present the case. This may involve presenting evidence and arguments in front of a panel.
-
-8. **Receive the Decision**: After the appeal process is complete, await the decision from the governing body regarding the appeal.
-
-9. **Consider Further Action**: If the appeal is unsuccessful, consult with legal advisors about the possibility of further appeals to higher courts or arbitration bodies, such as the Court of Arbitration for Sport (CAS).
-
-10. **Implement Changes (if necessary)**: If the appeal is successful, ensure that any required changes or compliance measures are implemented to avoid future issues.
-
-Please note that the actual process may vary depending on the specific governing body and the circumstances of the transfer ban.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1295, "prompt_tokens": 889, "completion_tokens": 406, "retrieved_doc_ids": ["39", "46", "37"], "retrieval_scores": [0.39784308138579155, 0.39248511099641215, 0.38478266797787186]}
-A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1024, "prompt_tokens": 1022, "completion_tokens": 2, "retrieved_doc_ids": ["30", "31", "8"], "retrieval_scores": [0.5425838134886184, 0.5342440642595978, 0.500444799622236]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 810, "prompt_tokens": 808, "completion_tokens": 2, "retrieved_doc_ids": ["17", "21", "20"], "retrieval_scores": [0.6087921995667852, 0.4445546451967377, 0.43405661354311925]}
-C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 822, "prompt_tokens": 820, "completion_tokens": 2, "retrieved_doc_ids": ["35", "23", "48"], "retrieval_scores": [0.36192548279983344, 0.34509422669035794, 0.3253151208644333]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 896, "prompt_tokens": 894, "completion_tokens": 2, "retrieved_doc_ids": ["42", "2", "44"], "retrieval_scores": [0.5695120941055117, 0.40230002672344156, 0.38715019634755415]}
-B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 852, "prompt_tokens": 850, "completion_tokens": 2, "retrieved_doc_ids": ["38", "40", "28"], "retrieval_scores": [0.44649414749350824, 0.42923958453880917, 0.4259388198008308]}
+Carlos Bilardo	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 827, "prompt_tokens": 823, "completion_tokens": 4, "raw_answer": "Carlos Bilardo", "question_type": "factoid", "retrieved_doc_ids": ["48", "6", "20"], "retrieval_scores": [0.6469114611272981, 0.4588248392418273, 0.45240435911706384]}
+1904	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 899, "prompt_tokens": 896, "completion_tokens": 3, "raw_answer": "1904", "question_type": "factoid", "retrieved_doc_ids": ["19", "20", "50"], "retrieval_scores": [0.7653636662225523, 0.5154523468981514, 0.4403675963309052]}
+Geoff Hurst	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 956, "prompt_tokens": 951, "completion_tokens": 5, "raw_answer": "Geoff Hurst", "question_type": "factoid", "retrieved_doc_ids": ["15", "48", "30"], "retrieval_scores": [0.6852438787203577, 0.4509532390925406, 0.4399099753318192]}
+You'll Never Walk Alone	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 888, "prompt_tokens": 883, "completion_tokens": 5, "raw_answer": "You'll Never Walk Alone", "question_type": "factoid", "retrieved_doc_ids": ["26", "40", "12"], "retrieval_scores": [0.6930123277866289, 0.30215643866204167, 0.2685000367549233]}
+Uruguay	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 950, "prompt_tokens": 947, "completion_tokens": 3, "raw_answer": "Uruguay", "question_type": "factoid", "retrieved_doc_ids": ["20", "49", "21"], "retrieval_scores": [0.6746531239696365, 0.5442862633304597, 0.5330602658763869]}
+Harry Kane	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 943, "prompt_tokens": 940, "completion_tokens": 3, "raw_answer": "Harry Kane", "question_type": "factoid", "retrieved_doc_ids": ["3", "1", "31"], "retrieval_scores": [0.6715641228032, 0.6129150577677596, 0.5121422700303476]}
+Inter Miami CF	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 835, "prompt_tokens": 831, "completion_tokens": 4, "raw_answer": "Inter Miami CF", "question_type": "factoid", "retrieved_doc_ids": ["34", "33", "32"], "retrieval_scores": [0.6519385305907962, 0.6273505595325916, 0.4747509054970357]}
+George Weah	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 925, "prompt_tokens": 921, "completion_tokens": 4, "raw_answer": "George Weah", "question_type": "factoid", "retrieved_doc_ids": ["22", "8", "5"], "retrieval_scores": [0.7069978936023275, 0.5358579890208577, 0.4782601726897085]}
+Emirates Stadium or Tottenham Hotspur Stadium	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 780, "prompt_tokens": 770, "completion_tokens": 10, "raw_answer": "Emirates Stadium or Tottenham Hotspur Stadium", "question_type": "factoid", "retrieved_doc_ids": ["36", "27", "42"], "retrieval_scores": [0.7519052939861869, 0.513732718191029, 0.39636033733768744]}
+Shane Long	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 835, "prompt_tokens": 831, "completion_tokens": 4, "raw_answer": "Shane Long", "question_type": "factoid", "retrieved_doc_ids": ["18", "40", "11"], "retrieval_scores": [0.7937205489847858, 0.43495109341645233, 0.41363539814033634]}
+Pep Guardiola	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 984, "prompt_tokens": 981, "completion_tokens": 3, "raw_answer": "Pep Guardiola", "question_type": "factoid", "retrieved_doc_ids": ["38", "28", "16"], "retrieval_scores": [0.6764915583374717, 0.5938021765721625, 0.5079311108510081]}
+Milan	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 857, "prompt_tokens": 854, "completion_tokens": 3, "raw_answer": "Milan", "question_type": "factoid", "retrieved_doc_ids": ["42", "23", "34"], "retrieval_scores": [0.7358722213516554, 0.32501737824786614, 0.3237665871573456]}
+LA Galaxy	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 832, "prompt_tokens": 829, "completion_tokens": 3, "raw_answer": "LA Galaxy", "question_type": "factoid", "retrieved_doc_ids": ["9", "13", "33"], "retrieval_scores": [0.6893924546112563, 0.4313403524633716, 0.41237917618395065]}
+Sevilla	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 957, "prompt_tokens": 954, "completion_tokens": 3, "raw_answer": "Sevilla", "question_type": "factoid", "retrieved_doc_ids": ["43", "12", "23"], "retrieval_scores": [0.6762623199815828, 0.5485696473895574, 0.4905732795316638]}
+Giorgio Chiellini	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 974, "prompt_tokens": 967, "completion_tokens": 7, "raw_answer": "Giorgio Chiellini", "question_type": "factoid", "retrieved_doc_ids": ["24", "45", "23"], "retrieval_scores": [0.7611295799199047, 0.5552822144587635, 0.5086622117271286]}
+Diego Maradona	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 902, "prompt_tokens": 897, "completion_tokens": 5, "raw_answer": "Diego Maradona", "question_type": "factoid", "retrieved_doc_ids": ["14", "29", "3"], "retrieval_scores": [0.6218270455303905, 0.35245699992016066, 0.3443194774263277]}
+10	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 815, "prompt_tokens": 813, "completion_tokens": 2, "raw_answer": "10", "question_type": "factoid", "retrieved_doc_ids": ["29", "14", "48"], "retrieval_scores": [0.7446462994391845, 0.6071371028111899, 0.44547405633465026]}
+Gonzalo Montiel	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 989, "prompt_tokens": 983, "completion_tokens": 6, "raw_answer": "Gonzalo Montiel", "question_type": "factoid", "retrieved_doc_ids": ["6", "30", "48"], "retrieval_scores": [0.6858214392063294, 0.5417805533471347, 0.5103257938301955]}
+South Korea and Japan	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1013, "prompt_tokens": 1008, "completion_tokens": 5, "raw_answer": "South Korea and Japan", "question_type": "factoid", "retrieved_doc_ids": ["0", "49", "44"], "retrieval_scores": [0.6656380579548105, 0.6088727970115756, 0.5457962759828637]}
+Super Eagles	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 906, "prompt_tokens": 903, "completion_tokens": 3, "raw_answer": "Super Eagles", "question_type": "factoid", "retrieved_doc_ids": ["35", "4", "5"], "retrieval_scores": [0.6727067029841398, 0.3629109817109193, 0.3478444536239867]}
+Sporting CP\tManchester United\tReal Madrid	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 972, "prompt_tokens": 962, "completion_tokens": 10, "raw_answer": "Sporting CP\\tManchester United\\tReal Madrid", "question_type": "list", "retrieved_doc_ids": ["13", "33", "23"], "retrieval_scores": [0.7089730229040034, 0.4823546702434793, 0.42608313775544404]}
+Egypt\tGhana\tSudan\tEthiopia\tTunisia\tSouth Africa\tCameroon\tGabon\tEquatorial Guinea\tCôte d'Ivoire	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1116, "prompt_tokens": 1082, "completion_tokens": 34, "raw_answer": "Egypt\\tGhana\\tSudan\\tEthiopia\\tTunisia\\tSouth Africa\\tCameroon\\tGabon\\tEquatorial Guinea\\tC\u00f4te d'Ivoire", "question_type": "list", "retrieved_doc_ids": ["4", "49", "44"], "retrieval_scores": [0.7911522835666823, 0.5922065299390267, 0.5694091075058626]}
+Japan\tUnited States\tSpain	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1095, "prompt_tokens": 1088, "completion_tokens": 7, "raw_answer": "Japan\\tUnited States\\tSpain", "question_type": "list", "retrieved_doc_ids": ["47", "49", "50"], "retrieval_scores": [0.7692352965219191, 0.48454342901202513, 0.4832612153847304]}
+Arsenal\tChelsea\tTottenham Hotspur\tWest Ham United\tCrystal Palace	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 984, "prompt_tokens": 967, "completion_tokens": 17, "raw_answer": "Arsenal\\tChelsea\\tTottenham Hotspur\\tWest Ham United\\tCrystal Palace", "question_type": "list", "retrieved_doc_ids": ["27", "40", "12"], "retrieval_scores": [0.7497552048573017, 0.5630828547230229, 0.38669567708326785]}
+Cristiano Ronaldo\tLionel Messi\tRobert Lewandowski\tKarim Benzema\tRaúl González	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 964, "prompt_tokens": 942, "completion_tokens": 22, "raw_answer": "Cristiano Ronaldo\\tLionel Messi\\tRobert Lewandowski\\tKarim Benzema\\tRa\u00fal Gonz\u00e1lez", "question_type": "list", "retrieved_doc_ids": ["11", "12", "32"], "retrieval_scores": [0.6898265455850744, 0.5091075334543211, 0.49416400265881466]}
+Barcelona\tParis Saint-Germain\tInter Miami	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 892, "prompt_tokens": 883, "completion_tokens": 9, "raw_answer": "Barcelona\\tParis Saint-Germain\\tInter Miami", "question_type": "list", "retrieved_doc_ids": ["33", "34", "32"], "retrieval_scores": [0.7776484299243783, 0.6517252163777366, 0.5205603331052128]}
+Germany\tSpain	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1035, "prompt_tokens": 1031, "completion_tokens": 4, "raw_answer": "Germany\\tSpain", "question_type": "list", "retrieved_doc_ids": ["17", "49", "12"], "retrieval_scores": [0.7681324730805592, 0.5170227280740392, 0.5157577629523135]}
+Barcelona\tReal Madrid\tLiverpool\tBayern Munich\tChelsea\tManchester City	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1039, "prompt_tokens": 1023, "completion_tokens": 16, "raw_answer": "Barcelona\\tReal Madrid\\tLiverpool\\tBayern Munich\\tChelsea\\tManchester City", "question_type": "list", "retrieved_doc_ids": ["12", "10", "17"], "retrieval_scores": [0.632527425415799, 0.4663058118353503, 0.4573356557832845]}
+Premier League titles\tFA Cup\tEFL Cup (League Cup)\tUEFA Champions League\tFA Community Shield\tUEFA Super Cup\tFIFA Club World Cup	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1044, "prompt_tokens": 1009, "completion_tokens": 35, "raw_answer": "Premier League titles\\tFA Cup\\tEFL Cup (League Cup)\\tUEFA Champions League\\tFA Community Shield\\tUEFA Super Cup\\tFIFA Club World Cup", "question_type": "list", "retrieved_doc_ids": ["28", "38", "12"], "retrieval_scores": [0.8404929281919743, 0.7564957824943055, 0.5124796683019511]}
+Lusail Iconic Stadium\tAl Bayt Stadium\tStadium 974\tAhmad Bin Ali Stadium\tKhalifa International Stadium\tEducation City Stadium\tAl Thumama Stadium\tAl Janoub Stadium	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1085, "prompt_tokens": 1041, "completion_tokens": 44, "raw_answer": "Lusail Iconic Stadium\\tAl Bayt Stadium\\tStadium 974\\tAhmad Bin Ali Stadium\\tKhalifa International Stadium\\tEducation City Stadium\\tAl Thumama Stadium\\tAl Janoub Stadium", "question_type": "list", "retrieved_doc_ids": ["2", "49", "0"], "retrieval_scores": [0.6767825171462623, 0.5532125736401644, 0.5151368522015431]}
+Manchester City\tArsenal\tManchester United\tNewcastle United\tLiverpool\tBrighton & Hove Albion\tAston Villa\tTottenham Hotspur\tBrentford\tFulham\tCrystal Palace\tChelsea\tWolverhampton Wanderers\tWest Ham United\tBournemouth\tNottingham Forest\tEverton\tLeicester City\tLeeds United\tSouthampton	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1075, "prompt_tokens": 1001, "completion_tokens": 74, "raw_answer": "Manchester City\\tArsenal\\tManchester United\\tNewcastle United\\tLiverpool\\tBrighton & Hove Albion\\tAston Villa\\tTottenham Hotspur\\tBrentford\\tFulham\\tCrystal Palace\\tChelsea\\tWolverhampton Wanderers\\tWest Ham United\\tBournemouth\\tNottingham Forest\\tEverton\\tLeicester City\\tLeeds United\\tSouthampton", "question_type": "list", "retrieved_doc_ids": ["40", "27", "28"], "retrieval_scores": [0.7182301991089157, 0.5181487622889871, 0.4204483082962843]}
+Lionel Messi	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1061, "prompt_tokens": 1057, "completion_tokens": 4, "raw_answer": "Lionel Messi", "question_type": "list", "retrieved_doc_ids": ["8", "17", "31"], "retrieval_scores": [0.7616632319882111, 0.5009845107283789, 0.4683143531049683]}
+Kylian Mbappé\tLionel Messi\tJulián Álvarez\tOlivier Giroud\tGonçalo Ramos	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1020, "prompt_tokens": 990, "completion_tokens": 30, "raw_answer": "Kylian Mbapp\u00e9\\tLionel Messi\\tJuli\u00e1n \u00c1lvarez\\tOlivier Giroud\\tGon\u00e7alo Ramos", "question_type": "list", "retrieved_doc_ids": ["3", "1", "31"], "retrieval_scores": [0.6940789193539347, 0.536988484210667, 0.49757739957303704]}
+AC Milan\tInter Milan\tJuventus	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1005, "prompt_tokens": 995, "completion_tokens": 10, "raw_answer": "AC Milan\\tInter Milan\\tJuventus", "question_type": "list", "retrieved_doc_ids": ["23", "12", "11"], "retrieval_scores": [0.7352501088460446, 0.5952520743151697, 0.5033494736909871]}
+Iker Casillas\tSergio Ramos\tMarcelo\tKarim Benzema\tNacho Fernández	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1076, "prompt_tokens": 1054, "completion_tokens": 22, "raw_answer": "Iker Casillas\\tSergio Ramos\\tMarcelo\\tKarim Benzema\\tNacho Fern\u00e1ndez", "question_type": "list", "retrieved_doc_ids": ["41", "12", "45"], "retrieval_scores": [0.8014465718460889, 0.4906027906589711, 0.4358878084746144]}
+Cameroon\tSenegal\tGhana	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1085, "prompt_tokens": 1076, "completion_tokens": 9, "raw_answer": "Cameroon\\tSenegal\\tGhana", "question_type": "list", "retrieved_doc_ids": ["5", "4", "50"], "retrieval_scores": [0.7724673233709143, 0.5603866546394244, 0.5557663631795668]}
+Mexico\tItaly\tFrance\tGermany\tBrazil\tUnited States	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1002, "prompt_tokens": 989, "completion_tokens": 13, "raw_answer": "Mexico\\tItaly\\tFrance\\tGermany\\tBrazil\\tUnited States", "question_type": "list", "retrieved_doc_ids": ["49", "0", "4"], "retrieval_scores": [0.7991488610204464, 0.5123657627750153, 0.510115495046324]}
+Arsenal\tBayer Leverkusen\tAjax\tAPOEL\tPSV Eindhoven\tManchester City\tBATE Borisov	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 921, "prompt_tokens": 894, "completion_tokens": 27, "raw_answer": "Arsenal\\tBayer Leverkusen\\tAjax\\tAPOEL\\tPSV Eindhoven\\tManchester City\\tBATE Borisov", "question_type": "list", "retrieved_doc_ids": ["32", "11", "33"], "retrieval_scores": [0.7778017635542123, 0.5810879886195993, 0.5451741295174864]}
+\t2002\t2003\t2005\t2014\t2015\t2017	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1039, "prompt_tokens": 1018, "completion_tokens": 21, "raw_answer": "1998\\t2002\\t2003\\t2005\\t2014\\t2015\\t2017", "question_type": "list", "retrieved_doc_ids": ["7", "28", "40"], "retrieval_scores": [0.759402196108219, 0.3662310877280565, 0.3653830424437849]}
+Golden Ball\tSilver Boot	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1048, "prompt_tokens": 1042, "completion_tokens": 6, "raw_answer": "Golden Ball\\tSilver Boot", "question_type": "list", "retrieved_doc_ids": ["31", "6", "3"], "retrieval_scores": [0.81851316076428, 0.5953059557741656, 0.5927925032503089]}
+1. Top teams from Europe's strongest leagues receive automatic group stage places.\n2. Domestic champions from smaller leagues go through qualifying rounds.\n3. Teams that finish in qualifying positions but aren't champions enter through the league path.\n4. Teams play in the playoff round to determine the last spots in the group stage.\n5. The winner of the previous season's Europa League qualifies automatically.\n6. The defending Champions League title holders qualify automatically.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1192, "prompt_tokens": 1105, "completion_tokens": 87, "raw_answer": "1. Top teams from Europe's strongest leagues receive automatic group stage places.\n2. Domestic champions from smaller leagues go through qualifying rounds.\n3. Teams that finish in qualifying positions but aren't champions enter through the league path.\n4. Teams play in the playoff round to determine the last spots in the group stage.\n5. The winner of the previous season's Europa League qualifies automatically.\n6. The defending Champions League title holders qualify automatically.", "question_type": "instruction", "retrieved_doc_ids": ["10", "50", "25"], "retrieval_scores": [0.7225794516565139, 0.49483660270828167, 0.40211402275894037]}
+1. Place the ball on the penalty mark (12 yards from goal)\n2. Ensure the player taking the penalty is clearly identified\n3. Confirm the goalkeeper remains on the goal line, facing the kicker, between the goalposts\n4. Ensure all other players are outside the penalty area and arc, at least 10 yards from the penalty mark\n5. Wait for the referee's signal to take the kick\n6. Kick the ball forward\n7. Do not touch the ball again until another player has touched it	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1163, "prompt_tokens": 1055, "completion_tokens": 108, "raw_answer": "1. Place the ball on the penalty mark (12 yards from goal)  \n2. Ensure the player taking the penalty is clearly identified  \n3. Confirm the goalkeeper remains on the goal line, facing the kicker, between the goalposts  \n4. Ensure all other players are outside the penalty area and arc, at least 10 yards from the penalty mark  \n5. Wait for the referee's signal to take the kick  \n6. Kick the ball forward  \n7. Do not touch the ball again until another player has touched it", "question_type": "instruction", "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.7875373878191517, 0.5626618552986196, 0.4921370349771461]}
+1. Play two 15-minute periods of extra time (30 minutes total)\n2. Have a short break (typically 5 minutes) before extra time\n3. Change ends between the two extra time periods\n4. If the score remains level after extra time, proceed to a penalty shootout\n5. Each team takes five penalties alternately\n6. If scores are level after five penalties each, continue on a sudden-death basis\n7. Only players who were on the field at the end of extra time are eligible to take penalties\n8. Each team's penalties must be taken by different players until all eligible players have taken one\n9. The team that scores more goals during the penalty shootout wins the match	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1204, "prompt_tokens": 1055, "completion_tokens": 149, "raw_answer": "1. Play two 15-minute periods of extra time (30 minutes total)  \n2. Have a short break (typically 5 minutes) before extra time  \n3. Change ends between the two extra time periods  \n4. If the score remains level after extra time, proceed to a penalty shootout  \n5. Each team takes five penalties alternately  \n6. If scores are level after five penalties each, continue on a sudden-death basis  \n7. Only players who were on the field at the end of extra time are eligible to take penalties  \n8. Each team's penalties must be taken by different players until all eligible players have taken one  \n9. The team that scores more goals during the penalty shootout wins the match", "question_type": "instruction", "retrieved_doc_ids": ["25", "39", "37"], "retrieval_scores": [0.7624551403138699, 0.42317003799528086, 0.39764777784472083]}
+1. Teams participate in continental qualifying tournaments organized by FIFA's six confederations.\n2. UEFA teams play in groups; group winners qualify directly, and runners-up enter playoffs.\n3. CONMEBOL teams play in a single league format; top teams qualify directly, lower-ranked teams enter playoffs.\n4. CAF teams are divided into groups; group winners advance, and the final round features home-and-away playoffs.\n5. AFC teams play in several rounds; the best teams qualify directly, others enter playoffs.\n6. CONCACAF teams play in rounds; the final round features eight teams competing for qualification spots.\n7. OFC teams play in a group stage followed by playoffs; the winner enters an intercontinental playoff.\n8. The host nation(s) automatically qualify.\n9. The qualification process typically takes 2-3 years before each World Cup.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1264, "prompt_tokens": 1090, "completion_tokens": 174, "raw_answer": "1. Teams participate in continental qualifying tournaments organized by FIFA's six confederations.\n\n2. UEFA teams play in groups; group winners qualify directly, and runners-up enter playoffs.\n\n3. CONMEBOL teams play in a single league format; top teams qualify directly, lower-ranked teams enter playoffs.\n\n4. CAF teams are divided into groups; group winners advance, and the final round features home-and-away playoffs.\n\n5. AFC teams play in several rounds; the best teams qualify directly, others enter playoffs.\n\n6. CONCACAF teams play in rounds; the final round features eight teams competing for qualification spots.\n\n7. OFC teams play in a group stage followed by playoffs; the winner enters an intercontinental playoff.\n\n8. The host nation(s) automatically qualify.\n\n9. The qualification process typically takes 2-3 years before each World Cup.", "question_type": "instruction", "retrieved_doc_ids": ["50", "10", "5"], "retrieval_scores": [0.7743757761766497, 0.57287419847593, 0.5055700960732932]}
+1. The VAR team watches all game action from a video operation room\n2. Multiple camera angles are available for review\n3. VAR checks specific incidents and communicates with the referee via headset\n4. For clear and obvious errors, the VAR recommends an on-field review\n5. The referee reviews the incident on a pitchside monitor\n6. After review, the referee makes the final decision\n7. The referee signals a VAR review by making a TV screen gesture	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1135, "prompt_tokens": 1039, "completion_tokens": 96, "raw_answer": "1. The VAR team watches all game action from a video operation room  \n2. Multiple camera angles are available for review  \n3. VAR checks specific incidents and communicates with the referee via headset  \n4. For clear and obvious errors, the VAR recommends an on-field review  \n5. The referee reviews the incident on a pitchside monitor  \n6. After review, the referee makes the final decision  \n7. The referee signals a VAR review by making a TV screen gesture", "question_type": "instruction", "retrieved_doc_ids": ["46", "37", "39"], "retrieval_scores": [0.7546293414961482, 0.48839564853292294, 0.43602369209857506]}
+1. Notify the fourth official of the intended substitution\n2. Prepare the substitute on the sideline, wearing a numbered bib\n3. Stop play and obtain permission from the referee\n4. The injured player leaves the field at the nearest boundary line\n5. The substitute enters from the halfway line after the injured player has left\n6. The substitution is completed when the substitute enters the field\n7. Inform the referee which player is being replaced and by whom\n8. Record the substitution by match officials	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1151, "prompt_tokens": 1048, "completion_tokens": 103, "raw_answer": "1. Notify the fourth official of the intended substitution\n2. Prepare the substitute on the sideline, wearing a numbered bib\n3. Stop play and obtain permission from the referee\n4. The injured player leaves the field at the nearest boundary line\n5. The substitute enters from the halfway line after the injured player has left\n6. The substitution is completed when the substitute enters the field\n7. Inform the referee which player is being replaced and by whom\n8. Record the substitution by match officials", "question_type": "instruction", "retrieved_doc_ids": ["39", "37", "25"], "retrieval_scores": [0.648043293388802, 0.4319960729100569, 0.4242007873386049]}
+1. The provided context does not contain information about the steps involved in taking a corner kick. Therefore, I am unable to provide a response based on the given context.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1078, "prompt_tokens": 1045, "completion_tokens": 33, "raw_answer": "The provided context does not contain information about the steps involved in taking a corner kick. Therefore, I am unable to provide a response based on the given context.", "question_type": "instruction", "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.5836252039412066, 0.44297010432210915, 0.41854838576323733]}
+1. Finish the EFL Championship season in the top two positions to achieve automatic promotion.\n2. Compete in the Championship Play-offs if finishing between 3rd and 6th place.\n3. Win the Play-off final to secure the third promotion spot to the Premier League.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1022, "prompt_tokens": 964, "completion_tokens": 58, "raw_answer": "1. Finish the EFL Championship season in the top two positions to achieve automatic promotion.\n\n2. Compete in the Championship Play-offs if finishing between 3rd and 6th place.\n\n3. Win the Play-off final to secure the third promotion spot to the Premier League.", "question_type": "instruction", "retrieved_doc_ids": ["40", "10", "27"], "retrieval_scores": [0.4919683044151372, 0.47009521974888774, 0.4213372767476258]}
+1. Ensure all players are present and eligible to play\n2. Conduct a pre-match inspection of the field and goalposts\n3. Check that the match balls meet the required standards\n4. Confirm the identities of the team captains\n5. Review the rules and regulations specific to the competition\n6. Ensure that the fourth official is ready and aware of their duties\n7. Gather any necessary match documentation and reports	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1123, "prompt_tokens": 1036, "completion_tokens": 87, "raw_answer": "1. Ensure all players are present and eligible to play  \n2. Conduct a pre-match inspection of the field and goalposts  \n3. Check that the match balls meet the required standards  \n4. Confirm the identities of the team captains  \n5. Review the rules and regulations specific to the competition  \n6. Ensure that the fourth official is ready and aware of their duties  \n7. Gather any necessary match documentation and reports", "question_type": "instruction", "retrieved_doc_ids": ["39", "37", "46"], "retrieval_scores": [0.5785292930868505, 0.49095370328524496, 0.46023904969542045]}
+1. Teams play each other in a round-robin format within their group.\n2. Points are awarded based on match results: 3 points for a win, 1 point for a draw, and 0 points for a loss.\n3. The total points accumulated by each team are calculated at the end of the group stage.\n4. If teams are tied on points, the following tiebreakers are applied in order:\n5. a. Goal difference\n6. b. Goals scored\n7. c. Head-to-head results between the tied teams\n8. d. Away goals scored in head-to-head matches\n9. e. Overall UEFA coefficient ranking\n10. The top teams from each group advance to the knockout stage.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1176, "prompt_tokens": 1026, "completion_tokens": 150, "raw_answer": "1. Teams play each other in a round-robin format within their group.  \n2. Points are awarded based on match results: 3 points for a win, 1 point for a draw, and 0 points for a loss.  \n3. The total points accumulated by each team are calculated at the end of the group stage.  \n4. If teams are tied on points, the following tiebreakers are applied in order:  \n   a. Goal difference  \n   b. Goals scored  \n   c. Head-to-head results between the tied teams  \n   d. Away goals scored in head-to-head matches  \n   e. Overall UEFA coefficient ranking  \n5. The top teams from each group advance to the knockout stage.", "question_type": "instruction", "retrieved_doc_ids": ["10", "25", "12"], "retrieval_scores": [0.6141862774586622, 0.48409687822174363, 0.42870935464533366]}
+1. Each team takes five penalties alternately.\n2. If scores are level after five penalties, the shootout continues on a sudden-death basis.\n3. Only players who were on the field at the end of extra time are eligible to take penalties.\n4. Each team's penalties must be taken by different players until all eligible players have taken one.\n5. The team that scores more goals during the penalty shootout wins the match.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1139, "prompt_tokens": 1045, "completion_tokens": 94, "raw_answer": "1. Each team takes five penalties alternately.  \n2. If scores are level after five penalties, the shootout continues on a sudden-death basis.  \n3. Only players who were on the field at the end of extra time are eligible to take penalties.  \n4. Each team's penalties must be taken by different players until all eligible players have taken one.  \n5. The team that scores more goals during the penalty shootout wins the match.", "question_type": "instruction", "retrieved_doc_ids": ["37", "25", "39"], "retrieval_scores": [0.6234995512002994, 0.5854282922670233, 0.4970541357764608]}
+1. The provided context does not include information on how FIFA ranks national teams in its world ranking system. Therefore, I cannot provide an answer based on the given documents.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1065, "prompt_tokens": 1032, "completion_tokens": 33, "raw_answer": "The provided context does not include information on how FIFA ranks national teams in its world ranking system. Therefore, I cannot provide an answer based on the given documents.", "question_type": "instruction", "retrieved_doc_ids": ["50", "19", "49"], "retrieval_scores": [0.5742530950054786, 0.49410285479183697, 0.4613958007351706]}
+1. The referee awards a direct free kick for a foul committed by the opposing team.\n2. The ball is placed at the spot where the foul occurred.\n3. All opposing players must be at least 10 yards away from the ball until it is kicked.\n4. The player taking the free kick must be clearly identified.\n5. The referee signals for the kick to be taken.\n6. The player kicks the ball forward.\n7. The kick is complete when the ball stops moving, goes out of play, or the referee stops play for any offense.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1161, "prompt_tokens": 1047, "completion_tokens": 114, "raw_answer": "1. The referee awards a direct free kick for a foul committed by the opposing team.\n2. The ball is placed at the spot where the foul occurred.\n3. All opposing players must be at least 10 yards away from the ball until it is kicked.\n4. The player taking the free kick must be clearly identified.\n5. The referee signals for the kick to be taken.\n6. The player kicks the ball forward.\n7. The kick is complete when the ball stops moving, goes out of play, or the referee stops play for any offense.", "question_type": "instruction", "retrieved_doc_ids": ["37", "25", "39"], "retrieval_scores": [0.5967672433579453, 0.490864469145836, 0.4677901435650993]}
+1. The context provided does not include information about the steps involved in signing a new player during the transfer window. Therefore, I cannot provide an answer to the question as it is not covered in the available documents.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1037, "prompt_tokens": 995, "completion_tokens": 42, "raw_answer": "The context provided does not include information about the steps involved in signing a new player during the transfer window. Therefore, I cannot provide an answer to the question as it is not covered in the available documents.", "question_type": "instruction", "retrieved_doc_ids": ["39", "16", "9"], "retrieval_scores": [0.45276543540417613, 0.35081860450988556, 0.32595020111025613]}
+1. The Ballon d'Or is awarded by France Football magazine.\n2. A panel of international journalists votes for the best football players.\n3. Each journalist selects their top players based on performance over the past year.\n4. Points are awarded to players based on their rankings from each journalist's ballot.\n5. The player with the highest total points is declared the winner.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1138, "prompt_tokens": 1057, "completion_tokens": 81, "raw_answer": "1. The Ballon d'Or is awarded by France Football magazine.  \n2. A panel of international journalists votes for the best football players.  \n3. Each journalist selects their top players based on performance over the past year.  \n4. Points are awarded to players based on their rankings from each journalist's ballot.  \n5. The player with the highest total points is declared the winner.", "question_type": "instruction", "retrieved_doc_ids": ["8", "25", "31"], "retrieval_scores": [0.5469966761793187, 0.4448428414238772, 0.4206078645525833]}
+1. The provided context does not include information about the procedure used to check for an offside decision during a match. Therefore, I cannot outline those steps as requested.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1071, "prompt_tokens": 1038, "completion_tokens": 33, "raw_answer": "The provided context does not include information about the procedure used to check for an offside decision during a match. Therefore, I cannot outline those steps as requested.", "question_type": "instruction", "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.5214751485058009, 0.49979520915998255, 0.4974068202322065]}
+1. Assess the severity of the foul committed by the player\n2. Determine if the foul involved violent conduct or serious foul play\n3. Evaluate if the foul denied an obvious goal-scoring opportunity\n4. Consider if the player has committed a second cautionable offense\n5. Decide if the foul was committed with excessive force or brutality\n6. Issue a yellow card for less severe offenses or a red card for more severe offenses	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1129, "prompt_tokens": 1041, "completion_tokens": 88, "raw_answer": "1. Assess the severity of the foul committed by the player  \n2. Determine if the foul involved violent conduct or serious foul play  \n3. Evaluate if the foul denied an obvious goal-scoring opportunity  \n4. Consider if the player has committed a second cautionable offense  \n5. Decide if the foul was committed with excessive force or brutality  \n6. Issue a yellow card for less severe offenses or a red card for more severe offenses", "question_type": "instruction", "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.4705434156157823, 0.4453501433389056, 0.43883905552708935]}
+1. The provided context does not contain information about how the UEFA Champions League draw is conducted each season. Therefore, I cannot provide a specific answer to the question based on the context given.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1140, "prompt_tokens": 1103, "completion_tokens": 37, "raw_answer": "The provided context does not contain information about how the UEFA Champions League draw is conducted each season. Therefore, I cannot provide a specific answer to the question based on the context given.", "question_type": "instruction", "retrieved_doc_ids": ["10", "25", "50"], "retrieval_scores": [0.6136584156621654, 0.47203334593488, 0.42951443644287096]}
+1. The context provided does not contain information about the process of appealing a red card in professional football. Therefore, I cannot provide an answer based on the given context.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1068, "prompt_tokens": 1035, "completion_tokens": 33, "raw_answer": "The context provided does not contain information about the process of appealing a red card in professional football. Therefore, I cannot provide an answer based on the given context.", "question_type": "instruction", "retrieved_doc_ids": ["46", "39", "37"], "retrieval_scores": [0.47627831839194673, 0.4654194291683882, 0.449996453214318]}
+1. In two-legged knockout ties, each team plays one match at home and one away.\n2. Goals scored by the away team are counted as "away goals."\n3. If the aggregate score is tied after both matches, the team with more away goals advances.\n4. If both teams have scored the same number of away goals, the match proceeds to extra time and, if necessary, a penalty shootout.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1132, "prompt_tokens": 1043, "completion_tokens": 89, "raw_answer": "1. In two-legged knockout ties, each team plays one match at home and one away.  \n2. Goals scored by the away team are counted as \"away goals.\"  \n3. If the aggregate score is tied after both matches, the team with more away goals advances.  \n4. If both teams have scored the same number of away goals, the match proceeds to extra time and, if necessary, a penalty shootout.", "question_type": "instruction", "retrieved_doc_ids": ["25", "37", "10"], "retrieval_scores": [0.5140877581868467, 0.38281224217369897, 0.37550562800547777]}
+1. Notify the fourth official of the intended substitution\n2. Prepare the substitute on the sideline, wearing a numbered bib\n3. Wait for the referee to stop play and give permission\n4. The player being substituted leaves at the nearest boundary line\n5. The substitute enters from the halfway line after the replaced player has left\n6. The substitution is completed when the substitute enters the field\n7. Inform the referee which player is being replaced and by whom\n8. Record the substitution by match officials	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1155, "prompt_tokens": 1050, "completion_tokens": 105, "raw_answer": "1. Notify the fourth official of the intended substitution  \n2. Prepare the substitute on the sideline, wearing a numbered bib  \n3. Wait for the referee to stop play and give permission  \n4. The player being substituted leaves at the nearest boundary line  \n5. The substitute enters from the halfway line after the replaced player has left  \n6. The substitution is completed when the substitute enters the field  \n7. Inform the referee which player is being replaced and by whom  \n8. Record the substitution by match officials", "question_type": "instruction", "retrieved_doc_ids": ["39", "37", "25"], "retrieval_scores": [0.8046848703942722, 0.5141372301089118, 0.4836286397129139]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 979, "prompt_tokens": 977, "completion_tokens": 2, "raw_answer": "A", "question_type": "multiple choice", "retrieved_doc_ids": ["16", "40", "38"], "retrieval_scores": [0.6744646979683364, 0.42191069830237166, 0.3715491738277091]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1006, "prompt_tokens": 1004, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["21", "49", "19"], "retrieval_scores": [0.6989588971253127, 0.5002138735033205, 0.4831552310322405]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1031, "prompt_tokens": 1029, "completion_tokens": 2, "raw_answer": "C", "question_type": "multiple choice", "retrieved_doc_ids": ["45", "41", "17"], "retrieval_scores": [0.6625166184492086, 0.5359864145733745, 0.4014607418074597]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1059, "prompt_tokens": 1057, "completion_tokens": 2, "raw_answer": "C", "question_type": "multiple choice", "retrieved_doc_ids": ["44", "49", "0"], "retrieval_scores": [0.6386053823518497, 0.5707836223205698, 0.5218613004220833]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1117, "prompt_tokens": 1115, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["30", "6", "3"], "retrieval_scores": [0.6685631391701994, 0.4961242657666244, 0.48623471334681634]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 972, "prompt_tokens": 970, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["27", "40", "12"], "retrieval_scores": [0.5747917337056533, 0.5533062439360128, 0.47013940606228977]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1107, "prompt_tokens": 1105, "completion_tokens": 2, "raw_answer": "A", "question_type": "multiple choice", "retrieved_doc_ids": ["8", "31", "3"], "retrieval_scores": [0.5555407496132709, 0.5335819460819919, 0.5108575693145757]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 949, "prompt_tokens": 947, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["20", "6", "49"], "retrieval_scores": [0.47069089747686155, 0.4228179344985977, 0.38640294711597456]}
+D	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 934, "prompt_tokens": 932, "completion_tokens": 2, "raw_answer": "D", "question_type": "multiple choice", "retrieved_doc_ids": ["23", "42", "13"], "retrieval_scores": [0.5715410365984849, 0.423733468737188, 0.30898883639312885]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 964, "prompt_tokens": 962, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["42", "41", "12"], "retrieval_scores": [0.467405620830811, 0.4007613493001298, 0.3665266331958696]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 956, "prompt_tokens": 954, "completion_tokens": 2, "raw_answer": "C", "question_type": "multiple choice", "retrieved_doc_ids": ["5", "4", "35"], "retrieval_scores": [0.6643556696791656, 0.5362109371338974, 0.4716407324021206]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1015, "prompt_tokens": 1013, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["12", "24", "28"], "retrieval_scores": [0.4117802670266479, 0.38821957471783497, 0.3832784480064851]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 914, "prompt_tokens": 912, "completion_tokens": 2, "raw_answer": "C", "question_type": "multiple choice", "retrieved_doc_ids": ["20", "49", "48"], "retrieval_scores": [0.4816391113417419, 0.43930378216328236, 0.3885104192633763]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 965, "prompt_tokens": 963, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["11", "32", "3"], "retrieval_scores": [0.7017522887525894, 0.5060504064542894, 0.480078332061945]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1028, "prompt_tokens": 1026, "completion_tokens": 2, "raw_answer": "A", "question_type": "multiple choice", "retrieved_doc_ids": ["28", "38", "12"], "retrieval_scores": [0.6307967179232198, 0.5845673760680036, 0.5109877198247155]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 965, "prompt_tokens": 963, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["7", "40", "27"], "retrieval_scores": [0.4439637836045154, 0.4078175702586184, 0.3654210122333402]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 968, "prompt_tokens": 966, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["17", "49", "24"], "retrieval_scores": [0.5061509993958767, 0.5004622352028041, 0.48429791304444547]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 833, "prompt_tokens": 831, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["1", "9", "18"], "retrieval_scores": [0.4557851002254403, 0.39306850457650055, 0.37212280884980753]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1163, "prompt_tokens": 1161, "completion_tokens": 2, "raw_answer": "A", "question_type": "multiple choice", "retrieved_doc_ids": ["3", "30", "21"], "retrieval_scores": [0.4960773116673155, 0.4646194324723504, 0.43808836567987225]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 878, "prompt_tokens": 876, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["13", "33", "34"], "retrieval_scores": [0.6251757991606945, 0.40342581309721404, 0.4004741948085249]}
+11	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1029, "prompt_tokens": 1027, "completion_tokens": 2, "raw_answer": "11", "question_type": "factoid", "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [0.4175509869425843, 0.3418816392536032, 0.32556852724146074]}
+Marta	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 976, "prompt_tokens": 973, "completion_tokens": 3, "raw_answer": "Marta", "question_type": "factoid", "retrieved_doc_ids": ["49", "3", "15"], "retrieval_scores": [0.5173223705825631, 0.5025797532864531, 0.4906166897426507]}
+Red	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 935, "prompt_tokens": 933, "completion_tokens": 2, "raw_answer": "Red", "question_type": "factoid", "retrieved_doc_ids": ["21", "6", "48"], "retrieval_scores": [0.4631631473851208, 0.4103430137354529, 0.37856528132944534]}
+Arsenal	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 833, "prompt_tokens": 830, "completion_tokens": 3, "raw_answer": "Arsenal", "question_type": "factoid", "retrieved_doc_ids": ["36", "27", "7"], "retrieval_scores": [0.519330896875597, 0.47244909815436414, 0.4322478604489763]}
+Erling Haaland	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 841, "prompt_tokens": 836, "completion_tokens": 5, "raw_answer": "Erling Haaland", "question_type": "factoid", "retrieved_doc_ids": ["18", "40", "11"], "retrieval_scores": [0.5608144973290506, 0.5435722618821535, 0.5357604931629525]}
+Mexico\tUSA\tCanada	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 995, "prompt_tokens": 989, "completion_tokens": 6, "raw_answer": "Mexico\\tUSA\\tCanada", "question_type": "list", "retrieved_doc_ids": ["49", "0", "4"], "retrieval_scores": [0.6627724759518256, 0.56556078589759, 0.5207383163499877]}
+Brazil\tArgentina\tUruguay	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1029, "prompt_tokens": 1022, "completion_tokens": 7, "raw_answer": "Brazil\\tArgentina\\tUruguay", "question_type": "list", "retrieved_doc_ids": ["49", "20", "44"], "retrieval_scores": [0.5738297109688721, 0.5347421879974309, 0.5037273332973276]}
+Thomas Müller\tDiego Forlán\tJames Rodríguez\tHarry Kane\tKylian Mbappé	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1012, "prompt_tokens": 991, "completion_tokens": 21, "raw_answer": "Thomas M\u00fcller\\tDiego Forl\u00e1n\\tJames Rodr\u00edguez\\tHarry Kane\\tKylian Mbapp\u00e9", "question_type": "list", "retrieved_doc_ids": ["1", "3", "31"], "retrieval_scores": [0.626722104540826, 0.6180602514408395, 0.5672205849335541]}
+Manchester United\tArsenal\tChelsea	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 982, "prompt_tokens": 974, "completion_tokens": 8, "raw_answer": "Manchester United\\tArsenal\\tChelsea", "question_type": "list", "retrieved_doc_ids": ["40", "27", "12"], "retrieval_scores": [0.5734335533785649, 0.5112422207193237, 0.47761114458602]}
+The provided context does not contain information about the 'Old Firm' or other major derbies in Scottish football. Therefore	I cannot provide an answer based on the given context.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 923, "prompt_tokens": 887, "completion_tokens": 36, "raw_answer": "The provided context does not contain information about the 'Old Firm' or other major derbies in Scottish football. Therefore, I cannot provide an answer based on the given context.", "question_type": "list", "retrieved_doc_ids": ["27", "40", "36"], "retrieval_scores": [0.3757807284327236, 0.3415067733849864, 0.33299787696851735]}
+1. The context provided does not include information about the procedure for conducting the coin toss before a football match. Therefore, I cannot provide an answer based on the given context.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1082, "prompt_tokens": 1048, "completion_tokens": 34, "raw_answer": "The context provided does not include information about the procedure for conducting the coin toss before a football match. Therefore, I cannot provide an answer based on the given context.", "question_type": "instruction", "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [0.42997687641170923, 0.39025342122459733, 0.38472187115454554]}
+1. The context provided does not include specific steps for applying the handball rule in the penalty area. Therefore, I cannot provide an answer based on the given information.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1083, "prompt_tokens": 1050, "completion_tokens": 33, "raw_answer": "The context provided does not include specific steps for applying the handball rule in the penalty area. Therefore, I cannot provide an answer based on the given information.", "question_type": "instruction", "retrieved_doc_ids": ["37", "39", "25"], "retrieval_scores": [0.6068759585685313, 0.481433345328285, 0.40396696868320286]}
+1. The provided context does not include information about how goal-line technology works in modern football. Therefore, I cannot outline the steps for it.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1061, "prompt_tokens": 1033, "completion_tokens": 28, "raw_answer": "The provided context does not include information about how goal-line technology works in modern football. Therefore, I cannot outline the steps for it.", "question_type": "instruction", "retrieved_doc_ids": ["37", "46", "39"], "retrieval_scores": [0.4895206045984294, 0.47137205035732876, 0.39482895825033204]}
+1. The provided context does not contain information regarding the process of a team appealing against a transfer ban. Therefore, I am unable to provide a response to the question based on the given documents.	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1073, "prompt_tokens": 1035, "completion_tokens": 38, "raw_answer": "The provided context does not contain information regarding the process of a team appealing against a transfer ban. Therefore, I am unable to provide a response to the question based on the given documents.", "question_type": "instruction", "retrieved_doc_ids": ["39", "46", "37"], "retrieval_scores": [0.39784308138579155, 0.3924892791354238, 0.38478266797787186]}
+A	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1166, "prompt_tokens": 1164, "completion_tokens": 2, "raw_answer": "A", "question_type": "multiple choice", "retrieved_doc_ids": ["30", "31", "8"], "retrieval_scores": [0.5425838134886184, 0.5342440642595978, 0.500444799622236]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 952, "prompt_tokens": 950, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["17", "21", "20"], "retrieval_scores": [0.6087035097119489, 0.4445546451967377, 0.43405661354311925]}
+C	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 964, "prompt_tokens": 962, "completion_tokens": 2, "raw_answer": "C", "question_type": "multiple choice", "retrieved_doc_ids": ["35", "23", "48"], "retrieval_scores": [0.36192548279983344, 0.34509422669035794, 0.3253151208644333]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 1038, "prompt_tokens": 1036, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["42", "2", "44"], "retrieval_scores": [0.5695120941055117, 0.40230002672344156, 0.38715019634755415]}
+B	{"model": "gpt-4o-mini-2024-07-18", "tokens_used": 994, "prompt_tokens": 992, "completion_tokens": 2, "raw_answer": "B", "question_type": "multiple choice", "retrieved_doc_ids": ["38", "40", "28"], "retrieval_scores": [0.44649414749350824, 0.42923958453880917, 0.4259388198008308]}

@@ -4,7 +4,6 @@ from collections import Counter
 
 
 class AutomaticMetricsEvaluator:
-    """Evaluator for automatic metrics (EM, F1, Contains)"""
     
     def __init__(self):
         """Initialize automatic metrics evaluator"""
@@ -20,16 +19,12 @@ class AutomaticMetricsEvaluator:
         Returns:
             Normalized text
         """
-        # Convert to lowercase
+        # to lowercase
         text = text.lower()
         
-        # Remove articles
+        # remove articles punctuation and whitespace
         text = re.sub(r'\b(a|an|the)\b', ' ', text)
-        
-        # Remove punctuation
         text = re.sub(r'[^\w\s]', ' ', text)
-        
-        # Remove extra whitespace
         text = ' '.join(text.split())
         
         return text.strip()
@@ -60,10 +55,9 @@ class AutomaticMetricsEvaluator:
         if not predicted_answer or not predicted_answer.strip():
             return 0
         
-        # Normalize predicted answer
         pred_norm = self.normalize_answer(predicted_answer)
         
-        # Check if matches any gold answer
+        # if matches any gold answer
         for gold in gold_answers:
             gold_norm = self.normalize_answer(gold)
             if pred_norm == gold_norm:
@@ -73,7 +67,7 @@ class AutomaticMetricsEvaluator:
     
     def f1_score(self, gold_answers: List[str], predicted_answer: str) -> float:
         """
-        Calculate F1 score based on token overlap
+        F1 score based on token overlap
         
         Args:
             gold_answers: List of acceptable gold answers
@@ -85,13 +79,13 @@ class AutomaticMetricsEvaluator:
         if not predicted_answer or not predicted_answer.strip():
             return 0.0
         
-        # Get predicted tokens
+        # predicted tokens
         pred_tokens = self.tokenize(predicted_answer)
         
         if not pred_tokens:
             return 0.0
         
-        # Calculate F1 against each gold answer and take max
+        # max f1
         max_f1 = 0.0
         
         for gold in gold_answers:
@@ -100,11 +94,11 @@ class AutomaticMetricsEvaluator:
             if not gold_tokens:
                 continue
             
-            # Calculate token overlap
+            # token overlap
             pred_counter = Counter(pred_tokens)
             gold_counter = Counter(gold_tokens)
             
-            # True positives: tokens in both
+            # tokens in both
             tp = sum((pred_counter & gold_counter).values())
             
             # Precision and recall
@@ -238,10 +232,10 @@ class ROUGEEvaluator:
         """
         m, n = len(seq1), len(seq2)
         
-        # Create DP table
+        # DP table
         dp = [[0] * (n + 1) for _ in range(m + 1)]
         
-        # Fill DP table
+        # Fill table
         for i in range(1, m + 1):
             for j in range(1, n + 1):
                 if seq1[i-1] == seq2[j-1]:

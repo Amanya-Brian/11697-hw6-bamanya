@@ -1,0 +1,69 @@
+{
+  "results": {
+    "bm25_gpt": {
+      "llm_judge": 0.39,
+      "exact_match": 0.16,
+      "f1": 0.2003,
+      "contains": 0.22,
+      "rouge": 0.1934
+    },
+    "bm25_llama": {
+      "llm_judge": 0.35,
+      "exact_match": 0.15,
+      "f1": 0.1833,
+      "contains": 0.21,
+      "rouge": 0.1755
+    },
+    "dense_gpt": {
+      "llm_judge": 0.4,
+      "exact_match": 0.16,
+      "f1": 0.2104,
+      "contains": 0.24,
+      "rouge": 0.2038
+    },
+    "dense_llama": {
+      "llm_judge": 0.38,
+      "exact_match": 0.17,
+      "f1": 0.1924,
+      "contains": 0.21,
+      "rouge": 0.1885
+    },
+    "none_gpt": {
+      "llm_judge": 0.36,
+      "exact_match": 0.15,
+      "f1": 0.1884,
+      "contains": 0.22,
+      "rouge": 0.18
+    }
+  },
+  "findings": {
+    "retrieval_helps": true,
+    "retrieval_improvement": 0.040000000000000036,
+    "best_retriever": "dense",
+    "best_generator": "gpt",
+    "best_config": "dense_gpt",
+    "best_score": 0.4
+  },
+  "hypotheses": [
+    {
+      "name": "poor_documents",
+      "likelihood": "HIGH"
+    },
+    {
+      "name": "retrieval_failure",
+      "likelihood": "MEDIUM-HIGH"
+    },
+    {
+      "name": "mismatch",
+      "likelihood": "HIGH"
+    },
+    {
+      "name": "generator_ignoring",
+      "likelihood": "MEDIUM"
+    },
+    {
+      "name": "metric_issues",
+      "likelihood": "LOW-MEDIUM"
+    }
+  ]
+}

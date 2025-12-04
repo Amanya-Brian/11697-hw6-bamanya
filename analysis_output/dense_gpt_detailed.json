@@ -1,0 +1,1638 @@
+[
+  {
+    "question_id": 0,
+    "question": "Who was the coach of Argentina when they won the 1986 World Cup?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Carlos Bilardo"
+    ],
+    "prediction": "Carlos Bilardo",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Carlos Bilardo\" matches the gold answer exactly, providing the correct name of the coach of Argentina when they won the 1986 World Cup. There are no discrepancies or omissions.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 1,
+    "question": "What year was FIFA founded?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "1904"
+    ],
+    "prediction": "1904",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"1904\" matches the gold answer exactly, providing the correct year of FIFA's founding. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 2,
+    "question": "Who scored England's winning goal in the 1966 World Cup final?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Geoff Hurst"
+    ],
+    "prediction": "Geoff Hurst",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Geoff Hurst\" matches the gold answer exactly, providing the correct information regarding who scored England's winning goal in the 1966 World Cup final. There are no discrepancies or omissions.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 3,
+    "question": "What is the name of Liverpool's anthem?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "You'll Never Walk Alone"
+    ],
+    "prediction": "You'll Never Walk Alone",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, providing the correct name of Liverpool's anthem without any discrepancies.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 4,
+    "question": "Which country won the first FIFA World Cup?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Uruguay"
+    ],
+    "prediction": "Uruguay",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Uruguay\" matches the gold answer exactly, providing the correct and concise response to the question about which country won the first FIFA World Cup. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 5,
+    "question": "Who was the top scorer of the 2018 World Cup?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Harry Kane"
+    ],
+    "prediction": "Harry Kane",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Harry Kane\" matches the gold answer exactly, providing the correct information regarding the top scorer of the 2018 World Cup. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 6,
+    "question": "What team does Lionel Messi currently play for?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Inter Miami"
+    ],
+    "prediction": "Inter Miami CF",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Inter Miami CF\" is a variation of the gold answer \"Inter Miami.\" It includes the full name of the club, which is acceptable as it conveys the same key information. Therefore, the predicted answer is correct and matches the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.8,
+    "contains_match": 1,
+    "rouge_l": 0.8
+  },
+  {
+    "question_id": 7,
+    "question": "Who was the first African player to win the Ballon d'Or?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "George Weah"
+    ],
+    "prediction": "George Weah",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"George Weah\" matches the gold answer exactly, providing the correct information regarding the first African player to win the Ballon d'Or. There are no discrepancies or omissions.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 8,
+    "question": "Which stadium hosts the North London Derby?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Tottenham Hotspur Stadium"
+    ],
+    "prediction": "Emirates Stadium or Tottenham Hotspur Stadium",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer includes both the Emirates Stadium and the Tottenham Hotspur Stadium. However, the question specifically asks for the stadium that hosts the North London Derby, which is primarily associated with the Tottenham Hotspur Stadium. The inclusion of the Emirates Stadium makes the answer incorrect as it suggests that both stadiums host the derby, which is misleading. Therefore, the predicted answer does not match the gold answer correctly.",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666,
+    "contains_match": 1,
+    "rouge_l": 0.6666666666666666
+  },
+  {
+    "question_id": 9,
+    "question": "Who scored the fastest goal in Premier League history?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Shane Long"
+    ],
+    "prediction": "Shane Long",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Shane Long\" matches the gold answer exactly, providing the correct information regarding who scored the fastest goal in Premier League history. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 10,
+    "question": "Who is the manager of Manchester City as of 2025?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Pep Guardiola"
+    ],
+    "prediction": "Pep Guardiola",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Pep Guardiola\" matches the gold answer exactly, providing the correct information regarding the manager of Manchester City as of 2025. There are no discrepancies or omissions.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 11,
+    "question": "In which city is San Siro stadium located?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Milan"
+    ],
+    "prediction": "Milan",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Milan\" matches the gold answer exactly, providing the correct and concise information regarding the location of San Siro stadium. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 12,
+    "question": "What club did David Beckham join after Real Madrid?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "LA Galaxy"
+    ],
+    "prediction": "LA Galaxy",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"LA Galaxy\" matches the gold answer exactly, providing the correct information regarding the club David Beckham joined after Real Madrid. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 13,
+    "question": "Which club won the UEFA Europa League in 2023?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Sevilla"
+    ],
+    "prediction": "Sevilla",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Sevilla\" matches the gold answer exactly, providing the correct and concise response to the question about the club that won the UEFA Europa League in 2023. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 14,
+    "question": "Who captained Italy to the Euro 2020 title?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Giorgio Chiellini"
+    ],
+    "prediction": "Giorgio Chiellini",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Giorgio Chiellini\" matches the gold answer exactly, providing the correct name of the captain who led Italy to the Euro 2020 title. There are no discrepancies or omissions in the information provided.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 15,
+    "question": "Which player is known as 'El Pibe de Oro'?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Diego Maradona"
+    ],
+    "prediction": "Diego Maradona",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Diego Maradona\" matches the gold answer exactly, providing the correct and concise information requested by the question. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 16,
+    "question": "What was Diego Maradona's jersey number?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "10"
+    ],
+    "prediction": "10",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"10\" matches the gold answer exactly, providing the correct jersey number for Diego Maradona. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 17,
+    "question": "Who scored the winning penalty for Argentina in the 2022 World Cup final?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Gonzalo Montiel"
+    ],
+    "prediction": "Gonzalo Montiel",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Gonzalo Montiel\" matches the gold answer exactly, providing the correct information regarding who scored the winning penalty for Argentina in the 2022 World Cup final. There are no discrepancies or omissions.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 18,
+    "question": "Which country hosted the 2002 FIFA World Cup?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "South Korea and Japan"
+    ],
+    "prediction": "South Korea and Japan",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"South Korea and Japan\" matches the gold answer exactly, providing the correct information regarding the host countries of the 2002 FIFA World Cup. There are no discrepancies or omissions.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 19,
+    "question": "What is the nickname of the Nigeria national football team?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Super Eagles"
+    ],
+    "prediction": "Super Eagles",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Super Eagles\" matches the gold answer exactly, providing the correct nickname of the Nigeria national football team without any discrepancies.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 20,
+    "question": "List the three clubs Cristiano Ronaldo played for before joining Juventus.",
+    "question_type": "list",
+    "gold_answers": [
+      "Sporting CP",
+      "Manchester United",
+      "Real Madrid"
+    ],
+    "prediction": "Sporting CP\\tManchester United\\tReal Madrid",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all three clubs that Cristiano Ronaldo played for before joining Juventus: Sporting CP, Manchester United, and Real Madrid. The format used (tabs) is acceptable, and the order of the clubs does not affect the correctness of the answer. Therefore, the predicted answer matches the gold answer perfectly.",
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "contains_match": 1,
+    "rouge_l": 0.3333333333333333
+  },
+  {
+    "question_id": 21,
+    "question": "Name all African countries that have hosted the Africa Cup of Nations.",
+    "question_type": "list",
+    "gold_answers": [
+      "Sudan",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "Nigeria",
+      "South Africa",
+      "Cameroon"
+    ],
+    "prediction": "Egypt\\tGhana\\tSudan\\tEthiopia\\tTunisia\\tSouth Africa\\tCameroon\\tGabon\\tEquatorial Guinea\\tC\u00f4te d'Ivoire",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer includes several countries that have hosted the Africa Cup of Nations, but it also includes countries that are not part of the gold answer (Tunisia, Gabon, Equatorial Guinea, and C\u00f4te d'Ivoire). The gold answer requires only the specific countries listed, and since the predicted answer does not match the gold answer and includes extraneous information, it does not meet the criteria for a correct answer. The predicted answer contains 7 items, but only 6 of them are correct, which is less than the required 100% match.",
+    "exact_match": 0,
+    "f1_score": 0.13333333333333333,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 22,
+    "question": "List the winners of the FIFA Women's World Cup between 2011 and 2023.",
+    "question_type": "list",
+    "gold_answers": [
+      "Japan",
+      "USA",
+      "USA",
+      "Spain"
+    ],
+    "prediction": "Japan\\tUnited States\\tSpain",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes Japan, United States, and Spain, but it is missing one of the USA wins (2015 and 2019). Since it does not include all items from the gold answer, it does not meet the criteria for a complete answer. Therefore, it qualifies for partial credit as it includes 3 out of the 4 required items.",
+    "exact_match": 0,
+    "f1_score": 0.4,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 23,
+    "question": "Name all Premier League clubs based in London.",
+    "question_type": "list",
+    "gold_answers": [
+      "Arsenal",
+      "Chelsea",
+      "Tottenham Hotspur",
+      "West Ham United",
+      "Crystal Palace",
+      "Fulham",
+      "Brentford"
+    ],
+    "prediction": "Arsenal\\tChelsea\\tTottenham Hotspur\\tWest Ham United\\tCrystal Palace",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes five out of the seven clubs listed in the gold answer. However, it is missing Fulham and Brentford, which means it does not meet the requirement of including all items. Since it includes more than 50% of the items, it qualifies for partial credit.",
+    "exact_match": 0,
+    "f1_score": 0.3333333333333333,
+    "contains_match": 1,
+    "rouge_l": 0.28571428571428575
+  },
+  {
+    "question_id": 24,
+    "question": "List the top five goal scorers in UEFA Champions League history.",
+    "question_type": "list",
+    "gold_answers": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Karim Benzema",
+      "Thomas Muller"
+    ],
+    "prediction": "Cristiano Ronaldo\\tLionel Messi\\tRobert Lewandowski\\tKarim Benzema\\tRa\u00fal Gonz\u00e1lez",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes four out of the five items from the gold answer. However, it incorrectly lists Ra\u00fal Gonz\u00e1lez instead of Thomas Muller. Since it contains 80% of the required items, it qualifies for partial credit.",
+    "exact_match": 0,
+    "f1_score": 0.33333333333333337,
+    "contains_match": 1,
+    "rouge_l": 0.25
+  },
+  {
+    "question_id": 25,
+    "question": "Name the three clubs Lionel Messi has played for in his professional career.",
+    "question_type": "list",
+    "gold_answers": [
+      "Barcelona",
+      "Paris Saint-Germain",
+      "Inter Miami"
+    ],
+    "prediction": "Barcelona\\tParis Saint-Germain\\tInter Miami",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all three clubs that Lionel Messi has played for in his professional career: Barcelona, Paris Saint-Germain, and Inter Miami. The format used (tabs) does not affect the correctness of the answer, and it matches the gold answer perfectly.",
+    "exact_match": 0,
+    "f1_score": 0.4444444444444444,
+    "contains_match": 1,
+    "rouge_l": 0.4
+  },
+  {
+    "question_id": 26,
+    "question": "List the countries that have won the UEFA Euro Championship more than once.",
+    "question_type": "list",
+    "gold_answers": [
+      "Germany",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "prediction": "Germany\\tSpain",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes only two of the four countries listed in the gold answer. Since it does not meet the requirement of including all items, it falls short of being fully correct. However, it does include 50% of the items, which qualifies it for partial credit.",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 27,
+    "question": "Name all teams that have won the UEFA Champions League since 2015.",
+    "question_type": "list",
+    "gold_answers": [
+      "Barcelona",
+      "Real Madrid",
+      "Bayern Munich"
+    ],
+    "prediction": "Barcelona\\tReal Madrid\\tLiverpool\\tBayern Munich\\tChelsea\\tManchester City",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes six teams: Barcelona, Real Madrid, Liverpool, Bayern Munich, Chelsea, and Manchester City. However, the gold answer specifies only three teams that have won the UEFA Champions League since 2015: Barcelona, Real Madrid, and Bayern Munich. The inclusion of Liverpool, Chelsea, and Manchester City is incorrect as they did not win the UEFA Champions League in that timeframe. Since the predicted answer contains more than 50% of the items from the gold answer (3 out of 6), it qualifies for partial credit.",
+    "exact_match": 0,
+    "f1_score": 0.19999999999999998,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 28,
+    "question": "List the major trophies won by Manchester City under Pep Guardiola.",
+    "question_type": "list",
+    "gold_answers": [
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Munich",
+      "Liverpool"
+    ],
+    "prediction": "Premier League titles\\tFA Cup\\tEFL Cup (League Cup)\\tUEFA Champions League\\tFA Community Shield\\tUEFA Super Cup\\tFIFA Club World Cup",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer lists several trophies won by Manchester City under Pep Guardiola, but it does not include the specific items mentioned in the gold answer, which are Real Madrid, Barcelona, Bayern Munich, and Liverpool. Instead, it lists different trophies that are not part of the gold answer. Since none of the items from the gold answer are present in the predicted answer, it does not meet the criteria for partial credit either.",
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "contains_match": 0,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 29,
+    "question": "List all stadiums used during the 2022 FIFA World Cup.",
+    "question_type": "list",
+    "gold_answers": [
+      "Lusail Stadium",
+      "Al Bayt Stadium",
+      "Ahmad Bin Ali Stadium",
+      "Al Janoub Stadium",
+      "Al Thumama Stadium",
+      "Education City Stadium",
+      "Khalifa International Stadium",
+      "Stadium 974"
+    ],
+    "prediction": "Lusail Iconic Stadium\\tAl Bayt Stadium\\tStadium 974\\tAhmad Bin Ali Stadium\\tKhalifa International Stadium\\tEducation City Stadium\\tAl Thumama Stadium\\tAl Janoub Stadium",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all the stadiums listed in the gold answer, although \"Lusail Iconic Stadium\" is a different name for \"Lusail Stadium.\" However, since it refers to the same venue, it can be considered acceptable. The order of the stadiums does not matter, and all required items are present.",
+    "exact_match": 0,
+    "f1_score": 0.21428571428571427,
+    "contains_match": 1,
+    "rouge_l": 0.2857142857142857
+  },
+  {
+    "question_id": 30,
+    "question": "List all clubs that participated in the 2022-23 Premier League season.",
+    "question_type": "list",
+    "gold_answers": [
+      "Manchester City",
+      "Arsenal",
+      "Newcastle United",
+      "Manchester United",
+      "Chelsea",
+      "Tottenham Hotspur",
+      "Aston Villa",
+      "etc."
+    ],
+    "prediction": "Manchester City\\tArsenal\\tManchester United\\tNewcastle United\\tLiverpool\\tBrighton & Hove Albion\\tAston Villa\\tTottenham Hotspur\\tBrentford\\tFulham\\tCrystal Palace\\tChelsea\\tWolverhampton Wanderers\\tWest Ham United\\tBournemouth\\tNottingham Forest\\tEverton\\tLeicester City\\tLeeds United\\tSouthampton",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all the clubs that participated in the 2022-23 Premier League season, which is a comprehensive list. The gold answer mentions \"etc.\" indicating that not all clubs need to be listed, but the predicted answer provides a complete list of clubs, which is more than sufficient. Therefore, it matches the requirement of the question fully.",
+    "exact_match": 0,
+    "f1_score": 0.1111111111111111,
+    "contains_match": 1,
+    "rouge_l": 0.1111111111111111
+  },
+  {
+    "question_id": 31,
+    "question": "Name all players who have won the Ballon d'Or more than three times.",
+    "question_type": "list",
+    "gold_answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Michel Platini",
+      "Johan Cruyff",
+      "Marco van Basten"
+    ],
+    "prediction": "Lionel Messi",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer only includes \"Lionel Messi,\" which is just one of the five players listed in the gold answer. Since it does not include the other four players (Cristiano Ronaldo, Michel Platini, Johan Cruyff, Marco van Basten), it fails to meet the requirement of listing all players who have won the Ballon d'Or more than three times. Therefore, it does not meet the criteria for a correct answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 32,
+    "question": "List the top five goal scorers of the 2022 FIFA World Cup.",
+    "question_type": "list",
+    "gold_answers": [
+      "Kylian Mbappe",
+      "Lionel Messi",
+      "Julian Alvarez",
+      "Olivier Giroud",
+      "Goncalo Ramos"
+    ],
+    "prediction": "Kylian Mbapp\u00e9\\tLionel Messi\\tJuli\u00e1n \u00c1lvarez\\tOlivier Giroud\\tGon\u00e7alo Ramos",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all five goal scorers listed in the gold answer, albeit with slight variations in spelling (e.g., \"Mbapp\u00e9\" vs \"Mbappe\" and \"Juli\u00e1n\" vs \"Julian\"). However, these variations do not affect the correctness of the answer, as they refer to the same individuals. Therefore, the predicted answer matches the gold answer completely in terms of content.",
+    "exact_match": 0,
+    "f1_score": 0.16666666666666669,
+    "contains_match": 1,
+    "rouge_l": 0.25
+  },
+  {
+    "question_id": 33,
+    "question": "Name all Italian clubs that have won the UEFA Champions League.",
+    "question_type": "list",
+    "gold_answers": [
+      "AC Milan",
+      "Inter Milan",
+      "Juventus"
+    ],
+    "prediction": "AC Milan\\tInter Milan\\tJuventus",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all the items from the gold answer: AC Milan, Inter Milan, and Juventus. The format used (tabs) is acceptable, and the items are correctly listed without any omissions. Therefore, the predicted answer matches the gold answer perfectly.",
+    "exact_match": 0,
+    "f1_score": 0.5714285714285715,
+    "contains_match": 1,
+    "rouge_l": 0.4
+  },
+  {
+    "question_id": 34,
+    "question": "List the captains of Real Madrid since 2010.",
+    "question_type": "list",
+    "gold_answers": [
+      "Sergio Ramos",
+      "Marcelo",
+      "Karim Benzema"
+    ],
+    "prediction": "Iker Casillas\\tSergio Ramos\\tMarcelo\\tKarim Benzema\\tNacho Fern\u00e1ndez",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes four names: Iker Casillas, Sergio Ramos, Marcelo, and Karim Benzema. However, it also includes Nacho Fern\u00e1ndez, which is not part of the gold answer. The gold answer specifically requires only the names of captains since 2010, which are Sergio Ramos, Marcelo, and Karim Benzema. Since the predicted answer includes one extra name and does not match the gold answer exactly, it does not fulfill the requirement of listing only the captains since 2010. Therefore, it is not fully correct.",
+    "exact_match": 0,
+    "f1_score": 0.1818181818181818,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 35,
+    "question": "Name the African countries that reached the FIFA World Cup quarterfinals.",
+    "question_type": "list",
+    "gold_answers": [
+      "Cameroon",
+      "Senegal",
+      "Ghana",
+      "Morocco"
+    ],
+    "prediction": "Cameroon\\tSenegal\\tGhana",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes three out of the four required countries (Cameroon, Senegal, Ghana) but omits Morocco. Since it includes at least 50% of the items, it qualifies for partial credit. However, it does not fully meet the requirement of listing all items from the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 36,
+    "question": "List all countries that have hosted the FIFA World Cup more than once.",
+    "question_type": "list",
+    "gold_answers": [
+      "Mexico",
+      "Brazil",
+      "Italy",
+      "Germany"
+    ],
+    "prediction": "Mexico\\tItaly\\tFrance\\tGermany\\tBrazil\\tUnited States",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes all the countries from the gold answer (Mexico, Brazil, Italy, Germany) but also includes two additional countries (France and the United States) that have not hosted the World Cup more than once. Since the predicted answer contains all the required items from the gold answer, it meets the criteria for partial credit. However, it does not meet the requirement of listing only the countries that have hosted the World Cup more than once. Therefore, it is not fully correct.",
+    "exact_match": 0,
+    "f1_score": 0.25,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 37,
+    "question": "Name all clubs that Lionel Messi has scored hat-tricks against in the Champions League.",
+    "question_type": "list",
+    "gold_answers": [
+      "Arsenal",
+      "Manchester City",
+      "Celtic",
+      "Ajax"
+    ],
+    "prediction": "Arsenal\\tBayer Leverkusen\\tAjax\\tAPOEL\\tPSV Eindhoven\\tManchester City\\tBATE Borisov",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes some of the clubs that Lionel Messi has scored hat-tricks against, such as Arsenal, Ajax, and Manchester City. However, it also includes clubs that are not part of the gold answer, such as Bayer Leverkusen, APOEL, PSV Eindhoven, and BATE Borisov. The gold answer specifically requires Arsenal, Manchester City, Celtic, and Ajax, and since the predicted answer does not include Celtic and includes clubs not mentioned in the gold answer, it does not meet the criteria for a correct answer. Therefore, it is only partially correct as it includes 3 out of the 4 required clubs.",
+    "exact_match": 0,
+    "f1_score": 0.16666666666666669,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 38,
+    "question": "List all the years in which Arsenal won the FA cup under Arsene Wenger.",
+    "question_type": "list",
+    "gold_answers": [
+      "2002",
+      "2003",
+      "2005",
+      "2014",
+      "2015",
+      "2017"
+    ],
+    "prediction": "\\t2002\\t2003\\t2005\\t2014\\t2015\\t2017",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all the years listed in the gold answer, presented in a clear format. There are no missing items, and the order of the years does not affect the correctness. Therefore, the predicted answer matches the gold answer perfectly.",
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 39,
+    "question": "List the awards Lionel Messi won in the 2022 FIFA World Cup.",
+    "question_type": "list",
+    "gold_answers": [
+      "Golden Ball",
+      "Golden Boot",
+      "Silver Boot"
+    ],
+    "prediction": "Golden Ball\\tSilver Boot",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes two of the three required items from the gold answer (Golden Ball and Silver Boot). However, it is missing the Golden Boot, which is a significant omission. Since at least 50% of the items are present, it qualifies for partial credit.",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666,
+    "contains_match": 1,
+    "rouge_l": 0.8
+  },
+  {
+    "question_id": 40,
+    "question": "List the steps required to qualify for the UEFA Champions League group stage.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Qualifying rounds",
+      "League route",
+      "Champions route",
+      "Group draw"
+    ],
+    "prediction": "1. Top teams from Europe's strongest leagues receive automatic group stage places.\\n2. Domestic champions from smaller leagues go through qualifying rounds.\\n3. Teams that finish in qualifying positions but aren't champions enter through the league path.\\n4. Teams play in the playoff round to determine the last spots in the group stage.\\n5. The winner of the previous season's Europa League qualifies automatically.\\n6. The defending Champions League title holders qualify automatically.",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer provides a detailed explanation of the qualification process for the UEFA Champions League group stage, including various routes and conditions for teams to qualify. However, it does not explicitly mention the key terms from the gold answer, such as \"Qualifying rounds,\" \"League route,\" \"Champions route,\" or \"Group draw.\" While the predicted answer covers relevant steps, it does not directly match the gold answer's phrasing or key terms. Therefore, it can be considered partially correct but not fully aligned with the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.05633802816901409,
+    "contains_match": 1,
+    "rouge_l": 0.028571428571428574
+  },
+  {
+    "question_id": 41,
+    "question": "Describe the steps a player must follow to take a penalty kick according to FIFA Laws of the Game.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Identify kicker",
+      "position ball",
+      "wait for referee signal",
+      "take shot",
+      "follow through"
+    ],
+    "prediction": "1. Place the ball on the penalty mark (12 yards from goal)\\n2. Ensure the player taking the penalty is clearly identified\\n3. Confirm the goalkeeper remains on the goal line, facing the kicker, between the goalposts\\n4. Ensure all other players are outside the penalty area and arc, at least 10 yards from the penalty mark\\n5. Wait for the referee's signal to take the kick\\n6. Kick the ball forward\\n7. Do not touch the ball again until another player has touched it",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes several steps related to taking a penalty kick, but it does not directly match the key steps outlined in the gold answer. The gold answer emphasizes identifying the kicker, positioning the ball, waiting for the referee's signal, taking the shot, and following through. While the predicted answer does mention identifying the kicker and waiting for the referee's signal, it also includes additional details and steps that are not part of the gold answer. Therefore, it covers some key steps but not all of them, leading to a partial credit evaluation.",
+    "exact_match": 0,
+    "f1_score": 0.10526315789473684,
+    "contains_match": 0,
+    "rouge_l": 0.07228915662650602
+  },
+  {
+    "question_id": 42,
+    "question": "Explain the procedure for deciding a winner in a knockout match that ends in a draw after regular time.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "End of regular time",
+      "extra time",
+      "penalty shootout"
+    ],
+    "prediction": "1. Play two 15-minute periods of extra time (30 minutes total)\\n2. Have a short break (typically 5 minutes) before extra time\\n3. Change ends between the two extra time periods\\n4. If the score remains level after extra time, proceed to a penalty shootout\\n5. Each team takes five penalties alternately\\n6. If scores are level after five penalties each, continue on a sudden-death basis\\n7. Only players who were on the field at the end of extra time are eligible to take penalties\\n8. Each team's penalties must be taken by different players until all eligible players have taken one\\n9. The team that scores more goals during the penalty shootout wins the match",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed explanation of the procedure for deciding a winner in a knockout match that ends in a draw after regular time. It covers the key steps of playing extra time and proceeding to a penalty shootout if necessary. While the gold answer is concise and mentions the key terms, the predicted answer includes all relevant steps and details, which aligns well with the gold answer's intent. Therefore, it captures the essence of the procedure effectively.",
+    "exact_match": 0,
+    "f1_score": 0.05309734513274336,
+    "contains_match": 1,
+    "rouge_l": 0.05357142857142857
+  },
+  {
+    "question_id": 43,
+    "question": "Outline the process of how a team qualifies for the FIFA World Cup.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Regional qualification",
+      "intercontinental playoffs",
+      "finals draw"
+    ],
+    "prediction": "1. Teams participate in continental qualifying tournaments organized by FIFA's six confederations.\\n2. UEFA teams play in groups; group winners qualify directly, and runners-up enter playoffs.\\n3. CONMEBOL teams play in a single league format; top teams qualify directly, lower-ranked teams enter playoffs.\\n4. CAF teams are divided into groups; group winners advance, and the final round features home-and-away playoffs.\\n5. AFC teams play in several rounds; the best teams qualify directly, others enter playoffs.\\n6. CONCACAF teams play in rounds; the final round features eight teams competing for qualification spots.\\n7. OFC teams play in a group stage followed by playoffs; the winner enters an intercontinental playoff.\\n8. The host nation(s) automatically qualify.\\n9. The qualification process typically takes 2-3 years before each World Cup.",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer provides a detailed outline of the qualification process for the FIFA World Cup, covering various confederations and their specific methods of qualification. However, it does not explicitly mention \"regional qualification,\" \"intercontinental playoffs,\" or \"finals draw\" as stated in the gold answer. While it includes relevant information, it does not directly match the key phrases from the gold answer. Therefore, it can be considered partially correct but does not fully meet the criteria for a score of 2.",
+    "exact_match": 0,
+    "f1_score": 0.031746031746031744,
+    "contains_match": 0,
+    "rouge_l": 0.016666666666666666
+  },
+  {
+    "question_id": 44,
+    "question": "Describe the sequence of events during a VAR (Video Assistant Referee) review.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Referee review",
+      "on-field review",
+      "decision announcement"
+    ],
+    "prediction": "1. The VAR team watches all game action from a video operation room\\n2. Multiple camera angles are available for review\\n3. VAR checks specific incidents and communicates with the referee via headset\\n4. For clear and obvious errors, the VAR recommends an on-field review\\n5. The referee reviews the incident on a pitchside monitor\\n6. After review, the referee makes the final decision\\n7. The referee signals a VAR review by making a TV screen gesture",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed sequence of events during a VAR review, covering all the necessary steps involved in the process. It includes the VAR team's role, communication with the referee, the on-field review, and the final decision-making process. While the gold answer is more concise and mentions specific terms like \"referee review,\" \"on-field review,\" and \"decision announcement,\" the predicted answer encompasses these concepts within its detailed steps. Therefore, it captures the essence of the gold answer effectively.",
+    "exact_match": 0,
+    "f1_score": 0.08823529411764706,
+    "contains_match": 1,
+    "rouge_l": 0.05479452054794521
+  },
+  {
+    "question_id": 45,
+    "question": "Explain the procedure followed to replace an injured player during a match.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Referee stops play",
+      "medical check",
+      "substitution"
+    ],
+    "prediction": "1. Notify the fourth official of the intended substitution\\n2. Prepare the substitute on the sideline, wearing a numbered bib\\n3. Stop play and obtain permission from the referee\\n4. The injured player leaves the field at the nearest boundary line\\n5. The substitute enters from the halfway line after the injured player has left\\n6. The substitution is completed when the substitute enters the field\\n7. Inform the referee which player is being replaced and by whom\\n8. Record the substitution by match officials",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed and comprehensive explanation of the procedure for replacing an injured player during a match. It includes key steps such as notifying the fourth official, stopping play, and the actual substitution process. While the gold answer is more concise and mentions only three key actions, the predicted answer covers all necessary steps and aligns well with the overall procedure. Therefore, it deserves a full score for being correct and matching the essence of the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.056338028169014086,
+    "contains_match": 1,
+    "rouge_l": 0.02531645569620253
+  },
+  {
+    "question_id": 46,
+    "question": "Detail the steps involved in taking a corner kick.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Corner placement",
+      "referee whistle",
+      "kick delivery"
+    ],
+    "prediction": "1. The provided context does not contain information about the steps involved in taking a corner kick. Therefore, I am unable to provide a response based on the given context.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question about the steps involved in taking a corner kick. It states that the context does not contain the necessary information, which means it fails to provide any relevant steps or details. Therefore, it does not match the gold answer at all.",
+    "exact_match": 0,
+    "f1_score": 0.07407407407407407,
+    "contains_match": 0,
+    "rouge_l": 0.0625
+  },
+  {
+    "question_id": 47,
+    "question": "Explain how a team is promoted from the EFL Championship to the Premier League.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Top two clubs",
+      "one playoff winner"
+    ],
+    "prediction": "1. Finish the EFL Championship season in the top two positions to achieve automatic promotion.\\n2. Compete in the Championship Play-offs if finishing between 3rd and 6th place.\\n3. Win the Play-off final to secure the third promotion spot to the Premier League.",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed explanation of the promotion process from the EFL Championship to the Premier League, covering both automatic promotion for the top two clubs and the playoff system for teams finishing between 3rd and 6th place. It includes all key steps mentioned in the gold answer, albeit in a more elaborate manner. Therefore, it captures the essence of the gold answer effectively.",
+    "exact_match": 0,
+    "f1_score": 0.09523809523809523,
+    "contains_match": 0,
+    "rouge_l": 0.0909090909090909
+  },
+  {
+    "question_id": 48,
+    "question": "Describe the steps referees follow before starting a professional football match.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Coin toss",
+      "inspection",
+      "player check",
+      "kick-off"
+    ],
+    "prediction": "1. Ensure all players are present and eligible to play\\n2. Conduct a pre-match inspection of the field and goalposts\\n3. Check that the match balls meet the required standards\\n4. Confirm the identities of the team captains\\n5. Review the rules and regulations specific to the competition\\n6. Ensure that the fourth official is ready and aware of their duties\\n7. Gather any necessary match documentation and reports",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer provides a detailed list of steps that referees follow before starting a professional football match. However, it does not include any of the specific key terms from the gold answer, such as \"coin toss,\" \"inspection,\" \"player check,\" or \"kick-off.\" While the predicted answer covers relevant actions, it does not directly match the gold answer's requirements. Therefore, it does not meet the criteria for a correct answer.",
+    "exact_match": 0,
+    "f1_score": 0.03225806451612903,
+    "contains_match": 1,
+    "rouge_l": 0.03125
+  },
+  {
+    "question_id": 49,
+    "question": "Explain how group stage standings are determined in the UEFA Champions League.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Points goal difference",
+      "head-to-head",
+      "goals scored"
+    ],
+    "prediction": "1. Teams play each other in a round-robin format within their group.\\n2. Points are awarded based on match results: 3 points for a win, 1 point for a draw, and 0 points for a loss.\\n3. The total points accumulated by each team are calculated at the end of the group stage.\\n4. If teams are tied on points, the following tiebreakers are applied in order:\\n5. a. Goal difference\\n6. b. Goals scored\\n7. c. Head-to-head results between the tied teams\\n8. d. Away goals scored in head-to-head matches\\n9. e. Overall UEFA coefficient ranking\\n10. The top teams from each group advance to the knockout stage.",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a comprehensive explanation of how group stage standings are determined in the UEFA Champions League. It includes the key steps of accumulating points and the tiebreakers, which are \"goal difference,\" \"goals scored,\" and \"head-to-head results.\" Although the gold answer is more concise, the predicted answer covers all necessary aspects and includes the required elements. Therefore, it matches the gold answer well.",
+    "exact_match": 0,
+    "f1_score": 0.05714285714285715,
+    "contains_match": 1,
+    "rouge_l": 0.0392156862745098
+  },
+  {
+    "question_id": 50,
+    "question": "Describe the procedure for conducting a penalty shootout.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Five kicks each",
+      "sudden death",
+      "keeper saves"
+    ],
+    "prediction": "1. Each team takes five penalties alternately.\\n2. If scores are level after five penalties, the shootout continues on a sudden-death basis.\\n3. Only players who were on the field at the end of extra time are eligible to take penalties.\\n4. Each team's penalties must be taken by different players until all eligible players have taken one.\\n5. The team that scores more goals during the penalty shootout wins the match.",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed procedure for conducting a penalty shootout, covering the key steps such as the number of kicks each team takes (five), the sudden death rule if scores are level, and the eligibility of players. While it includes additional information, it effectively captures the essential elements of the gold answer. Therefore, it is correct and matches the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.05797101449275362,
+    "contains_match": 1,
+    "rouge_l": 0.056338028169014086
+  },
+  {
+    "question_id": 51,
+    "question": "Explain how FIFA ranks national teams in its world ranking system.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Match results",
+      "weighting system",
+      "confederation strength"
+    ],
+    "prediction": "1. The provided context does not include information on how FIFA ranks national teams in its world ranking system. Therefore, I cannot provide an answer based on the given documents.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question about how FIFA ranks national teams. It states that the context does not provide information, which does not fulfill the requirement to explain the ranking system. The gold answer mentions specific components of the ranking system, which are not covered in the predicted answer. Therefore, it does not meet the criteria for a correct or partially correct response.",
+    "exact_match": 0,
+    "f1_score": 0.06896551724137931,
+    "contains_match": 0,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 52,
+    "question": "Detail the process for awarding and executing a direct free kick.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Referee spots foul",
+      "marks spot",
+      "signal whistle",
+      "kick"
+    ],
+    "prediction": "1. The referee awards a direct free kick for a foul committed by the opposing team.\\n2. The ball is placed at the spot where the foul occurred.\\n3. All opposing players must be at least 10 yards away from the ball until it is kicked.\\n4. The player taking the free kick must be clearly identified.\\n5. The referee signals for the kick to be taken.\\n6. The player kicks the ball forward.\\n7. The kick is complete when the ball stops moving, goes out of play, or the referee stops play for any offense.",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed and comprehensive process for awarding and executing a direct free kick. It includes all the key steps mentioned in the gold answer, such as the referee awarding the kick, marking the spot, signaling for the kick, and the actual execution of the kick. Although the wording is more elaborate, it effectively covers all the essential elements required in the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.048780487804878044,
+    "contains_match": 1,
+    "rouge_l": 0.043010752688172046
+  },
+  {
+    "question_id": 53,
+    "question": "Describe the steps involved in signing a new player during the transfer window.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Transfer negotiation",
+      "agreement",
+      "signing paperwork",
+      "medical unveiling"
+    ],
+    "prediction": "1. The context provided does not include information about the steps involved in signing a new player during the transfer window. Therefore, I cannot provide an answer to the question as it is not covered in the available documents.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question at all and fails to provide any steps involved in signing a new player during the transfer window. It simply states that the information is not available, which does not fulfill the requirement of describing the steps. Therefore, it does not match the gold answer in any way.",
+    "exact_match": 0,
+    "f1_score": 0.058823529411764705,
+    "contains_match": 0,
+    "rouge_l": 0.048780487804878044
+  },
+  {
+    "question_id": 54,
+    "question": "Explain how the Ballon d'Or winner is selected.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Panel voting",
+      "player shortlist",
+      "vote counting"
+    ],
+    "prediction": "1. The Ballon d'Or is awarded by France Football magazine.\\n2. A panel of international journalists votes for the best football players.\\n3. Each journalist selects their top players based on performance over the past year.\\n4. Points are awarded to players based on their rankings from each journalist's ballot.\\n5. The player with the highest total points is declared the winner.",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer provides a detailed explanation of the Ballon d'Or selection process, including the involvement of a panel of international journalists and the voting mechanism. It covers the key steps of \"panel voting\" and \"vote counting,\" which are part of the gold answer. However, it does not explicitly mention \"player shortlist,\" which is also part of the gold answer. Since the predicted answer includes the main steps and concepts related to the selection process, it deserves partial credit.",
+    "exact_match": 0,
+    "f1_score": 0.033898305084745756,
+    "contains_match": 0,
+    "rouge_l": 0.03333333333333333
+  },
+  {
+    "question_id": 55,
+    "question": "Outline the procedure used to check for an offside decision during a match.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Assistant checks",
+      "position",
+      "line drawing",
+      "referee confirmation"
+    ],
+    "prediction": "1. The provided context does not include information about the procedure used to check for an offside decision during a match. Therefore, I cannot outline those steps as requested.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not provide any steps or information related to the procedure for checking an offside decision. It states that the context does not include the necessary information, which means it fails to address the question at all. Therefore, it does not meet any of the criteria outlined in the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "contains_match": 0,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 56,
+    "question": "Describe how a referee determines whether a foul is punishable by a yellow or red card.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Assess foul",
+      "severity",
+      "context",
+      "card decision"
+    ],
+    "prediction": "1. Assess the severity of the foul committed by the player\\n2. Determine if the foul involved violent conduct or serious foul play\\n3. Evaluate if the foul denied an obvious goal-scoring opportunity\\n4. Consider if the player has committed a second cautionable offense\\n5. Decide if the foul was committed with excessive force or brutality\\n6. Issue a yellow card for less severe offenses or a red card for more severe offenses",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer covers several key steps involved in determining whether a foul is punishable by a yellow or red card. It includes assessing the severity of the foul, evaluating the nature of the foul (violent conduct, serious foul play, denying a goal-scoring opportunity), and considering previous offenses. It also concludes with the decision-making process regarding the issuance of yellow or red cards. While the predicted answer is more detailed than the gold answer, it effectively encompasses the main concepts outlined in the gold answer. Therefore, it deserves a high score.",
+    "exact_match": 0,
+    "f1_score": 0.06153846153846154,
+    "contains_match": 1,
+    "rouge_l": 0.05714285714285715
+  },
+  {
+    "question_id": 57,
+    "question": "Explain how the UEFA Champions League draw is conducted each season.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Seeded draw",
+      "group allocation",
+      "broadcast"
+    ],
+    "prediction": "1. The provided context does not contain information about how the UEFA Champions League draw is conducted each season. Therefore, I cannot provide a specific answer to the question based on the context given.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question about how the UEFA Champions League draw is conducted. It fails to provide any relevant information or steps related to the draw process, which is required for a complete answer. Therefore, it does not meet the criteria for partial credit either.",
+    "exact_match": 0,
+    "f1_score": 0.06451612903225806,
+    "contains_match": 0,
+    "rouge_l": 0.05555555555555555
+  },
+  {
+    "question_id": 58,
+    "question": "Describe the process of appealing a red card in professional football.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Red card appeal",
+      "submission",
+      "hearing",
+      "verdict"
+    ],
+    "prediction": "1. The context provided does not contain information about the process of appealing a red card in professional football. Therefore, I cannot provide an answer based on the given context.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question at all and fails to provide any relevant information about the process of appealing a red card in professional football. It simply states that the context does not contain the necessary information, which does not fulfill the requirement of describing the process. Therefore, it does not match the gold answer in any way.",
+    "exact_match": 0,
+    "f1_score": 0.14285714285714285,
+    "contains_match": 0,
+    "rouge_l": 0.1212121212121212
+  },
+  {
+    "question_id": 59,
+    "question": "Explain how the away goals rule was applied in UEFA competitions before it was abolished.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Aggregate score",
+      "comparison",
+      "tiebreaker"
+    ],
+    "prediction": "1. In two-legged knockout ties, each team plays one match at home and one away.\\n2. Goals scored by the away team are counted as \"away goals.\"\\n3. If the aggregate score is tied after both matches, the team with more away goals advances.\\n4. If both teams have scored the same number of away goals, the match proceeds to extra time and, if necessary, a penalty shootout.",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed explanation of how the away goals rule was applied in UEFA competitions, covering the key steps involved in the process. It mentions the importance of away goals in the context of aggregate scores and tiebreakers, which aligns with the gold answer's focus on \"aggregate score,\" \"comparison,\" and \"tiebreaker.\" Therefore, the predicted answer effectively captures the main steps and concepts related to the application of the away goals rule.",
+    "exact_match": 0,
+    "f1_score": 0.06153846153846154,
+    "contains_match": 1,
+    "rouge_l": 0.059701492537313446
+  },
+  {
+    "question_id": 60,
+    "question": "Outline the sequence of events during a player substitution in an official FIFA match.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Fourth official notified",
+      "player exits",
+      "replacement enters"
+    ],
+    "prediction": "1. Notify the fourth official of the intended substitution\\n2. Prepare the substitute on the sideline, wearing a numbered bib\\n3. Wait for the referee to stop play and give permission\\n4. The player being substituted leaves at the nearest boundary line\\n5. The substitute enters from the halfway line after the replaced player has left\\n6. The substitution is completed when the substitute enters the field\\n7. Inform the referee which player is being replaced and by whom\\n8. Record the substitution by match officials",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer provides a detailed sequence of events during a player substitution, covering all the key steps outlined in the gold answer. It includes notifying the fourth official, the player exiting, and the replacement entering, along with additional relevant steps. Although the gold answer is more concise, the predicted answer captures the essence of the substitution process effectively. Therefore, it is correct and matches the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.0547945205479452,
+    "contains_match": 0,
+    "rouge_l": 0.048780487804878044
+  },
+  {
+    "question_id": 61,
+    "question": "Which club did Erling Haaland play for before joining Manchester City? A) Dortmund B) Salzburg C) Molde D) Leipzig",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "A"
+    ],
+    "prediction": "A",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"A\" matches the gold answer exactly, indicating that the system correctly identified the club Erling Haaland played for before joining Manchester City.",
+    "exact_match": 1,
+    "f1_score": 0.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 62,
+    "question": "In what year did France win their first FIFA World Cup? A) 1994 B) 1998 C) 2002 D) 2006",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that France won their first FIFA World Cup in 1998, which corresponds to option B. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 63,
+    "question": "Who was the captain of Spain when they won Euro 2012? A) Xavi B) Ramos C) Casillas D) Iniesta",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "C"
+    ],
+    "prediction": "C",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that the captain of Spain when they won Euro 2012 was Casillas (C). There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 64,
+    "question": "Which country hosted the 2010 FIFA World Cup? A) Brazil B) Germany C) South Africa D) Russia",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "C"
+    ],
+    "prediction": "C",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that South Africa hosted the 2010 FIFA World Cup. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 65,
+    "question": "Which player scored the winning goal in the 2014 FIFA World Cup final? A) Messi B) Gotze C) Kroos D) M\ufffdller",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Gotze scored the winning goal in the 2014 FIFA World Cup final. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 66,
+    "question": "Which English club has the most Premier League titles? A) Chelsea B) Arsenal C) Manchester United D) Liverpool",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "C"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer \"B\" does not match the gold answer \"C\". The correct answer is Manchester United, while the predicted answer indicates Arsenal, which is incorrect. Therefore, the predicted answer is entirely wrong.",
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "contains_match": 0,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 67,
+    "question": "Who won the 2021 Ballon d'Or? A) Messi B) Lewandowski C) Benzema D) Mbappe",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "A"
+    ],
+    "prediction": "A",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"A\" matches the gold answer \"A\" exactly, indicating that the system correctly identified the winner of the 2021 Ballon d'Or. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 0.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 68,
+    "question": "Which nation won the Copa America 2021? A) Brazil B) Argentina C) Uruguay D) Chile",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Argentina (B) won the Copa America 2021. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 69,
+    "question": "Which Italian club is nicknamed 'The Old Lady'? A) AC Milan B) Roma C) Inter Milan D) Juventus",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "D"
+    ],
+    "prediction": "D",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, identifying Juventus as 'The Old Lady', which is correct.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 70,
+    "question": "What is the official stadium of Real Madrid? A) Camp Nou B) Bernabeu C) Mestalla D) Wanda Metropolitano",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"B\" matches the gold answer exactly, which is the correct choice for the official stadium of Real Madrid. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 71,
+    "question": "Which African team reached the World Cup semifinals in 2022? A) Senegal B) Ghana C) Morocco D) Nigeria",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "C"
+    ],
+    "prediction": "C",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Morocco (C) is the correct choice for the African team that reached the World Cup semifinals in 2022. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 72,
+    "question": "Who managed Chelsea when they won the Champions League in 2021? A) Lampard B) Tuchel C) Conte D) Mourinho",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Thomas Tuchel managed Chelsea when they won the Champions League in 2021. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 73,
+    "question": "Which country has won the most Copa America titles? A) Argentina B) Brazil C) Uruguay D) Chile",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "C"
+    ],
+    "prediction": "C",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"C\" matches the gold answer \"C\" exactly, indicating that the system correctly identified the country with the most Copa America titles. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 74,
+    "question": "Who is the all-time top scorer of the UEFA Champions League? A) Messi B) Ronaldo C) Lewandowski D) Benzema",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Ronaldo is the all-time top scorer of the UEFA Champions League. There are no discrepancies or variations in the answer provided.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 75,
+    "question": "When did Barcelona complete their historic treble under Pep Guardiola? A) 2008-09 B) 2010-11 C) 2014-15 D) 2018-19",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "A"
+    ],
+    "prediction": "A",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, indicating that it is correct. The answer \"A\" corresponds to the year when Barcelona completed their historic treble under Pep Guardiola, which is 2008-09.",
+    "exact_match": 1,
+    "f1_score": 0.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 76,
+    "question": "What year did Arsenal complete their 'Invincibles' Premier League season? A) 2002-03 B) 2003-04 C) 2004-05 D) 2001-02",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Arsenal completed their 'Invincibles' Premier League season in 2003-04. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 77,
+    "question": "Which country hosted Euro 2016? A) Germany B) France C) Italy D) Spain",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"B\" matches the gold answer exactly, which is the correct choice for the country that hosted Euro 2016. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 78,
+    "question": "Which player has the most appearances for the English national team? A) Rooney B) Shilton C) Beckham D) Kane",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Peter Shilton has the most appearances for the English national team. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 79,
+    "question": "Which player scored a record 13 goals in a single World Cup tournament? A) Just Fontaine B) Pele C) Muller D) Klose",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "A"
+    ],
+    "prediction": "A",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"A\" matches the gold answer \"A\" exactly, indicating that the system correctly identified the player who scored a record 13 goals in a single World Cup tournament.",
+    "exact_match": 1,
+    "f1_score": 0.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 80,
+    "question": "Which club did Cristiano Ronaldo join after leaving Manchester United in 2022? A) PSG B) Al Nassr C) Sporting CP D) Real Madrid",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that Cristiano Ronaldo joined Al Nassr after leaving Manchester United in 2022. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 81,
+    "question": "What is the maximum number of players allowed on a football pitch for one team during a match?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "11"
+    ],
+    "prediction": "11",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"11\" matches the gold answer exactly, providing the correct and concise information regarding the maximum number of players allowed on a football pitch for one team during a match. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 82,
+    "question": "Who was the first player to score in five different World Cup tournaments?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Cristiano Ronaldo",
+      "Miroslav Klose"
+    ],
+    "prediction": "Marta",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer \"Marta\" is incorrect as it does not match the gold answer, which states that either \"Cristiano Ronaldo\" or \"Miroslav Klose\" was the first player to score in five different World Cup tournaments. Since the predicted answer is entirely wrong, it does not contain any of the key information from the gold answer.",
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "contains_match": 0,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 83,
+    "question": "What color card did the referee show Zinedine Zidane in the 2006 World Cup final?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Red"
+    ],
+    "prediction": "Red",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Red\" matches the gold answer exactly, providing the correct and concise information regarding the color of the card shown to Zinedine Zidane in the 2006 World Cup final. There are no discrepancies or omissions.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 84,
+    "question": "Which club is known as 'The Gunners'?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Arsenal"
+    ],
+    "prediction": "Arsenal",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Arsenal\" matches the gold answer exactly, providing the correct and concise response to the question about which club is known as 'The Gunners'. There are no discrepancies or variations in wording that would affect the correctness of the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 85,
+    "question": "Who holds the record for most goals scored in a single Premier League season?",
+    "question_type": "factoid",
+    "gold_answers": [
+      "Erling Haaland",
+      "Mohamed Salah"
+    ],
+    "prediction": "Erling Haaland",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"Erling Haaland\" is one of the two correct answers provided in the gold answer. It matches the key information required by the question, which is to identify the record holder for most goals scored in a single Premier League season. Since it is a correct and concise response, it deserves a full score.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 86,
+    "question": "List the three hosting nations of the 2026 FIFA World Cup.",
+    "question_type": "list",
+    "gold_answers": [
+      "United States",
+      "Canada",
+      "Mexico"
+    ],
+    "prediction": "Mexico\\tUSA\\tCanada",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all three hosting nations of the 2026 FIFA World Cup: Mexico, USA, and Canada. The order of the items does not matter, and the predicted answer matches the gold answer in content. Therefore, it is fully correct.",
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 87,
+    "question": "Name all South American countries that have won the FIFA World Cup.",
+    "question_type": "list",
+    "gold_answers": [
+      "Brazil",
+      "Argentina",
+      "Uruguay"
+    ],
+    "prediction": "Brazil\\tArgentina\\tUruguay",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer includes all the countries listed in the gold answer: Brazil, Argentina, and Uruguay. The format used (tabs) does not affect the correctness of the answer, and all items are present and correctly named.",
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "contains_match": 1,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 88,
+    "question": "List the FIFA World Cup Golden Boot winners from 2010 to 2022.",
+    "question_type": "list",
+    "gold_answers": [
+      "Harry Kane",
+      "Kylian Mbappe",
+      "Lionel Messi",
+      "Thomas Muller"
+    ],
+    "prediction": "Thomas M\u00fcller\\tDiego Forl\u00e1n\\tJames Rodr\u00edguez\\tHarry Kane\\tKylian Mbapp\u00e9",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes Harry Kane, Kylian Mbapp\u00e9, and Thomas M\u00fcller, but it does not include Lionel Messi, which is a required item from the gold answer. Since it contains 3 out of the 4 items, it meets the criteria for partial credit. However, it does not meet the threshold of 50% of items present, as it is missing one key item.",
+    "exact_match": 0,
+    "f1_score": 0.16666666666666669,
+    "contains_match": 1,
+    "rouge_l": 0.25
+  },
+  {
+    "question_id": 89,
+    "question": "Name all clubs that won the English Premier League before the year 2010.",
+    "question_type": "list",
+    "gold_answers": [
+      "Manchester United",
+      "Arsenal",
+      "Chelsea",
+      "Blackburn Rovers"
+    ],
+    "prediction": "Manchester United\\tArsenal\\tChelsea",
+    "llm_judge_score": 1,
+    "llm_judge_reasoning": "The predicted answer includes three of the four clubs listed in the gold answer. However, it is missing \"Blackburn Rovers,\" which means it does not meet the requirement of including all items from the gold answer. Since it includes 75% of the items, it qualifies for partial credit.",
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666,
+    "contains_match": 1,
+    "rouge_l": 0.5
+  },
+  {
+    "question_id": 90,
+    "question": "List the four teams that make up the 'Old Firm' and other major derbies in Scottish football.",
+    "question_type": "list",
+    "gold_answers": [
+      "Celtic",
+      "Rangers"
+    ],
+    "prediction": "The provided context does not contain information about the 'Old Firm' or other major derbies in Scottish football. Therefore",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not provide any of the required items from the gold answer, which are \"Celtic\" and \"Rangers.\" Since it fails to mention any of the teams, it does not meet the criteria for partial credit either.",
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "contains_match": 0,
+    "rouge_l": 0.0
+  },
+  {
+    "question_id": 91,
+    "question": "Explain the procedure for conducting the coin toss before a football match.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "The referee tosses a coin, and the team that wins the toss decides which goal to attack in the first half or whether to take the kick-off."
+    ],
+    "prediction": "1. The context provided does not include information about the procedure for conducting the coin toss before a football match. Therefore, I cannot provide an answer based on the given context.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question at all and fails to provide any information about the procedure for conducting the coin toss. It states that it cannot provide an answer, which is not acceptable for an instruction question. Therefore, it does not match the gold answer in any way.",
+    "exact_match": 0,
+    "f1_score": 0.0851063829787234,
+    "contains_match": 0,
+    "rouge_l": 0.17241379310344826
+  },
+  {
+    "question_id": 92,
+    "question": "Describe the steps involved in applying the handball rule in the penalty area.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "The referee determines if the handball was deliberate or if the arm was in an unnatural position. If it occurs in the penalty area and is deemed an offense, a penalty kick is awarded."
+    ],
+    "prediction": "1. The context provided does not include specific steps for applying the handball rule in the penalty area. Therefore, I cannot provide an answer based on the given information.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question about the steps involved in applying the handball rule in the penalty area. Instead, it states that it cannot provide an answer due to a lack of specific steps, which does not fulfill the requirement of describing the steps. Therefore, it does not match the gold answer at all.",
+    "exact_match": 0,
+    "f1_score": 0.15686274509803924,
+    "contains_match": 0,
+    "rouge_l": 0.22222222222222224
+  },
+  {
+    "question_id": 93,
+    "question": "Outline how goal-line technology works in modern football.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "Goal-line technology uses cameras positioned around the goal to track the ball's position. When the entire ball crosses the goal line, the system sends a signal to the referee's watch within one second."
+    ],
+    "prediction": "1. The provided context does not include information about how goal-line technology works in modern football. Therefore, I cannot outline the steps for it.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not provide any information about how goal-line technology works, which is essential to answering the question. It fails to outline any steps or details related to the operation of the technology, thus not addressing the question at all. Therefore, it cannot receive any credit.",
+    "exact_match": 0,
+    "f1_score": 0.11538461538461538,
+    "contains_match": 0,
+    "rouge_l": 0.10526315789473685
+  },
+  {
+    "question_id": 94,
+    "question": "Explain the process of a team appealing against a transfer ban.",
+    "question_type": "instruction",
+    "gold_answers": [
+      "The club submits a formal written appeal to the relevant football authority (FIFA or UEFA) within the specified deadline, providing evidence and legal arguments. A hearing is scheduled, and the authority reviews the case before making a decision."
+    ],
+    "prediction": "1. The provided context does not contain information regarding the process of a team appealing against a transfer ban. Therefore, I am unable to provide a response to the question based on the given documents.",
+    "llm_judge_score": 0,
+    "llm_judge_reasoning": "The predicted answer does not address the question at all and fails to provide any information about the process of appealing against a transfer ban. It simply states that the context does not contain relevant information, which does not fulfill the requirement of explaining the process. Therefore, it does not match the gold answer in any way.",
+    "exact_match": 0,
+    "f1_score": 0.03448275862068965,
+    "contains_match": 0,
+    "rouge_l": 0.1643835616438356
+  },
+  {
+    "question_id": 95,
+    "question": "Which player won the FIFA World Cup Golden Ball in 2014? A) Messi B) M\u00fcller C) Robben D) Neuer",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "A"
+    ],
+    "prediction": "A",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"A\" matches the gold answer, which is also \"A\". Since the answer is correct and matches exactly, it fulfills the criteria for a perfect score.",
+    "exact_match": 1,
+    "f1_score": 0.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 96,
+    "question": "Which country won the first UEFA European Championship in 1960? A) France B) Soviet Union C) Spain D) Italy",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate that the Soviet Union won the first UEFA European Championship in 1960. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 97,
+    "question": "What is the nickname of the Brazilian national team? A) La Albiceleste B) Les Bleus C) Sele\u00e7\u00e3o D) Azzurri",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "C"
+    ],
+    "prediction": "C",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer \"C\" matches the gold answer \"C\" exactly, which is the correct nickname of the Brazilian national team. There are no discrepancies or variations in the answer.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 98,
+    "question": "Which stadium hosted the 2015 UEFA Champions League final? A) Wembley B) Olympic Stadium Berlin C) Allianz Arena D) San Siro",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, as both indicate option B as the correct answer. There are no discrepancies or variations in wording.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  },
+  {
+    "question_id": 99,
+    "question": "Who was the manager of Leicester City during their Premier League title win in 2015-16? A) Pearson B) Ranieri C) Rodgers D) Shakespeare",
+    "question_type": "multiple choice",
+    "gold_answers": [
+      "B"
+    ],
+    "prediction": "B",
+    "llm_judge_score": 2,
+    "llm_judge_reasoning": "The predicted answer matches the gold answer exactly, identifying the correct manager of Leicester City during their Premier League title win in 2015-16 as Claudio Ranieri (B). There are no discrepancies or errors in the response.",
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "contains_match": 1,
+    "rouge_l": 1.0
+  }
+]

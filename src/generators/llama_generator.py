@@ -21,7 +21,7 @@ class LlamaGenerator:
             
             self.llm = Ollama(model=model)
             
-            # Test the connection
+            # Test connection
             try:
                 test_response = self.llm.invoke("Hi")
                 print(f"Ollama connection successful! Model: {model}")
@@ -52,11 +52,18 @@ class LlamaGenerator:
         Returns:
             Formatted prompt
         """
-        # Get format instructions
+        # format instructions
         format_instructions = self._get_format_instructions(question_type)
         
         if context:
             prompt = f"""You are a knowledgeable football expert. Answer the question based on the context provided.
+
+IMPORTANT:
+1. Read the question carefully
+2. Use context to find the answer
+3. Answer ONLY the question asked
+4. Do NOT copy random text from context
+5. Follow the format requirements
 
 Context:
 {context}
@@ -90,16 +97,24 @@ Answer:"""
         question_type = question_type.lower()
         
         if question_type == 'factoid':
-            return "Give a brief, direct answer (a few words or short phrase only). Do not add explanations."
+            return """FORMAT: Short direct answer (1-5 words). No explanation.
+
+Example: Q: Who won 1986 World Cup? A: Argentina"""
         
         elif question_type == 'list':
-            return "List your answer with numbered items (1. 2. 3. etc.)."
+            return """FORMAT: Items separated by tabs (\\t). No numbers or bullets.
+
+Example: Q: List Messi's clubs. A: Barcelona\\tPSG\\tInter Miami"""
         
         elif question_type == 'instruction' or 'instruction' in question_type:
-            return "Provide numbered step-by-step instructions (1. 2. 3. etc.)."
+            return """FORMAT: Numbered steps (1. 2. 3.)
+
+Example: Q: How to take penalty? A: 1. Place ball 2. Wait for referee 3. Kick forward"""
         
         elif 'multiple choice' in question_type or question_type == 'multiple choice':
-            return "Answer with ONLY the letter (A, B, C, or D). Nothing else."
+            return """FORMAT: ONLY the letter (A, B, C, or D). NOTHING ELSE.
+
+Example: Q: Which won? A) France B) Brazil A: A"""
         
         else:
             return "Provide a clear, concise answer."
@@ -121,17 +136,15 @@ Answer:"""
         Returns:
             Tuple of (answer, metadata)
         """
-        # Build prompt
+        # prompt
         prompt = self._build_prompt(question, question_type, context)
         
         # Generate using Ollama
         try:
             answer = self.llm.invoke(prompt)
             
-            # Post-process answer
             answer = self._post_process_answer(answer, question_type)
             
-            # Metadata
             metadata = {
                 'model': f'ollama/{self.model}',
                 'backend': 'ollama'
@@ -154,41 +167,81 @@ Answer:"""
         Returns:
             Cleaned answer
         """
-        # Remove common prefixes
+        import re
+        
+        answer = answer.strip()
+        question_type = question_type.lower()
+        
         prefixes = [
             "Answer:",
             "The answer is:",
+            "The answer is",
             "Response:",
             "Here is the answer:",
             "Here's the answer:",
+            "A:",
         ]
         
         for prefix in prefixes:
             if answer.lower().startswith(prefix.lower()):
                 answer = answer[len(prefix):].strip()
+                if answer and answer[0] in [':', '-']:
+                    answer = answer[1:].strip()
         
-        # For multiple choice, extract just the letter
-        if 'multiple choice' in question_type.lower():
-            import re
-            # Look for pattern like "A)" or "A." or just "A" at the start
-            match = re.search(r'^\s*([A-D])\b', answer)
+        if 'multiple choice' in question_type:
+            if answer and answer[0].upper() in 'ABCD':
+                return answer[0].upper()
+            
+            match = re.search(r'\b([A-D])\b', answer.upper())
             if match:
-                answer = match.group(1)
-            else:
-                # Try to find it anywhere in the first line
-                first_line = answer.split('\n')[0]
-                match = re.search(r'\b([A-D])\b', first_line)
-                if match:
-                    answer = match.group(1)
+                return match.group(1)
+            
+            match = re.search(r'(?:option|choice|answer)[\s:]?([A-D])', answer, re.IGNORECASE)
+            if match:
+                return match.group(1).upper()
+            
+            letters = [c for c in answer.upper() if c in 'ABCD']
+            if len(letters) == 1:
+                return letters[0]
+            
+            return 'A'
         
-        # Limit length for factoid questions
-        if question_type.lower() == 'factoid':
-            # Take only first sentence or first 50 words
-            sentences = answer.split('.')
-            if sentences:
-                answer = sentences[0].strip()
+        elif question_type == 'list':
+            answer = re.sub(r'^\s*[\d\.\-\•\*]+\s*', '', answer, flags=re.MULTILINE)
+            answer = answer.replace('\n', '\t').replace(',', '\t')
+            answer = re.sub(r'\t+', '\t', answer)
+            answer = re.sub(r'\s+', ' ', answer)
+            
+            items = [item.strip() for item in answer.split('\t') if item.strip()]
+            if items and items[-1].lower().startswith('and '):
+                items[-1] = items[-1][4:]
+            
+            return '\t'.join(items)
+        
+        elif 'instruction' in question_type:
+            lines = answer.split('\n')
+            cleaned_lines = []
+            step_num = 1
+            
+            for line in lines:
+                line = line.strip()
+                if not line:
+                    continue
+                
+                if not re.match(r'^\d+\.', line):
+                    line = f"{step_num}. {line}"
+                    step_num += 1
+                else:
+                    line = re.sub(r'^\d+\.', f'{step_num}.', line)
+                    step_num += 1
+                
+                cleaned_lines.append(line)
+            
+            return '\n'.join(cleaned_lines)
+        
+        elif question_type == 'factoid':
             words = answer.split()
-            if len(words) > 50:
-                answer = ' '.join(words[:50])
+            if len(words) > 10:
+                answer = ' '.join(words[:10])
         
-        return answer.strip()
+        return answer

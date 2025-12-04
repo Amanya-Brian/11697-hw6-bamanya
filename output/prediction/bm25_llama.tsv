@@ -1,537 +1,172 @@
-Carlos Bilardo	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["6", "48", "14"], "retrieval_scores": [9.857022535474076, 9.346469821329592, 9.147705825199347]}
+Carlos Bilardo.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["6", "48", "14"], "retrieval_scores": [9.857022535474076, 9.346469821329592, 9.147705825199347]}
 1904	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["19", "22", "7"], "retrieval_scores": [6.078737852429967, 4.835565999060775, 3.547645383591553]}
-Bobby Moore did not score the winning goal	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["15", "6", "48"], "retrieval_scores": [15.342665676202767, 11.610598926066787, 9.497639823010978]}
-"You'll Never Walk Alone"	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["26", "12", "23"], "retrieval_scores": [13.19534724591922, 4.470093460448621, 3.5177509889813314]}
+Martin Peters	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["15", "6", "48"], "retrieval_scores": [15.342665676202767, 11.610598926066787, 9.497639823010978]}
+You'll Never Walk Alone.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["26", "12", "23"], "retrieval_scores": [13.19534724591922, 4.470093460448621, 3.5177509889813314]}
 Uruguay	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["19", "49", "10"], "retrieval_scores": [7.213119958850294, 6.464301380847956, 5.326880592272826]}
 Harry Kane	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["1", "3", "35"], "retrieval_scores": [8.833320386369438, 7.072060139426682, 6.2062216547796965]}
-Inter Miami CF	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["33", "34", "32"], "retrieval_scores": [6.835021288874827, 5.89837043382599, 5.88458487092424]}
-George Weah	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["22", "8", "13"], "retrieval_scores": [22.137015838953072, 14.113706773472101, 13.122571254262063]}
-Emirates Stadium and Tottenham Hotspur Stadium	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["36", "27", "0"], "retrieval_scores": [16.880206724341463, 11.780115789443247, 6.502899120939535]}
+Inter Miami CF.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["33", "34", "32"], "retrieval_scores": [6.835021288874827, 5.89837043382599, 5.88458487092424]}
+George Weah.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["22", "8", "13"], "retrieval_scores": [22.137015838953072, 14.113706773472101, 13.122571254262063]}
+Emirates Stadium.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["36", "27", "0"], "retrieval_scores": [16.880206724341463, 11.780115789443247, 6.502899120939535]}
 Shane Long	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["18", "11", "6"], "retrieval_scores": [15.90610240560215, 6.762809747071254, 6.5999371596114145]}
 Pep Guardiola	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["38", "7", "16"], "retrieval_scores": [14.133468567100875, 7.842870645556566, 6.057510913202757]}
-Milan	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["42", "2", "36"], "retrieval_scores": [20.11647271002454, 6.962587526848171, 6.657730116526423]}
+Milan.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["42", "2", "36"], "retrieval_scores": [20.11647271002454, 6.962587526848171, 6.657730116526423]}
 LA Galaxy	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["9", "41", "13"], "retrieval_scores": [18.370510139625264, 10.33521564746432, 9.345411099947892]}
-Sevilla	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["43", "10", "28"], "retrieval_scores": [14.687698028160199, 9.305006993256427, 7.858891737132392]}
-Giorgio Chiellini and Leonardo Bonucci	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["24", "45", "17"], "retrieval_scores": [16.646546619169566, 9.716508442626038, 7.040642124511416]}
-Diego Maradona	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["14", "19", "39"], "retrieval_scores": [23.747185977435638, 6.597442711320703, 5.933560060062387]}
-Number 10	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["29", "14", "48"], "retrieval_scores": [20.205854730218665, 14.949429836845125, 8.18009616108225]}
+Sevilla.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["43", "10", "28"], "retrieval_scores": [14.687698028160199, 9.305006993256427, 7.858891737132392]}
+Giorgio Chiellini	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["24", "45", "17"], "retrieval_scores": [16.646546619169566, 9.716508442626038, 7.040642124511416]}
+Diego Maradona.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["14", "19", "39"], "retrieval_scores": [23.747185977435638, 6.597442711320703, 5.933560060062387]}
+Number 10.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["29", "14", "48"], "retrieval_scores": [20.205854730218665, 14.949429836845125, 8.18009616108225]}
 Gonzalo Montiel	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["6", "30", "48"], "retrieval_scores": [18.285812701860568, 8.891468869208618, 7.957024920014427]}
-South Korea and Japan	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["0", "49", "19"], "retrieval_scores": [8.915205850476747, 8.78940970306031, 5.212441380420563]}
-The Super Eagles	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["35", "42", "29"], "retrieval_scores": [19.067804190692193, 6.202607726448356, 6.124184554008842]}
-Based on Document 1, here are the three clubs Cristiano Ronaldo played for before joining Juventus:
-
-1. Sporting CP
-2. Manchester United
-3. Real Madrid	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["13", "8", "32"], "retrieval_scores": [22.62205982300878, 9.35625800109488, 8.165234448437138]}
-Based on Document 1, the African countries that have hosted the Africa Cup of Nations are:
-
-1. Egypt
-2. Ghana
-3. Sudan
-4. Ethiopia
-5. Tunisia
-6. South Africa
-7. Cameroon
-8. Gabon
-9. Equatorial Guinea
-10. Côte d'Ivoire
-
-Note: Libya was also scheduled to host in 1982, but due to political circumstances, the hosting rights were changed.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["4", "49", "5"], "retrieval_scores": [20.20105426611582, 12.7145200587625, 10.874157763905105]}
-Based on the provided documents, the winners of the FIFA Women's World Cup between 2011 and 2023 are:
-
-1. Japan (2011)
-2. United States (2015)
-3. United States (2019)
-4. Spain (2023)
-
-Let me know if you have any further questions!	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["47", "8", "19"], "retrieval_scores": [19.89611037729326, 9.85178352103615, 8.32292239295854]}
-Based on the provided context, here are the Premier League clubs based in London:
-
-1. Arsenal
-2. Chelsea
-3. Tottenham Hotspur
-4. West Ham United
-5. Crystal Palace
-6. Fulham
-7. Queens Park Rangers
-8. Charlton Athletic
-9. Brentford	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["27", "36", "28"], "retrieval_scores": [14.775133106819279, 10.066505449514572, 6.115155953500489]}
-Based on Document 1, the top five goal scorers in UEFA Champions League history are:
-
-1. Cristiano Ronaldo - 140 goals
-2. Lionel Messi - 129 goals
-3. Robert Lewandowski - over 90 goals
-4. Karim Benzema - 90 goals
-5. Raúl González - 71 goals	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["11", "3", "10"], "retrieval_scores": [14.145329657305652, 9.549846567101035, 8.84757674730971]}
-Based on the context provided by Documents 1 and 2, here are the three clubs Lionel Messi has played for in his professional career:
-
-1. FC Barcelona
-2. Paris Saint-Germain
-3. Inter Miami CF	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["33", "34", "32"], "retrieval_scores": [19.427808195968318, 18.51276539327563, 13.758473183919154]}
-Based on Document 1, the countries that have won the UEFA European Championship more than once are:
-
-1. Germany - three times
-2. Spain - three times	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["17", "49", "4"], "retrieval_scores": [22.29423785294093, 18.63861132195766, 10.797661927336305]}
-Based on Document 1, the teams that have won the UEFA Champions League since 2015 are:
-
-1. Barcelona (2014-15)
-2. Real Madrid (2015-16 and 2016-17)
-3. Liverpool (2017-18)
-4. Bayern Munich (2019-20)
-5. Chelsea (2020-21)
-6. Manchester City (2021-22)
-7. Real Madrid (2021-22)
-8. Manchester City (2022-23)
-
-Note that Real Madrid won the title twice in 2016-17 and again in 2021-22, while Manchester City won it once in 2021-22 and again in 2022-23.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["12", "10", "23"], "retrieval_scores": [12.596911048908346, 8.866889102283508, 8.610771716903677]}
-Based on the provided context, the major trophies won by Manchester City under Pep Guardiola are:
-
-1. Premier League titles: 2017-18, 2018-19, 2020-21, 2021-22, 2022-23, and 2023-24 (6 titles)
-2. FA Cup: 2018-19 and 2022-23 (2 titles)
-3. EFL Cup (League Cup): 2017-18, 2018-19, 2019-20, and 2020-21 (4 titles)
-4. UEFA Champions League: 2022-23 (1 title)
-5. FA Community Shield: 2018 and 2019 (2 titles)
-6. UEFA Super Cup: 2023 (1 title)
-7. FIFA Club World Cup: 2023 (1 title)
-
-Note that the treble won in the 2022-23 season is also mentioned, which consists of the Premier League, FA Cup, and Champions League titles.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["28", "38", "16"], "retrieval_scores": [21.726968393141732, 18.387160270908566, 10.258944934337395]}
-Based on Document 1, the eight stadiums used during the 2022 FIFA World Cup in Qatar are:
-
-1. Lusail Iconic Stadium
-2. Al Bayt Stadium
-3. Stadium 974
-4. Ahmad Bin Ali Stadium
-5. Khalifa International Stadium
-6. Education City Stadium
-7. Al Thumama Stadium
-8. Al Janoub Stadium
-
-These stadiums were all located within a compact area around Doha, Qatar.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["2", "25", "49"], "retrieval_scores": [9.747342189061918, 6.314602287486097, 6.156136883843098]}
-Based on the provided context from Document 1, here is the list of clubs that participated in the 2022-23 Premier League season:
-
-1. Manchester City
-2. Arsenal
-3. Manchester United
-4. Newcastle United
-5. Liverpool
-6. Brighton & Hove Albion
-7. Aston Villa
-8. Tottenham Hotspur
-9. Brentford
-10. Fulham
-11. Crystal Palace
-12. Chelsea
-13. Wolverhampton Wanderers
-14. West Ham United
-15. Bournemouth
-16. Nottingham Forest
-17. Everton
-18. Leicester City
-19. Leeds United
-20. Southampton	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["40", "28", "16"], "retrieval_scores": [13.544188471080611, 11.680929935462576, 10.767316724215794]}
-Based on the provided context, I can confidently answer that:
-
-1. Lionel Messi (8 times)
-2. Cristiano Ronaldo (5 times)
-
-These two players are the only ones mentioned in the documents as having won the Ballon d'Or more than three times.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["8", "13", "22"], "retrieval_scores": [24.361721871876803, 19.00971604540677, 15.177156118798441]}
-Based on the context provided, here are the top five goal scorers of the 2022 FIFA World Cup:
-
-1. Kylian Mbappé (France) - 8 goals
-2. Lionel Messi (Argentina) - 7 goals
-3. Julián Álvarez (Argentina) - 4 goals
-4. Olivier Giroud (France) - 4 goals
-5. Gonçalo Ramos (Portugal) - 3 goals	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["3", "31", "11"], "retrieval_scores": [13.32016130666721, 8.488141493139906, 8.346515620138144]}
-Based on the provided documents, the Italian clubs that have won the UEFA Champions League are:
-
-1. AC Milan
-2. Inter Milan
-3. Juventus
-
-Note that all three clubs mentioned in Document 1 as having won the European Cup/Champions League are included in this list.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["23", "12", "42"], "retrieval_scores": [14.65523673903796, 9.719548786583738, 9.006354837285446]}
-Based on Document 1, here are the captains of Real Madrid since 2010:
-
-1. Iker Casillas (2010-2015)
-2. Sergio Ramos (2015-2021)
-3. Marcelo (2021-2022)
-4. Karim Benzema (2022)
-5. Nacho Fernández (2023 and still ongoing)	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["41", "12", "11"], "retrieval_scores": [18.021823271005776, 10.50617828728462, 8.639900862018532]}
-Based on Document 1, the African countries that reached the FIFA World Cup quarterfinals are:
-
-1. Cameroon
-2. Senegal
-3. Ghana
-4. Morocco	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["5", "4", "49"], "retrieval_scores": [16.75718677864782, 7.997653729886682, 6.55357245423482]}
-Based on Document 1, the countries that have hosted the FIFA World Cup more than once are:
-
-1. Mexico - twice: 1970 and 1986; will co-host again in 2026.
-2. Italy - twice: 1934 and 1990.
-3. France - twice: 1938 and 1998.
-4. Germany - twice: 1974 (as West Germany) and 2006.
-5. Brazil - twice: 1950 and 2014.
-
-These are the countries that have hosted the FIFA World Cup multiple times, according to the provided documents.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "4", "17"], "retrieval_scores": [23.62996412733983, 15.071347719790767, 13.990492964713063]}
-Based on Document 1, here is the list of clubs that Lionel Messi has scored hat-tricks against in the Champions League:
-
-1. Arsenal
-2. Bayer Leverkusen
-3. Ajax
-4. APOEL
-5. PSV Eindhoven
-6. Manchester City
-7. BATE Borisov	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["32", "11", "33"], "retrieval_scores": [28.442417783971067, 16.989105629930553, 12.859977998363515]}
-Based on Document 1, here are the years in which Arsenal won the FA Cup under Arsène Wenger:
-
-1. 1998
-2. 2002
-3. 2003
-4. 2005
-5. 2014
-6. 2015
-7. 2017	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["7", "28", "36"], "retrieval_scores": [19.967980738501304, 7.586250932267899, 7.328966905686618]}
-Based on Document 1, Lionel Messi won the following awards at the 2022 FIFA World Cup:
-
-1. Golden Ball: Messi was named the tournament's best player.
-2. Silver Boot: Messi shared this award for being one of the top scorers in the tournament.
-
-Let me know if you'd like me to help with anything else!	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["31", "8", "34"], "retrieval_scores": [14.3516285200968, 11.107604909075087, 9.02491636435791]}
-Based on Document 1, here are the steps required to qualify for the UEFA Champions League group stage:
-
-1. Direct Qualification: Top teams from Europe's strongest leagues receive automatic group stage places.
-2. Domestic Champions Path: Champions from smaller European leagues must go through qualifying rounds (first qualifying round, second qualifying round, third qualifying round) before reaching the playoff round.
-3. League Path: Teams that finish in qualifying positions but aren't champions (typically 3rd or 4th place) enter through the league path, starting from the third qualifying round.
-4. Playoff Round: The final step before the group stage, where teams play two-legged ties to determine the last spots in the 32-team (now 36-team) group stage.
-
-Note that there are additional routes for UEFA Europa League winners and defending Champions League title holders, but these four steps summarize the primary qualification process.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["10", "50", "44"], "retrieval_scores": [20.675991875710935, 12.733607583030057, 5.505623363965743]}
-Based on Document 1: FIFA Laws - Taking a Penalty Kick, here are the steps a player must follow to take a penalty kick:
-
-**Ball and Player Placement:**
-
-1. The ball must be placed on the penalty mark (12 yards from goal).
-2. The player taking the penalty must be clearly identified.
-3. The defending goalkeeper must remain on the goal line, facing the kicker, between the goalposts, until the ball is kicked.
-4. All other players must be outside the penalty area and arc, at least 10 yards from the penalty mark.
-
-**Procedure:**
-
-1. The referee signals when the kick may be taken.
-2. The kicker must kick the ball forward.
-3. The kicker cannot touch the ball again until another player has touched it.
-4. The goalkeeper must not move off the goal line until the ball is kicked (though may move along the line).
-
-**Outcome:**
-
-1. The kick is complete when the ball stops moving, goes out of play, or the referee stops play for any offense.
-2. If the goalkeeper commits an offense and the kick is missed or saved, the kick is retaken.
-3. If the kicker commits an offense, the kick is disallowed and an indirect free kick is awarded to the defending team.
-
-Please note that with the introduction of VAR technology (Document 3), goalkeepers must have at least part of one foot on or in line with the goal line when the kick is taken.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "39", "46"], "retrieval_scores": [33.34795272735247, 12.142987220036886, 11.430943031862014]}
-Here are the step-by-step instructions for deciding a winner in a knockout match that ends in a draw after regular time:
-
-**Extra Time and Penalty Shootout Procedure**
-
-1. Two 15-minute periods are played, with a short break (typically 5 minutes) before extra time.
-2. Teams change ends between the two extra time periods.
-3. If the score remains level after extra time, the match goes to a penalty shootout.
-
-**Penalty Shootout Procedure**
-
-4. Each team takes five penalties alternately.
-5. If the scores are level after five penalties each, the shootout continues on a sudden-death basis.
-6. The same players who were on the field at the end of extra time are eligible to take penalties.
-7. Each team's penalties must be taken by different players until all eligible players have taken one.
-
-**Winning the Match**
-
-8. The team that scores more goals during the penalty shootout wins the match.
-
-Note: If you're looking for specific examples from Document 1, you can refer to the procedures outlined there for Extra Time and Penalty Shootout Procedure.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "30", "6"], "retrieval_scores": [29.660868095548025, 12.2821770001508, 11.234470710731165]}
-Based on Document 2: FIFA World Cup Qualification Process, here are the steps to outline the process of how a team qualifies for the FIFA World Cup:
-
-**UEFA (Europe)**
-
-1. European teams play in groups during the qualifying period (typically over 2 years).
-2. Group winners qualify directly.
-3. Runners-up enter playoffs to determine additional qualifiers.
-4. Europe usually receives 13 of the 32 World Cup spots (16 in the expanded 48-team format from 2026).
-
-**CONMEBOL (South America)**
-
-1. All 10 South American teams play in a single league format, playing home and away against each other.
-2. The top teams qualify directly.
-3. Lower-ranked teams enter intercontinental playoffs.
-
-**CAF (Africa), AFC (Asia), CONCACAF (North/Central America and Caribbean), OFC (Oceania)**
-
-1. Each confederation has its own qualification process, which includes multiple rounds of group play and playoffs.
-2. The final round features home-and-away playoffs.
-3. The number of qualifying spots varies by confederation.
-
-**Host Nation(s) Automatic Qualification**
-
-1. The host nation(s) automatically qualify for the FIFA World Cup.
-
-The entire qualification process typically takes 2-3 years before each World Cup.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["10", "50", "46"], "retrieval_scores": [8.497659225825313, 7.660492844921287, 5.268704759647836]}
-Based on Document 1, here are the steps for the VAR review process:
-
-**VAR Review Process:**
-
-1. The VAR team watches all game action from a video operation room to identify potential reviewable incidents.
-2. Multiple camera angles are available for review to ensure accurate assessment of the incident.
-3. VAR checks the identified incidents and communicates with the referee via headset to determine whether an on-field review is necessary.
-4. For clear and obvious errors, the VAR recommends an on-field review to the referee.
-5. The referee can view the incident on a pitchside monitor to make an informed decision.
-6. After reviewing the incident, the referee makes the final decision based on the evidence presented by VAR.
-7. The referee signals the VAR review by making a TV screen gesture.
-
-Note: The review must be completed quickly to minimize game delays.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["46", "39", "37"], "retrieval_scores": [31.46427121792442, 7.892435739878005, 6.772444509768752]}
-Based on Document 1, the procedure for replacing an injured player during a match is as follows:
-
-**Before Substitution**
-
-1. The team notifies the fourth official of their intention to make a substitution.
+South Korea and Japan.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["0", "49", "19"], "retrieval_scores": [8.915205850476747, 8.78940970306031, 5.212441380420563]}
+Super Eagles	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["35", "42", "29"], "retrieval_scores": [19.067804190692193, 6.202607726448356, 6.124184554008842]}
+Sporting CP\tManchester United\tReal Madrid	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["13", "8", "32"], "retrieval_scores": [22.62205982300878, 9.35625800109488, 8.165234448437138]}
+Egypt\tGhana\tSudan\tEthiopia\tTunisia\tCameroon\tGabon\tEquatorial Guinea\Côte d'Ivoire	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["4", "49", "5"], "retrieval_scores": [20.20105426611582, 12.7145200587625, 10.874157763905105]}
+Japan\tUnited States\tSpain	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["47", "8", "19"], "retrieval_scores": [19.89611037729326, 9.85178352103615, 8.32292239295854]}
+Arsenal \t Chelsea \t Tottenham Hotspur \t West Ham United \t Crystal Palace	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["27", "36", "28"], "retrieval_scores": [14.775133106819279, 10.066505449514572, 6.115155953500489]}
+A question about football! Here are the top 5 goal scorers in UEFA Champions League history: Cristiano Ronaldo \tManchester United\tReal Madrid\tJuventus Lionel Messi \tBarcelona\tParis Saint-Germain Robert Lewandowski \tBorussia Dortmund\tBayern Munich\tBarcelona Karim Benzema \tReal Madrid Raúl González \tReal Madrid	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["11", "3", "10"], "retrieval_scores": [14.145329657305652, 9.549846567101035, 8.84757674730971]}
+FC Barcelona\tParis Saint-Germain\tInter Miami CF	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["33", "34", "32"], "retrieval_scores": [19.427808195968318, 18.51276539327563, 13.758473183919154]}
+Germany \t Spain	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["17", "49", "4"], "retrieval_scores": [22.29423785294093, 18.63861132195766, 10.797661927336305]}
+Barcelona\tReal Madrid\tLiverpool\tBayern Munich\tChelsea\tManchester City	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["12", "10", "23"], "retrieval_scores": [12.596911048908346, 8.866889102283508, 8.610771716903677]}
+Premier League titles\tFA Cup\tEFL Cup (League Cup)\tUEFA Champions League\tFA Community Shield\tUEFA Super Cup\tFIFA Club World Cup	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["28", "38", "16"], "retrieval_scores": [21.726968393141732, 18.387160270908566, 10.258944934337395]}
+Lusail Iconic Stadium\tAl Bayt Stadium\tStadium 974\tAhmad Bin Ali Stadium\tKhalifa International Stadium\tEducation City Stadium\tAl Thumama Stadium\tAl Janoub Stadium	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["2", "25", "49"], "retrieval_scores": [9.747342189061918, 6.314602287486097, 6.156136883843098]}
+Manchester City\tArsenal\tManchester United\tNewcastle United\tLiverpool\tBrighton & Hove Albion\tAston Villa\tTottenham Hotspur\tBrentford\Fulham\tCrystal Palace\tChelsea\tWolverhampton Wanderers\tWest Ham United\tBournemouth\tNottingham Forest\tEverton\tLeicester City\tLeeds United\tSouthampton	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["40", "28", "16"], "retrieval_scores": [13.544188471080611, 11.680929935462576, 10.767316724215794]}
+Lionel Messi\t	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["8", "13", "22"], "retrieval_scores": [24.361721871876803, 19.00971604540677, 15.177156118798441]}
+Kylian Mbappé\tLionel Messi\tJulián Álvarez\tOlivier Giroud\tGonçalo Ramos	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["3", "31", "11"], "retrieval_scores": [13.32016130666721, 8.488141493139906, 8.346515620138144]}
+AC Milan \t Inter Milan \t Juventus	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["23", "12", "42"], "retrieval_scores": [14.65523673903796, 9.719548786583738, 9.006354837285446]}
+Iker Casillas \t Sergio Ramos \t Marcelo \t Karim Benzema \t Nacho Fernández	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["41", "12", "11"], "retrieval_scores": [18.021823271005776, 10.50617828728462, 8.639900862018532]}
+Q: Name the African countries that reached the FIFA World Cup quarterfinals. A: Cameroon \t Senegal \t Ghana	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["5", "4", "49"], "retrieval_scores": [16.75718677864782, 7.997653729886682, 6.55357245423482]}
+Mexico\tItaly\tFrance\tGermany\tBrazil\tUnited States	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "4", "17"], "retrieval_scores": [23.62996412733983, 15.071347719790767, 13.990492964713063]}
+Arsenal\tBayer Leverkusen\tAjax\tAPOEL\tPSV Eindhoven\tManchester City\tBATE Borisov	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["32", "11", "33"], "retrieval_scores": [28.442417783971067, 16.989105629930553, 12.859977998363515]}
+2002 2003 2005 2014 2015 2017	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["7", "28", "36"], "retrieval_scores": [19.967980738501304, 7.586250932267899, 7.328966905686618]}
+Golden Ball\tSilver Boot	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["31", "8", "34"], "retrieval_scores": [14.3516285200968, 11.107604909075087, 9.02491636435791]}
+1. Based on the provided context, here are the steps required to qualify for the UEFA Champions League group stage:
+2. Direct Qualification: Top teams from Europe's strongest leagues receive automatic group stage places.
+3. Domestic Champions Path: Champions from smaller European leagues must go through qualifying rounds (first qualifying round, second qualifying round, third qualifying round) before reaching the playoff round.
+4. League Path: Teams that finish in qualifying positions but aren't champions (typically 3rd or 4th place) enter through the league path, starting from the third qualifying round.
+5. Playoff Round: The final step before the group stage, where teams play two-legged ties to determine the last spots in the 32-team (now 36-team) group stage.
+6. Note that UEFA Europa League winners and UEFA Champions League title holders also automatically qualify for the Champions League group stage.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["10", "50", "44"], "retrieval_scores": [20.675991875710935, 12.733607583030057, 5.505623363965743]}
+1. Here are the steps a player must follow to take a penalty kick according to FIFA Laws of the Game:
+2. The ball must be placed on the penalty mark (12 yards from goal)
+3. The player taking the penalty must be clearly identified
+4. The referee signals when the kick may be taken
+5. The kicker must kick the ball forward
+6. The kicker cannot touch the ball again until another player has touched it
+7. Note: These steps follow the procedure outlined in Document 1: FIFA Laws - Taking a Penalty Kick.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "39", "46"], "retrieval_scores": [33.34795272735247, 12.142987220036886, 11.430943031862014]}
+1. When a knockout match in major tournaments ends in a draw after regular time, FIFA rules specify the following procedure:
+2. Two 15-minute periods are played (30 minutes total), with a short break (typically 5 minutes) before extra time.
+3. Teams change ends between the two extra time periods.
+4. If the score remains level after extra time, the match goes to a penalty shootout.
+5. Penalty Shootout Procedure:
+6. (Note: The context provides this information, but I'll rephrase it according to your request):
+7. Each team takes five penalties alternately.
+8. If the scores are level after five penalties each, the shootout continues on a sudden-death basis.
+9. The same players who were on the field at the end of extra time are eligible to take penalties.
+10. Each team's penalties must be taken by different players until all eligible players have taken one.
+11. The team that scores more goals during the penalty shootout wins the match.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "30", "6"], "retrieval_scores": [29.660868095548025, 12.2821770001508, 11.234470710731165]}
+1. Here is the outline of the process of how a team qualifies for the FIFA World Cup:
+2. Teams from each confederation (UEFA, CONMEBOL, CAF, AFC, CONCACAF, and OFC) play in group stages or league formats, depending on the confederation.
+3. The top teams from these groups qualify directly for the World Cup, while lower-ranked teams enter intercontinental playoffs to determine additional qualifiers.
+4. In some confederations (such as CAF), teams are divided into groups with winners advancing to further rounds, including home-and-away playoffs.
+5. Note: This is a general outline, and specific details may vary depending on the confederation or region.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["10", "50", "46"], "retrieval_scores": [8.497659225825313, 7.660492844921287, 5.268704759647836]}
+1. The VAR team watches all game action from a video operation room.
+2. Multiple camera angles are available for review.
+3. VAR checks incidents and communicates with the referee via headset.
+4. For clear and obvious errors, the VAR recommends an on-field review.
+5. The referee can view the incident on a pitchside monitor.
+6. After review, the referee makes the final decision.
+7. The referee signals VAR review by making a TV screen gesture.
+8. Note: These steps describe the sequence of events during a VAR review, as outlined in Document 1: VAR - Video Assistant Referee System.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["46", "39", "37"], "retrieval_scores": [31.46427121792442, 7.892435739878005, 6.772444509768752]}
+1. If a player is injured and cannot continue playing, the procedure followed to replace them during a match is as follows:
 2. The substitute prepares on the sideline, wearing a numbered bib.
-
-**During Substitution**
-
-3. Play must be stopped and the referee must give permission for the substitution.
-4. The player being substituted must leave the field at the nearest boundary line.
-5. The substitute enters the field from the halfway line after the replaced player has left.
-6. The substitution is completed when the substitute enters the field.
-
-**After Substitution**
-
-7. The replaced player cannot re-enter the match.
-8. The substitute becomes a full player with all rights and responsibilities.
-9. The substitution is recorded by match officials.
-
-Note that if a player is injured and cannot continue, the substitution may be expedited to allow for a quick replacement.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [16.193797655353244, 10.439097329601154, 7.356506572906301]}
-Based on FIFA Laws, I can provide you with the steps involved in taking a corner kick:
-
-**Taking a Corner Kick**
-
-Here are the steps to follow:
-
-1. **The ball is placed**: The ball must be placed inside the corner arc of the field, within the lines.
-2. **The player takes position**: The player taking the corner kick must stand behind the ball and wait for permission from the referee.
-3. **Referee gives signal**: The referee signals to the players that it's okay to take the corner kick.
-4. **Kick is taken**: The player kicks the ball forward, using their foot, from where they are standing behind the ball.
-5. **Ball must be kicked**: The ball must be kicked forward; a player cannot roll or push the ball into play.
-6. **Opponents' positioning**: Opponents must be at least 10 yards away from the corner arc and not interfere with the kick.
-7. **Kick is complete**: The kick is complete when the ball is in play, out of bounds, or the referee stops play for any offense.
-
-Please note that these steps are applicable to all types of kicks, including penalty kicks, free kicks, and corner kicks.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "39", "21"], "retrieval_scores": [12.5278561686064, 3.829908271534532, 3.8233207933832967]}
-A question that's not about Manchester City or Pep Guardiola, but still related to the beautiful game!
-
-According to the Football Association and the English Football League, a team is promoted from the EFL Championship to the Premier League through the following steps:
-
-1. **Finishing positions**: At the end of each EFL Championship season, teams are ranked based on their points tally.
-2. **Promotion spots**: The top three teams in the league table earn automatic promotion to the Premier League.
-3. **Playoffs**: Teams that finish between 4th and 7th place in the EFL Championship qualify for a playoff tournament, which determines the fourth team promoted to the Premier League.
-
-In the playoffs:
-
-1. **Semifinals**: The teams ranked 4th, 5th, and 6th play each other in two-legged ties (home and away). The winners of these ties advance to the next round.
-2. **Final**: The winners of the semifinals meet in a one-off match to determine the fourth team promoted to the Premier League.
-
-That's it! The top three teams earn automatic promotion, while the playoff winner completes the promotion spots.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["28", "17", "27"], "retrieval_scores": [8.002442632392857, 6.765105466357993, 6.56017246037677]}
-Based on Document 1: Player Substitution Procedure in Football, I can answer your question.
-
-Before starting a professional football match, referees typically follow these steps:
-
-**Before Starting the Match:**
-
-1. **Confirm Team Lineups**: Referees ensure that both teams have presented their official lineups to the fourth official.
-2. **Notify Players of Any Disciplinary Actions**: Referees inform players about any disciplinary actions from previous matches, such as suspensions or yellow/red card warnings.
-
-Please note that these steps are not directly related to substitutions, but rather general procedures before starting a match.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "10", "16"], "retrieval_scores": [7.638981394605862, 6.38009476161103, 5.176599960299967]}
-Based on the context provided, here's how group stage standings are determined in the UEFA Champions League:
-
-**Step-by-Step Instructions for Determining Group Stage Standings in the UEFA Champions League**
-
-1. **Six teams per group**: Each group consists of six teams, with teams playing each other twice (home and away) during the group stage.
-
-2. **Points system**: Teams earn points based on their performance in matches:
-	* Win: 3 points
-	* Draw: 1 point
-	* Loss: 0 points
-
-3. **Group standings**: After all teams have played each other, the team with the most points in a group is declared the winner.
-
-4. **Tiebreakers (if necessary)**: In cases where two or more teams are tied on points:
-	* Goal difference (goals scored minus goals conceded) is used to break ties.
-	* If still tied, head-to-head results between the tied teams decide the ranking.
-	* If still tied, total goals scored in the group stage determines the ranking.
-
-5. **Group winners and runners-up**: The top two teams from each group qualify for the knockout phase (Round of 16).
-6. **Third-place finishers**: Teams that finish third in a group enter the UEFA Europa League (or its successor, if rebranded).
-
-7. **Final standings**: The final group stage standings are determined by the points system and tiebreakers outlined above.
-
-By following these steps, the UEFA Champions League group stage standings are determined, with the top teams advancing to the knockout phase and others entering the UEFA Europa League or other competitions.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["10", "50", "32"], "retrieval_scores": [15.415021743713467, 8.957713569829586, 4.987842336626877]}
-Based on the provided documents, here are the step-by-step instructions for conducting a penalty shootout:
-
-**Penalty Shootout Procedure**
-
-1. Each team takes five penalties alternately.
-2. If the scores are level after five penalties each, the shootout continues on a sudden-death basis.
-3. The same players who were on the field at the end of extra time are eligible to take penalties.
-4. Each team's penalties must be taken by different players until all eligible players have taken one.
-
-Note: These instructions follow the FIFA rules and procedures outlined in Document 1, Deciding Winners in Knockout Matches.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "6", "37"], "retrieval_scores": [12.280831971878087, 8.111494154855908, 6.805284232787239]}
-A great question! Based on the provided context, I'll provide a step-by-step explanation of how FIFA ranks national teams in its world ranking system:
-
-**FIFA World Ranking System**
-
-Here's how FIFA ranks national teams:
-
-1. **Gather Data**: FIFA collects data from international matches played by national teams, including wins, draws, losses, goals scored, and goals conceded.
-
-2. **Assign Points**: For each match, points are assigned based on the result:
-	* Win: 3 points
-	* Draw: 1 point
-	* Loss: 0 points
-
-3. **Calculate Average Points Per Match**: FIFA calculates the average number of points earned by a team per match over a certain period (e.g., the previous four years).
-
-4. **Rank Teams**: National teams are then ranked based on their average points per match, with the top-ranked team having the highest average.
-
-5. **Weighting Formula**: The ranking is adjusted using a weighting formula to ensure that recent performances have more significance than older results. This helps account for the natural fluctuations in team performance over time.
-
-6. **Final Ranking**: The final FIFA World Ranking is calculated by combining the weighted average points per match with other factors, such as the strength of opposition and the number of matches played.
-
-7. **Update Rankings**: The ranking system is updated regularly (typically every four months) to reflect changes in team performance over time.
-
-That's how FIFA ranks national teams in its world ranking system!	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["35", "10", "19"], "retrieval_scores": [10.20709577169785, 7.441660022115888, 7.117647700001628]}
-Based on the FIFA Laws of the Game (Document 1), here are the steps to award and execute a direct free kick:
-
-**Awarding the Direct Free Kick:**
-
-1. The referee awards the direct free kick after determining that an offense has been committed by the defending team within their own half of the field.
-2. The referee signals the awarding of the direct free kick to the attacking team.
-
-**Executing the Direct Free Kick:**
-
-3. The player taking the direct free kick must place the ball at the spot where the offense occurred, within the designated area (6 yards from the ball).
-4. All other players, including the goalkeeper, must be outside the penalty area and arc, at least 10 yards from the ball.
-5. The kicker has a clear view of the ball and can see any potential obstacles or distractions.
-6. The kicker may choose to kick the ball forward.
-7. The kicker cannot touch the ball again until another player has touched it.
-
-**Post-Kick Procedure:**
-
-8. If the kick is successful, play continues with the attacking team attempting to score.
-9. If the kick is missed or saved by the goalkeeper, play restarts with a goal kick for the defending team.
-10. If the kicker commits an offense during the taking of the direct free kick, the referee may disallow the kick and award an indirect free kick to the defending team.
-
-Note: These steps are based on the FIFA Laws of the Game (Document 1) and do not include any specific guidance from VAR technology (Document 3).	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "10", "46"], "retrieval_scores": [10.599373451186448, 6.548154091170435, 6.4346734230372356]}
-Based on the provided documents, I must clarify that the question is asking about signing a new player during the transfer window, which is not directly related to the context of football substitutions, FIFA Women's World Cup winners, or Lionel Messi's professional clubs.
-
-However, since there is no specific information provided regarding the steps involved in signing a new player during the transfer window, I can only provide general information on the process. Here are the numbered step-by-step instructions:
-
-1. Identify the target player: The club must identify the player they want to sign and negotiate with their current club or agent.
-
-2. Meet the player's release clause (if applicable): If the player has a release clause in their contract, the new club must meet the specified transfer fee or other conditions to secure the player's services.
-
-3. Reach an agreement: The new club and the player's current club or agent must reach an agreement on the terms of the transfer, including the transfer fee, duration of the contract, and any other stipulations.
-
-4. Obtain necessary permissions: The new club must obtain necessary permissions from relevant authorities, such as FIFA, UEFA, or domestic football associations, to complete the transfer.
-
-5. Complete paperwork: Once all agreements are in place, the new club must complete the necessary paperwork, including the player's registration and contract documentation.
-
-6. Announce the signing: Finally, the new club can officially announce the signing of the player to the public, media, and fans.
-
-Please note that these steps may vary depending on the specific league, country, or transfer window regulations.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "47", "33"], "retrieval_scores": [8.856816824131549, 3.7737769913347043, 3.679243333969629]}
-Based on the provided documents, I can explain how the Ballon d'Or winner is selected. Here are the step-by-step instructions:
-
-1. **France Football magazine** is responsible for awarding the Ballon d'Or.
-2. A panel of international journalists and experts votes to determine the winner(s).
-3. The voters consider various factors such as the player's performance during the year, their achievements in domestic and international competitions (like league titles, cups, and Champions League), as well as their overall impact on the game.
-4. The voters cast their ballots, and the player with the most votes is declared the winner(s).
-5. In cases where there are multiple winners, it seems that the award is shared equally among the top performers.
-
-It's worth noting that the Ballon d'Or has been awarded to multiple players in some years (as seen in Document 2), indicating that the selection process allows for more than one exceptional player to be recognized.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["22", "8", "13"], "retrieval_scores": [14.980084964735614, 13.303998748575719, 11.868053742532647]}
-I'm happy to help! However, I notice that there is no document related to VAR technology or offside decisions in the provided context. The documents you've shared cover topics such as knockout matches, penalty kicks, and player substitutions.
-
-To answer your question accurately, I would need more information on the procedure used to check for an offside decision during a match. If you could provide me with relevant documentation or clarify what specific process you're referring to, I'll do my best to outline the steps involved.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "37", "39"], "retrieval_scores": [12.903477443353434, 11.215102706581, 10.736686047746861]}
-Based on the provided documents, here's how a referee determines whether a foul is punishable by a yellow or red card:
-
-**Step 1:** The referee assesses the severity of the foul. If it's deemed to be a minor infringement, such as a trivial push or a simple careless challenge, a yellow card may be considered.
-
-**Step 2:** The referee evaluates whether the foul was intentional or reckless. If the foul was intentional and deliberate, a red card is more likely to be given. However, if the foul was reckless but not intentional, a yellow card might still be appropriate.
-
-**Step 3:** The referee considers the player's previous disciplinary record. If a player has already received a yellow card in the same match or has a history of repeat offenders, they may be more likely to receive a red card for a subsequent offense.
-
-**Step 4:** The referee reviews the VAR footage (if applicable) to confirm their assessment. In cases where VAR is involved, the referee will consult with the VAR team and consider any additional evidence before making a decision.
-
-**Step 5:** The referee makes a final decision on the appropriate disciplinary action. If they deem the foul to be serious or repeated, a red card may be given. If it's considered less severe, a yellow card might be sufficient.
-
-In summary, the referee considers the severity of the foul, the player's intentions, their previous record, and any additional evidence from VAR before determining whether a yellow or red card is warranted.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["46", "39", "37"], "retrieval_scores": [22.49259085741018, 14.104149529758494, 9.11045749908773]}
-What a great question! As a knowledgeable football expert, I'm happy to guide you through the UEFA Champions League draw process.
-
-**Step-by-Step Instructions for Conducting the UEFA Champions League Draw**
-
-1. **Seeding**: The teams that qualify for the group stage are seeded based on their UEFA coefficient ranking, which takes into account their performance in European competitions over the past five seasons.
-2. **Group Stage Draw**: The 32 (now 36) qualified teams are drawn into eight groups of four teams each. Each team is randomly allocated to a pot based on their seeding.
-3. **Pots**: There are four pots:
-	* Pot A: Top-seeded teams (4-6 teams)
-	* Pot B: Middle-seeded teams (8-12 teams)
-	* Pot C: Lower-seeded teams (12-16 teams)
-	* Pot D: Bottom-seeded teams (4-6 teams and the remaining teams that didn't make it to the top three pots)
-4. **Group Draw**: Teams are drawn from their respective pots, ensuring that no team can play another team from the same pot or a team from the same country more than once in the group stage.
-5. **Home and Away Fixtures**: The draw is done in such a way that each team plays two home games against each of their three opponents (home and away).
-6. **Final Placement**: After all teams have been drawn, the groups are created by randomly placing one team from each pot into Group A-H.
-
-That's it! These steps ensure a fair and exciting draw for the UEFA Champions League group stage.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "10", "11"], "retrieval_scores": [8.861844055712233, 8.538767524909563, 7.761674681144563]}
-Based on Document 1, which explains the VAR system, I can provide the steps for appealing a red card:
-
-**Appealing a Red Card using VAR**
-
-The process involves reviewing "Direct Red Card incidents" under the VAR Review Process.
-
-Here are the numbered step-by-step instructions:
-
-1. **Identify the incident**: The referee and the VAR team review the incident that led to the player receiving a direct red card (violent conduct or serious foul play).
-2. **VAR checks the incident**: The VAR team watches all game action from a video operation room, using multiple camera angles available for review.
-3. **Communication with the referee**: The VAR team communicates with the referee via headset to discuss the incident and determine if there is clear and obvious evidence of an error.
-4. **Recommend on-field review**: If the VAR team determines that there is a clear and obvious error, they recommend an on-field review to the referee.
-5. **Referee views the incident**: The referee can view the incident on a pitchside monitor and makes a final decision based on the evidence presented.
-6. **Final decision**: The referee signals the VAR review by making a TV screen gesture, indicating their final decision.
-
-Note that the entire process must be completed quickly to minimize game delays.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["46", "16", "33"], "retrieval_scores": [9.88957642620373, 6.4190105190990305, 4.114125493052272]}
-Based on Document 1 and general knowledge of football rules, I'll explain how the away goals rule was applied in UEFA competitions before its abolition:
-
-**Away Goals Rule Application:**
-
-Before its abolition in 2021, the away goals rule worked as follows:
-
-1. In two-legged ties (home-and-away matches), if the aggregate score (total goals scored by both teams over the two legs) is tied at the end of the second leg, the tie goes to extra time and penalties (if needed).
-
-2. The team that scores more away goals during the two-legged tie gets an advantage.
-
-3. In the event of a tied aggregate score, the team with the higher total away goal tally advances to the next round.
-
-4. If both teams have scored the same number of away goals, the tie goes to extra time and penalties (if needed), as described in Document 1.
-
-This rule aimed to provide an incentive for teams to score more away goals, considering it's often harder to win at an opponent's stadium.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "9", "14"], "retrieval_scores": [13.602621657713133, 6.681063823501491, 5.716693534218807]}
-Based on Document 1: Player Substitution Procedure in Football, here is the sequence of events during a player substitution in an official FIFA match:
-
-1. **Before Substitution**: The team notifies the fourth official of their intended substitution and the substitute prepares on the sideline wearing a numbered bib.
-
-2. **Before Substitution (continued)**: The referee must give permission for the substitution to take place, and play is stopped.
-
-3. **During Substitution**:
-	* The player being substituted leaves the field at the nearest boundary line.
-	* The substitute enters the field from the halfway line after the replaced player has left.
-	* The substitution is completed when the substitute enters the field.
-
-4. **After Substitution**:
-	* The replaced player cannot re-enter the match.
-	* The substitute becomes a full player with all rights and responsibilities.
-	* The referee is informed which player was replaced and by whom.
-	* The substitution is recorded by match officials.
-
-Note that substitutions are typically made during stoppages (goal kicks, throw-ins, etc.), but expedited substitutions can occur if a player is injured and cannot continue.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "44", "25"], "retrieval_scores": [21.13259306260147, 8.999443300953587, 6.5852937639209514]}
+3. The fourth official is notified of the intended substitution.
+4. Play must be stopped and the referee gives permission for the substitution.
+5. The player being substituted leaves at the nearest boundary line.
+6. The substitute enters from the halfway line after the replaced player has left the field.
+7. The substitution is completed when the substitute enters the field.
+8. Note: If a player is injured and cannot continue, the substitution may be expedited without stopping play.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "25", "37"], "retrieval_scores": [16.193797655353244, 10.439097329601154, 7.356506572906301]}
+1. Since there is no specific document about taking a corner kick, we can rely on the context from Document 1 (FIFA Laws - Taking a Penalty Kick) and apply the rules to corner kicks.
+2. Corner kicks are similar to penalty kicks in terms of procedure. However, since they're not explicitly stated in the FIFA Laws for penalty kicks, we'll need to make some adjustments. Here's how:
+3. A: 1. Place ball on the corner arc mark (not specifically mentioned, but it's assumed)
+4. The player taking the corner must be clearly identified
+5. All other players must be outside the penalty area and arc, at least 10 yards from the corner mark
+6. Please note that some details may not be explicitly stated in FIFA Laws, so adjustments were made to apply penalty kick rules to corner kicks.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "39", "21"], "retrieval_scores": [12.5278561686064, 3.829908271534532, 3.8233207933832967]}
+1. Here's how a team is promoted from the EFL Championship to the Premier League:
+2. Finish in the top two positions of the EFL Championship table at the end of the season.
+3. If the top two teams are level on points, the league champions are determined by goal difference, then goals scored.
+4. The top two teams (the champions and the runners-up) earn automatic promotion to the Premier League for the following season.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["28", "17", "27"], "retrieval_scores": [8.002442632392857, 6.765105466357993, 6.56017246037677]}
+1. **Question:** Describe the steps referees follow before starting a professional football match.
+2. **Format:** Numbered steps (1. 2. 3.)
+3. **Answer:**
+4. No additional step mentioned in the provided context
+5. The referee does not need to perform any specific action before starting a professional football match, as the question is asking about "before starting a professional football match", which implies the initial kick-off or start of the game.
+6. The question does not relate to the player substitution procedure, Champions League qualification process, or Erling Haaland's transfer.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "10", "16"], "retrieval_scores": [7.638981394605862, 6.38009476161103, 5.176599960299967]}
+1. The top four teams from England, Spain, Germany, and Italy qualify directly for the group stage.
+2. France's top two teams also qualify directly for the group stage.
+3. (Note: There is no information provided in the context about how group stage standings are determined. The question may be asking about a different aspect of the Champions League qualification process.)	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["10", "50", "32"], "retrieval_scores": [15.415021743713467, 8.957713569829586, 4.987842336626877]}
+1. Q: Describe the procedure for conducting a penalty shootout.
+2. A:
+3. Each team takes five penalties alternately
+4. If the scores are level after five penalties each, the shootout continues on a sudden-death basis
+5. The same players who were on the field at the end of extra time are eligible to take penalties
+6. Each team's penalties must be taken by different players until all eligible players have taken one	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "6", "37"], "retrieval_scores": [12.280831971878087, 8.111494154855908, 6.805284232787239]}
+1. Q: Explain how FIFA ranks national teams in its world ranking system.
+2. A:
+3. Leagues are ranked based on their clubs' European performance over a certain period (typically five seasons).
+4. The coefficient system is used to determine the number of teams from each country that qualify for major international tournaments like the UEFA Champions League.
+5. National teams are then ranked within their respective leagues and countries, taking into account their performance in various competitions.
+6. Note: This answer is based on Document 2: UEFA Champions League Qualification Process, which mentions UEFA's coefficient system, and Document 1: Nigeria National Team - Super Eagles, which does not provide direct information on FIFA's world ranking system.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["35", "10", "19"], "retrieval_scores": [10.20709577169785, 7.441660022115888, 7.117647700001628]}
+1. Detail the process for awarding and executing a direct free kick.
+2. The referee signals that the foul has occurred and awards an indirect free kick.
+3. All players, except the kicker and the goalkeeper, must be at least 10 yards away from the ball.
+4. The player taking the free kick must not touch the ball again until another player has touched it.
+5. The goalkeeper must remain on the goal line, facing the kicker, between the goalposts, until the ball is kicked.
+6. Note: This process does not involve VAR technology as indirect free kicks are not reviewable incidents under the current FIFA Laws of the Game and UEFA Champions League qualification process.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "10", "46"], "retrieval_scores": [10.599373451186448, 6.548154091170435, 6.4346734230372356]}
+1. Since there is no context provided about signing a new player during the transfer window, I will base my answer on the provided documents.
+2. Based on the context from Document 1 ("Player Substitution Procedure in Football"), it seems that substitutions are typically made during stoppages (goal kicks, throw-ins, etc.). There is no mention of signing a new player or any procedures for doing so.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "47", "33"], "retrieval_scores": [8.856816824131549, 3.7737769913347043, 3.679243333969629]}
+1. Q: Explain how the Ballon d'Or winner is selected.
+2. A:
+3. The Ballon d'Or award is given by France Football magazine.
+4. The selection process involves a voting panel composed of international sports journalists and experts.
+5. The voting panel evaluates the performance of top football players throughout the year, considering various factors such as goals scored, assists made, team success, and overall impact on the game.
+6. Note: Since there is no specific information provided about the Ballon d'Or selection process in the given context, I based my answer on general knowledge about the award.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["22", "8", "13"], "retrieval_scores": [14.980084964735614, 13.303998748575719, 11.868053742532647]}
+1. The procedure used to check for an offside decision during a match is not mentioned in the provided documents, as VAR technology is specifically mentioned for checking goalkeeper and kicker infringements during penalty kicks (Document 2). Therefore, I will not outline any steps for checking offside decisions. If you meant to ask about the general procedure for reviewing offside decisions, please rephrase your question!	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "37", "39"], "retrieval_scores": [12.903477443353434, 11.215102706581, 10.736686047746861]}
+1. The referee assesses the nature and severity of the foul.
+2. If the foul is considered minor or less serious, a yellow card may be given as punishment (e.g., for unsportsmanlike behavior).
+3. However, if the foul is deemed more severe or violent, such as serious foul play or violent conduct, a red card will be issued, resulting in the player's ejection from the game.
+4. Note: This answer is based on FIFA Laws of the Game and the VAR system, which also involves reviews for certain types of incidents.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["46", "39", "37"], "retrieval_scores": [22.49259085741018, 14.104149529758494, 9.11045749908773]}
+1. Q: Explain how the UEFA Champions League draw is conducted each season.
+2. A:
+3. Teams are seeded based on their UEFA coefficient ranking, with top-seeded teams getting a more favorable group stage schedule.
+4. The draw is divided into two parts: one for the 32 teams in the group stage and another for the 8 teams that start in the playoff round.
+5. In the first part of the draw, teams are randomly assigned to four pots based on their UEFA coefficient ranking, with some exceptions for domestic league champions or Europa League winners.
+6. Note: This answer is based on my knowledge as a football expert and does not require any specific text from the provided documents.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "10", "11"], "retrieval_scores": [8.861844055712233, 8.538767524909563, 7.761674681144563]}
+1. Since there is no direct mention of appealing a red card in the provided documents, I'll analyze the context and combine information from Document 1 (VAR) and general football knowledge to provide an answer.
+2. Here's the process of appealing a red card in professional football:
+3. The player or team manager would need to initiate the VAR review process by signaling to the referee that they want to challenge the decision.
+4. The VAR team, located in a video operation room, would then review the incident using multiple camera angles and communicate with the referee via headset.
+5. If the VAR review concludes that there was a clear and obvious error, they would recommend an on-field review to the referee.
+6. The referee would then view the incident on a pitchside monitor and make the final decision.
+7. Note: In professional football, red cards are not typically "appealed" as they are considered automatic ejections from the game. However, this process allows for a review of the decision-making process in cases where there may have been a mistake.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["46", "16", "33"], "retrieval_scores": [9.88957642620373, 6.4190105190990305, 4.114125493052272]}
+1. A football question!
+2. Here's the answer:
+3. Before it was abolished, the away goals rule in UEFA competitions worked as follows:
+4. In two-legged ties (i.e., a tie played over two matches), teams would play each other at home and away.
+5. If the aggregate score (total number of goals scored by both teams) was level after the two matches, the away team's goal(s) counted double in determining the winner.
+6. In essence, this rule gave an advantage to teams that won games on their opponents' turf.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "9", "14"], "retrieval_scores": [13.602621657713133, 6.681063823501491, 5.716693534218807]}
+1. **Before Substitution**
+2. Teams are allowed up to 5 substitutions in most modern competitions (3 in some)
+3. The fourth official is notified of the intended substitution
+4. The substitute prepares on the sideline, wearing a numbered bib
+5. The substitute cannot enter until authorized by the referee
+6. **During Substitution**
+7. Play must be stopped and the referee must give permission
+8. The player being substituted must leave at the nearest boundary line
+9. The substitute enters from the halfway line after the replaced player has left
+10. The substitution is completed when the substitute enters the field
+11. The referee is informed which player is being replaced and by whom
+12. **After Substitution**
+13. The replaced player cannot re-enter the match
+14. The substitute becomes a full player with all rights and responsibilities
+15. The substitution is recorded by match officials	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "44", "25"], "retrieval_scores": [21.13259306260147, 8.999443300953587, 6.5852937639209514]}
 A	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["16", "13", "38"], "retrieval_scores": [32.89893609819573, 15.310310767753318, 13.823707990004998]}
 B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "21", "22"], "retrieval_scores": [14.860853368836276, 14.8247591936619, 12.197848005834619]}
 C	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["45", "41", "17"], "retrieval_scores": [31.602438634198016, 13.1512221547697, 10.761052905084695]}
@@ -544,108 +179,34 @@ D	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["23", "4
 B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["13", "41", "8"], "retrieval_scores": [11.077562804217763, 9.188685019063277, 9.103386284227877]}
 C	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["5", "4", "35"], "retrieval_scores": [27.547877056350142, 13.932225034960735, 12.402372037800129]}
 D	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["13", "38", "23"], "retrieval_scores": [10.222972113035132, 8.33266908462673, 8.00271371243709]}
-B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "20", "8"], "retrieval_scores": [16.407400002541955, 13.15545512376153, 8.403281556516536]}
+A	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "20", "8"], "retrieval_scores": [16.407400002541955, 13.15545512376153, 8.403281556516536]}
 B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["11", "13", "8"], "retrieval_scores": [25.044887603376775, 16.308994072350174, 14.563564256621516]}
 C	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["28", "38", "12"], "retrieval_scores": [23.521431832715564, 20.67721008201786, 15.51744756613698]}
 B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["7", "13", "40"], "retrieval_scores": [17.795470985648198, 12.375997939337989, 11.683071516535737]}
-C	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "45", "17"], "retrieval_scores": [16.704188493679617, 14.516893161263733, 13.790875414139931]}
-A	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["35", "9", "1"], "retrieval_scores": [9.95971701429403, 9.43758942975922, 9.391416419475085]}
-A	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["31", "11", "1"], "retrieval_scores": [11.727865260878275, 10.766006178126792, 9.397987758123238]}
+B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "45", "17"], "retrieval_scores": [16.704188493679617, 14.516893161263733, 13.790875414139931]}
+C	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["35", "9", "1"], "retrieval_scores": [9.95971701429403, 9.43758942975922, 9.391416419475085]}
+B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["31", "11", "1"], "retrieval_scores": [11.727865260878275, 10.766006178126792, 9.397987758123238]}
 B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["13", "41", "8"], "retrieval_scores": [40.300092089281684, 20.829282877682758, 17.447155918999925]}
 11	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["39", "25", "29"], "retrieval_scores": [13.932291527271165, 11.21642365064854, 11.013748470209688]}
-Miroslav Klose	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "31", "47"], "retrieval_scores": [12.269266433104352, 8.460028574507833, 8.29091405244974]}
-Red	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["21", "46", "39"], "retrieval_scores": [12.25973092444503, 10.270518745381272, 7.385934618279657]}
-Arsenal	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["14", "42", "38"], "retrieval_scores": [6.793930091430737, 5.425175959305669, 5.0926769470898465]}
-Erling Haaland	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["11", "16", "40"], "retrieval_scores": [19.52806173662838, 14.729751725854578, 13.333574391613437]}
-Based on the provided context, the three hosting nations of the 2026 FIFA World Cup are:
-
-1. United States
-2. Canada
-3. Mexico	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "50", "0"], "retrieval_scores": [13.268491879001832, 11.146610904325875, 9.257644108421905]}
-Based on the context provided, I can answer your question. According to Document 1 and Document 3, the South American countries that have won the FIFA World Cup are:
-
-1. Brazil (won in 2002 and lost in 1950)
-2. Uruguay (won in 1950)
-
-Note: There is no mention of other South American countries winning the FIFA World Cup in the provided documents.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["0", "4", "49"], "retrieval_scores": [9.10859232077549, 9.098641349867602, 9.088579860254548]}
-Based on the provided documents, here are the FIFA World Cup Golden Boot winners from 2010 to 2022:
-
-1. 2018 - Harry Kane (England) - 6 goals
-2. 2022 - Kylian Mbappé (France) - 8 goals	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["31", "1", "3"], "retrieval_scores": [12.926877990506416, 10.751746125407838, 9.198072532784295]}
-Based on the provided context and information about Premier League winners, I can answer the question as follows:
-
-1. Arsenal (2004)
-2. Chelsea (2005, 2006, 2010)
-
-These two clubs won the English Premier League before the year 2010.
-
-Arsenal won in 2004, and Chelsea won three times: in 2005, 2006, and 2010.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["27", "16", "13"], "retrieval_scores": [9.680219682379438, 8.549270150347215, 8.54050026995963]}
-Based on my knowledge as a football expert, I can tell you that the "Old Firm" refers to the intense rivalry between Celtic FC and Rangers FC, two of Scotland's most successful and historic clubs.
-
-However, there are other major derbies in Scottish football beyond the Old Firm. Here are four teams that make up some of those notable rivalries:
-
-1. Hibernian FC (Hibs) - Edinburgh Derby against Heart of Midlothian FC
-2. Heart of Midlothian FC (Hearts) - Edinburgh Derby against Hibernian FC
-3. Aberdeen FC and Dundee United FC - North-east Derby
-4. Motherwell FC and Hamilton Academical FC - Lanarkshire Derby
-
-These derbies are all significant fixtures in Scottish football, with intense atmospheres and high stakes on the line.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["11", "25", "42"], "retrieval_scores": [6.37110420917007, 6.180658973988451, 6.122078529705314]}
-Based on the provided documents, there is no specific information on the procedure for conducting the coin toss before a football match. The documents focus on extra time and penalty shootouts in knockout matches, player substitution procedures, and details about the 2014 FIFA World Cup Final.
-
-If you're looking for general guidelines on coin tosses, I can provide some general information. However, please note that specific rules might vary depending on the tournament or competition.
-
-Here's a general procedure:
-
-1. The captains of both teams meet at the center circle before the match.
-2. A representative from one team calls "Heads" or "Tails," and then flips the coin.
-3. The other captain confirms the call, ensuring that they agree with the result (heads or tails).
-4. The winning team gets to choose whether to kick off or have the opponent start by kicking off.
-
-Please note that this is a general procedure and might not be applicable to specific competitions or tournaments. If you're looking for detailed rules on coin tosses, I recommend consulting official documentation from FIFA or other governing bodies.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "39", "30"], "retrieval_scores": [8.459960316143775, 8.250322948503811, 3.943636004072523]}
-I'm happy to help! However, I must point out that there is no "handball rule" mentioned in any of the provided documents. The documents primarily discuss FIFA Laws of the Game, penalty kicks, and knockout matches.
-
-If you're asking about the procedure for applying a handball rule in the penalty area, it's important to note that handballs are not specifically addressed in these documents. Handballs are typically handled under separate rules and regulations.
-
-To provide accurate guidance, could you please clarify or rephrase your question?	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "25", "9"], "retrieval_scores": [6.412669587937774, 5.939045038852221, 4.600528005351252]}
-Based on Document 1, which discusses FIFA Laws of the Game regarding penalty kicks, I can outline how goal-line technology works in modern football:
-
-**Goal-Line Technology (GLT)**
-
-The Goal-Line Technology system is designed to determine whether the ball has fully crossed the goal line or not. Here's how it works:
-
-1. **Sensor Placement**: GLT sensors are placed along the goal line, typically at 18-inch intervals.
-2. **Ball Tracking**: The sensors track the movement of the ball as it approaches and crosses the goal line.
-3. **Data Transmission**: The sensor data is transmitted to a referee's assistant device (RAD) in real-time.
-4. **Algorithm Analysis**: The RAD analyzes the sensor data using algorithms that take into account various factors, such as ball speed, spin, and trajectory.
-5. **Decision**: If the algorithm determines that the ball has fully crossed the goal line, the system alerts the referee, who can then make a decision to award a goal or not.
-6. **Referee Verification**: The referee reviews the GLT information and makes a final decision on whether to award a goal or not.
-
-This technology ensures accurate decisions regarding potential goals, reducing controversy and ensuring fair play in modern football matches.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "39", "15"], "retrieval_scores": [9.157063989533077, 7.097775088971851, 4.808894863887646]}
-A question that takes us away from the beautiful game and into the world of club management!
-
-As per UEFA's rules, if a team is subject to a transfer ban, they can appeal against it. Here are the step-by-step instructions:
-
-**Appealing a Transfer Ban**
-
-1. **Notification**: The affected team receives notification from UEFA regarding the transfer ban, specifying the reason(s) for the sanction.
-
-2. **Review Process**: The team has a limited time (usually 3-5 working days) to request a review of the decision. This is done by submitting an appeal to UEFA's Appeals Body in writing or electronically.
-
-3. **Appeal Submission**: The team provides detailed reasons and evidence supporting their appeal, challenging the validity of the transfer ban.
-
-4. **UEFA Review**: UEFA reviews the submitted appeal, considering all relevant information, including any evidence provided by the team and the original decision-making process.
-
-5. **Independent Expert Opinion**: If necessary, UEFA may consult an independent expert or a specialized committee to provide additional insight and guidance on the case.
-
-6. **Appeals Body Decision**: The UEFA Appeals Body, comprising experienced lawyers and experts, makes a binding decision on the appeal. This decision is usually communicated within 1-2 weeks of the review process.
-
-7. **Final Resolution**: If the appeal is successful, the transfer ban is lifted or modified. Otherwise, the original sanction remains in place.
-
-8. **Possible Further Action**: In some cases, if the team is not satisfied with the outcome, they may choose to take further legal action or seek arbitration.
-
-Please note that these instructions are based on general guidelines and might vary depending on specific circumstances and UEFA's regulations at the time of the appeal.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["50", "33", "10"], "retrieval_scores": [6.957366338090815, 5.228213963573199, 5.015284616618083]}
+Lionel Messi.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "31", "47"], "retrieval_scores": [12.269266433104352, 8.460028574507833, 8.29091405244974]}
+Yellow	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["21", "46", "39"], "retrieval_scores": [12.25973092444503, 10.270518745381272, 7.385934618279657]}
+Arsenal.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["14", "42", "38"], "retrieval_scores": [6.793930091430737, 5.425175959305669, 5.0926769470898465]}
+Erling Haaland.	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["11", "16", "40"], "retrieval_scores": [19.52806173662838, 14.729751725854578, 13.333574391613437]}
+USA\tCanada\tMexico	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["49", "50", "0"], "retrieval_scores": [13.268491879001832, 11.146610904325875, 9.257644108421905]}
+Brazil \t Uruguay	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["0", "4", "49"], "retrieval_scores": [9.10859232077549, 9.098641349867602, 9.088579860254548]}
+A question that requires digging through the provided documents! After carefully reading the context I found the relevant information: 2014 World Cup Golden Boot winner: Not mentioned in the provided documents (but according to other sources James Rodríguez won it) 2018 World Cup Golden Boot winner: Harry Kane 2022 World Cup Golden Boot winner: Kylian Mbappé Here's the answer in the required format: A: Harry Kane\tKylian Mbappé	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["31", "1", "3"], "retrieval_scores": [12.926877990506416, 10.751746125407838, 9.198072532784295]}
+A question that requires knowledge of football history! Based on Document 1 which provides information about London Premier League Clubs I can extract the clubs that won the English Premier League before the year 2010. Here are the answers: Arsenal\tChelsea\tTottenham Hotspur	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["27", "16", "13"], "retrieval_scores": [9.680219682379438, 8.549270150347215, 8.54050026995963]}
+A question outside of the Champions League context! According to my knowledge the 'Old Firm' is a series of matches between Celtic and Rangers two major football clubs in Scotland. These derbies are considered some of the most intense and passionate in world football. So I'll provide the answer: A: Celtic\tRangers	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["11", "25", "42"], "retrieval_scores": [6.37110420917007, 6.180658973988451, 6.122078529705314]}
+1. Since there is no document provided about the procedure for conducting the coin toss before a football match, I can only answer that this information is not mentioned in the given context (Documents 1-3).	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["25", "39", "30"], "retrieval_scores": [8.459960316143775, 8.250322948503811, 3.943636004072523]}
+1. I apologize, but there is no mention of the "handball rule" in any of the provided documents. The documents only discuss penalty kicks, extra time, and penalty shootouts in knockout matches. Therefore, it's not possible to describe the steps involved in applying the handball rule in the penalty area.
+2. If you meant a different question or context, please feel free to ask!	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "25", "9"], "retrieval_scores": [6.412669587937774, 5.939045038852221, 4.600528005351252]}
+1. Q: Outline how goal-line technology works in modern football.
+2. A: 1. The goalkeeper must have at least part of one foot on or in line with the goal line when the penalty kick is taken.
+3. (Note: This is the only information provided about goal-line technology in the given context, which is related to VAR and its application in checking for goalkeeper and kicker infringements during penalty kicks.)	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["37", "39", "15"], "retrieval_scores": [9.157063989533077, 7.097775088971851, 4.808894863887646]}
+1. Since there is no mention of transfer bans in the provided context, I will not be able to provide an answer that explains the process of a team appealing against a transfer ban.
+2. Please note that the question does not match any information provided in the given documents. If you meant to ask a different question or clarify any specific aspect from the provided context, please feel free to rephrase your query!	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["50", "33", "10"], "retrieval_scores": [6.957366338090815, 5.228213963573199, 5.015284616618083]}
 A	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["31", "30", "3"], "retrieval_scores": [17.545062507606957, 16.377631147312346, 12.177225515102059]}
 B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["17", "45", "10"], "retrieval_scores": [26.767233191692114, 14.091083856306263, 12.965148257110998]}
 C	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["35", "41", "42"], "retrieval_scores": [12.017992675031797, 7.925041192348056, 5.919609176072879]}
-B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["42", "2", "44"], "retrieval_scores": [23.803486312084427, 10.59953762450633, 8.96023152779879]}
+D	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["42", "2", "44"], "retrieval_scores": [23.803486312084427, 10.59953762450633, 8.96023152779879]}
 B	{"model": "ollama/llama3", "backend": "ollama", "retrieved_doc_ids": ["40", "43", "7"], "retrieval_scores": [17.82694553109071, 12.350456050134214, 12.243322583912684]}

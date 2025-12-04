@@ -45,7 +45,7 @@ def generate_summary_report(eval_dir: str, output_file: str):
     
     eval_path = Path(eval_dir)
     
-    # Find all evaluation TSV files
+    # evaluation TSV files
     eval_files = list(eval_path.glob("*.tsv"))
     
     if not eval_files:
@@ -54,7 +54,7 @@ def generate_summary_report(eval_dir: str, output_file: str):
     
     print(f"Found {len(eval_files)} evaluation files")
     
-    # Collect results
+    # results
     results = {}
     
     for eval_file in eval_files:
@@ -67,29 +67,25 @@ def generate_summary_report(eval_dir: str, output_file: str):
             'averages': averages
         }
     
-    # Generate report
+    # report
     report_lines = []
     report_lines.append("="*80)
     report_lines.append("RAG SYSTEM EVALUATION SUMMARY")
     report_lines.append("="*80)
     report_lines.append("")
     
-    # Metric names (assuming consistent order)
     metric_names = ['LLM Judge (0-2)', 'Exact Match', 'F1 Score', 'Contains Match', 'ROUGE-L']
     
     report_lines.append(f"Total configurations evaluated: {len(results)}")
     report_lines.append("")
     
-    # Sort by configuration name
     sorted_configs = sorted(results.items())
     
-    # Overall comparison table
     report_lines.append("-"*80)
     report_lines.append("OVERALL SCORES BY CONFIGURATION")
     report_lines.append("-"*80)
     report_lines.append("")
     
-    # Header
     header = f"{'Configuration':<25}"
     for i, metric in enumerate(metric_names):
         if i < len(sorted_configs[0][1]['averages']):
@@ -97,7 +93,6 @@ def generate_summary_report(eval_dir: str, output_file: str):
     report_lines.append(header)
     report_lines.append("-"*80)
     
-    # Scores for each config
     for config_name, data in sorted_configs:
         row = f"{config_name:<25}"
         for score in data['averages']:
@@ -107,7 +102,6 @@ def generate_summary_report(eval_dir: str, output_file: str):
     report_lines.append("")
     report_lines.append("")
     
-    # Detailed breakdown per configuration
     report_lines.append("-"*80)
     report_lines.append("DETAILED RESULTS")
     report_lines.append("-"*80)
@@ -124,7 +118,6 @@ def generate_summary_report(eval_dir: str, output_file: str):
         
         report_lines.append("")
     
-    # Find best configuration per metric
     report_lines.append("-"*80)
     report_lines.append("BEST CONFIGURATION PER METRIC")
     report_lines.append("-"*80)
@@ -137,7 +130,6 @@ def generate_summary_report(eval_dir: str, output_file: str):
             if metric_idx < len(metric_names):
                 metric_name = metric_names[metric_idx]
                 
-                # Find best score for this metric
                 best_config = None
                 best_score = -1
                 
@@ -154,13 +146,12 @@ def generate_summary_report(eval_dir: str, output_file: str):
     report_lines.append("")
     report_lines.append("="*80)
     
-    # Write report
+    # report
     report_text = '\n'.join(report_lines)
     
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(report_text)
     
-    # Also print to console
     print(report_text)
 
 
